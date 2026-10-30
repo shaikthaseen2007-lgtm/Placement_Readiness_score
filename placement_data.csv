@@ -1,0 +1,1501 @@
+Student_ID,Branch,CGPA,Tenth_Percentage,Twelfth_Percentage,DSA_Problems_Solved,Projects_Count,Internships_Count,Hackathons_Participated,Certifications_Count,Aptitude_Test_Score,Soft_Skills_Rating,Backlogs,Readiness_Index,Placed,Company_Tier,CTC_Offered_LPA
+STU1000,Information Technology,5.55,71.4,80.1,13,0,0,1,3,86.8,3.1,0,21.9,0,Not Placed,0.0
+STU1001,Civil,9.86,73.9,84.8,53,1,2,3,2,63.3,3.9,0,61.0,0,Not Placed,0.0
+STU1002,Electronics & Comm,6.55,87.4,77.3,526,2,0,1,6,59.7,4.4,2,26.1,0,Not Placed,0.0
+STU1003,Information Technology,6.32,73.5,61.6,194,0,1,1,3,52.9,2.6,0,38.0,0,Not Placed,0.0
+STU1004,Computer Science,8.72,86.2,75.7,31,3,0,1,1,74.3,2.5,0,43.1,0,Not Placed,0.0
+STU1005,Computer Science,9.9,69.7,87.9,91,2,0,1,2,67.7,5.0,0,59.9,1,Tier 3 (Service/Mass Recruiter),7.29
+STU1006,Computer Science,9.05,89.6,77.0,35,1,1,2,2,76.0,3.4,1,35.5,0,Not Placed,0.0
+STU1007,Electrical & Electronics,8.31,70.9,77.5,43,2,0,1,2,85.9,3.7,0,41.9,0,Not Placed,0.0
+STU1008,Electronics & Comm,8.34,87.0,89.9,166,0,2,1,1,35.1,3.0,0,54.0,0,Not Placed,0.0
+STU1009,Electronics & Comm,8.57,87.6,72.9,162,5,2,1,1,78.1,3.8,0,67.4,1,Tier 2 (Tech Startup/Mid-Corp),10.75
+STU1010,Computer Science,8.48,75.7,64.6,34,3,1,0,1,64.5,4.2,0,53.5,0,Not Placed,0.0
+STU1011,Civil,8.05,87.2,78.4,210,3,2,2,1,76.1,3.7,0,72.5,1,Tier 2 (Tech Startup/Mid-Corp),9.22
+STU1012,Electrical & Electronics,7.89,84.3,75.2,74,0,0,2,2,56.6,4.7,0,41.3,0,Not Placed,0.0
+STU1013,Computer Science,7.74,77.2,70.3,63,4,0,2,2,85.5,3.3,0,53.8,0,Not Placed,0.0
+STU1014,Computer Science,7.12,72.9,78.2,92,6,0,2,2,79.7,3.3,0,50.6,1,Tier 3 (Service/Mass Recruiter),5.71
+STU1015,Computer Science,7.55,64.3,84.9,122,2,0,3,0,76.1,3.7,0,57.1,1,Tier 3 (Service/Mass Recruiter),6.84
+STU1016,Computer Science,6.28,85.1,79.9,108,3,0,2,2,75.4,3.8,2,5.9,0,Not Placed,0.0
+STU1017,Information Technology,7.71,67.9,83.1,87,2,2,2,5,58.2,3.7,0,55.9,0,Not Placed,0.0
+STU1018,Information Technology,6.91,82.9,98.1,92,3,0,1,2,57.6,2.6,0,38.9,0,Not Placed,0.0
+STU1019,Computer Science,6.81,79.6,76.6,25,2,0,3,2,76.5,3.7,1,19.0,0,Not Placed,0.0
+STU1020,Electronics & Comm,7.96,88.1,82.8,184,1,1,1,2,58.6,3.2,0,57.2,0,Not Placed,0.0
+STU1021,Computer Science,9.05,79.3,74.9,103,3,1,3,2,92.9,3.1,0,63.3,0,Not Placed,0.0
+STU1022,Computer Science,8.63,79.0,71.5,18,2,3,1,2,66.8,3.5,0,49.2,0,Not Placed,0.0
+STU1023,Information Technology,6.39,88.6,74.2,191,1,0,1,4,71.7,2.8,1,13.2,0,Not Placed,0.0
+STU1024,Information Technology,6.91,85.0,75.2,355,1,2,1,4,95.6,2.7,0,66.5,1,Tier 1 (Product/MNC),18.28
+STU1025,Electrical & Electronics,8.65,84.8,83.6,242,1,2,1,3,61.6,1.7,1,50.1,0,Not Placed,0.0
+STU1026,Computer Science,6.92,86.2,99.0,60,3,2,2,2,67.2,4.7,0,58.5,0,Not Placed,0.0
+STU1027,Information Technology,7.6,68.2,72.8,19,1,1,0,1,83.1,3.9,0,40.0,0,Not Placed,0.0
+STU1028,Information Technology,8.3,88.8,75.8,96,1,0,0,1,83.7,3.4,0,45.1,1,Tier 3 (Service/Mass Recruiter),5.64
+STU1029,Computer Science,6.93,87.5,79.4,15,3,0,3,2,61.7,3.0,3,0.0,0,Not Placed,0.0
+STU1030,Electronics & Comm,7.89,72.8,84.0,298,2,1,4,3,62.0,1.5,0,60.4,1,Tier 2 (Tech Startup/Mid-Corp),13.88
+STU1031,Computer Science,6.6,79.8,82.6,26,1,0,1,2,62.0,3.0,0,26.6,0,Not Placed,0.0
+STU1032,Computer Science,7.26,81.6,92.8,38,1,0,0,2,87.5,4.0,0,43.0,0,Not Placed,0.0
+STU1033,Mechanical,8.09,80.8,55.7,43,3,1,3,2,65.9,4.2,0,56.9,1,Tier 3 (Service/Mass Recruiter),4.85
+STU1034,Civil,6.37,85.0,56.1,39,3,1,0,4,65.7,3.9,0,41.2,0,Not Placed,0.0
+STU1035,Electrical & Electronics,8.2,94.9,75.0,130,2,0,0,4,64.1,3.6,0,43.0,0,Not Placed,0.0
+STU1036,Computer Science,7.78,91.7,91.0,80,4,2,1,4,78.7,4.4,0,60.7,1,Tier 3 (Service/Mass Recruiter),5.07
+STU1037,Computer Science,8.3,70.2,64.3,24,1,2,1,4,72.6,3.3,0,40.8,1,Tier 3 (Service/Mass Recruiter),6.23
+STU1038,Electronics & Comm,8.0,87.6,50.0,34,1,3,3,1,55.5,4.3,1,39.5,0,Not Placed,0.0
+STU1039,Information Technology,9.03,94.0,85.7,93,2,0,0,1,59.0,3.2,4,0.0,0,Not Placed,0.0
+STU1040,Computer Science,7.91,85.5,82.4,21,1,2,2,0,41.3,2.9,0,38.6,0,Not Placed,0.0
+STU1041,Information Technology,7.41,91.8,69.1,124,1,1,1,1,56.1,2.8,0,51.4,1,Tier 3 (Service/Mass Recruiter),7.22
+STU1042,Computer Science,7.91,99.0,70.1,110,3,0,2,2,80.3,2.8,0,44.4,1,Tier 3 (Service/Mass Recruiter),5.28
+STU1043,Mechanical,8.29,91.2,70.3,103,5,1,0,4,88.9,4.0,0,64.4,1,Tier 3 (Service/Mass Recruiter),6.08
+STU1044,Computer Science,7.84,84.2,81.1,366,1,2,1,2,78.6,3.0,0,75.8,1,Tier 1 (Product/MNC),29.75
+STU1045,Electronics & Comm,7.84,91.4,73.7,267,3,2,2,2,76.8,2.8,0,65.4,1,Tier 2 (Tech Startup/Mid-Corp),15.68
+STU1046,Computer Science,7.17,83.3,84.9,385,4,1,1,4,65.2,4.0,2,37.9,0,Not Placed,0.0
+STU1047,Information Technology,7.2,82.2,51.5,37,2,0,0,1,78.0,3.7,0,32.2,0,Not Placed,0.0
+STU1048,Information Technology,6.54,78.8,71.4,18,0,0,3,1,69.1,4.2,0,23.4,0,Not Placed,0.0
+STU1049,Computer Science,9.37,96.1,68.7,47,3,2,0,3,98.9,3.9,0,60.7,1,Tier 3 (Service/Mass Recruiter),5.18
+STU1050,Civil,6.68,74.6,77.4,186,2,0,0,1,64.2,3.0,0,41.0,0,Not Placed,0.0
+STU1051,Electronics & Comm,7.18,95.8,74.6,393,4,0,2,2,85.8,3.6,2,40.6,0,Not Placed,0.0
+STU1052,Mechanical,7.15,86.5,88.0,161,3,0,0,1,79.2,3.6,0,50.1,0,Not Placed,0.0
+STU1053,Mechanical,8.61,69.4,61.4,9,4,2,0,0,81.6,2.9,3,1.8,0,Not Placed,0.0
+STU1054,Information Technology,7.53,85.3,80.5,388,4,0,1,4,39.9,2.7,0,60.7,1,Tier 2 (Tech Startup/Mid-Corp),12.67
+STU1055,Mechanical,8.92,63.1,85.6,45,2,2,5,1,85.3,3.0,0,58.9,1,Tier 3 (Service/Mass Recruiter),7.48
+STU1056,Computer Science,7.19,87.6,98.6,1,2,2,1,2,65.3,4.9,4,0.0,0,Not Placed,0.0
+STU1057,Computer Science,8.05,90.0,75.2,77,1,1,0,0,63.4,3.2,0,40.0,0,Not Placed,0.0
+STU1058,Computer Science,7.05,76.7,83.2,6,5,0,0,1,45.9,4.4,0,36.5,0,Not Placed,0.0
+STU1059,Computer Science,9.73,83.1,62.0,103,0,2,1,1,74.6,3.2,1,43.3,1,Tier 3 (Service/Mass Recruiter),8.25
+STU1060,Information Technology,6.73,99.0,56.1,54,4,0,0,0,66.2,4.1,0,38.9,0,Not Placed,0.0
+STU1061,Computer Science,8.08,77.4,88.4,84,3,0,2,0,51.5,4.1,0,48.1,1,Tier 3 (Service/Mass Recruiter),6.67
+STU1062,Electrical & Electronics,8.37,72.5,79.9,78,2,0,1,4,50.0,4.2,0,49.1,0,Not Placed,0.0
+STU1063,Information Technology,8.17,95.3,91.8,268,2,1,0,1,76.8,3.8,0,63.4,1,Tier 2 (Tech Startup/Mid-Corp),11.95
+STU1064,Computer Science,7.63,99.0,66.3,143,2,0,1,0,80.6,4.5,0,47.5,0,Not Placed,0.0
+STU1065,Information Technology,7.68,82.0,85.2,75,5,1,4,0,71.2,3.8,2,23.0,0,Not Placed,0.0
+STU1066,Computer Science,7.84,91.1,98.7,225,1,2,0,4,85.1,4.7,0,67.3,0,Not Placed,0.0
+STU1067,Electrical & Electronics,7.67,94.1,84.2,194,3,1,1,4,67.3,2.4,0,57.8,1,Tier 3 (Service/Mass Recruiter),5.58
+STU1068,Computer Science,8.67,75.3,82.8,16,1,3,0,2,70.7,3.7,0,57.3,0,Not Placed,0.0
+STU1069,Civil,9.79,77.6,80.1,62,1,2,0,2,62.0,3.7,0,59.8,1,Tier 3 (Service/Mass Recruiter),6.24
+STU1070,Electronics & Comm,7.3,93.1,64.3,36,6,0,1,1,45.6,2.8,0,42.7,1,Tier 3 (Service/Mass Recruiter),6.05
+STU1071,Computer Science,6.57,97.2,93.6,6,7,1,0,1,91.2,3.9,0,58.9,1,Tier 3 (Service/Mass Recruiter),6.19
+STU1072,Computer Science,7.72,87.1,73.9,145,1,0,2,1,84.5,2.5,1,25.7,0,Not Placed,0.0
+STU1073,Electrical & Electronics,9.9,74.1,85.0,163,4,3,1,5,55.7,3.0,0,68.0,0,Not Placed,0.0
+STU1074,Electronics & Comm,7.08,99.0,64.4,19,0,1,0,0,68.9,2.1,0,35.6,0,Not Placed,0.0
+STU1075,Electronics & Comm,9.28,77.2,68.2,184,2,2,0,5,71.9,4.6,0,70.9,1,Tier 2 (Tech Startup/Mid-Corp),16.79
+STU1076,Electronics & Comm,9.31,79.0,94.4,211,2,1,2,1,69.6,3.3,0,71.3,1,Tier 2 (Tech Startup/Mid-Corp),13.6
+STU1077,Computer Science,7.3,85.1,76.5,324,2,2,2,1,61.7,5.0,1,56.7,1,Tier 3 (Service/Mass Recruiter),6.41
+STU1078,Information Technology,8.31,96.0,94.5,40,1,1,1,0,75.8,4.1,0,54.6,0,Not Placed,0.0
+STU1079,Computer Science,9.27,89.7,79.2,309,3,2,0,1,84.8,3.8,0,77.8,1,Tier 1 (Product/MNC),45.44
+STU1080,Electrical & Electronics,7.46,85.7,61.6,31,3,1,3,2,73.5,3.1,0,54.8,0,Not Placed,0.0
+STU1081,Electronics & Comm,7.62,86.2,88.9,88,4,3,2,2,66.7,2.8,0,59.0,1,Tier 3 (Service/Mass Recruiter),7.19
+STU1082,Computer Science,7.28,82.4,74.1,6,4,1,2,0,65.1,3.9,4,0.0,0,Not Placed,0.0
+STU1083,Computer Science,6.89,87.0,87.0,5,1,1,3,3,79.3,3.4,0,44.6,1,Tier 3 (Service/Mass Recruiter),6.21
+STU1084,Computer Science,7.22,59.2,80.3,168,2,0,2,3,73.6,2.6,0,48.6,1,Tier 3 (Service/Mass Recruiter),6.12
+STU1085,Computer Science,6.7,79.3,64.6,77,4,1,2,3,66.6,2.4,0,44.4,0,Not Placed,0.0
+STU1086,Electronics & Comm,7.83,84.2,81.6,32,2,0,3,1,68.5,2.8,0,35.8,1,Tier 3 (Service/Mass Recruiter),6.03
+STU1087,Electronics & Comm,7.11,71.6,99.0,23,5,0,1,1,71.7,4.8,0,43.0,1,Tier 3 (Service/Mass Recruiter),4.63
+STU1088,Mechanical,8.01,85.5,84.9,91,1,2,2,2,63.0,5.0,2,24.9,0,Not Placed,0.0
+STU1089,Information Technology,6.4,80.2,79.4,0,1,0,0,0,76.2,3.6,0,32.6,0,Not Placed,0.0
+STU1090,Computer Science,8.1,97.8,90.8,216,2,3,1,2,54.7,3.6,1,47.7,0,Not Placed,0.0
+STU1091,Electronics & Comm,8.55,96.2,82.1,9,4,0,2,2,65.4,3.3,0,51.6,1,Tier 3 (Service/Mass Recruiter),5.02
+STU1092,Electronics & Comm,6.01,77.8,82.1,23,2,0,2,1,72.1,2.8,1,18.1,0,Not Placed,0.0
+STU1093,Information Technology,8.14,80.6,69.1,64,5,1,0,0,54.0,4.5,0,55.2,1,Tier 3 (Service/Mass Recruiter),6.01
+STU1094,Electronics & Comm,8.9,81.3,82.3,72,1,2,3,3,50.2,4.8,0,57.7,1,Tier 3 (Service/Mass Recruiter),5.27
+STU1095,Information Technology,6.71,77.9,90.4,57,2,0,0,2,66.5,2.9,2,0.0,0,Not Placed,0.0
+STU1096,Information Technology,9.31,83.8,71.6,51,2,2,0,1,49.7,3.4,0,56.3,0,Not Placed,0.0
+STU1097,Information Technology,8.18,75.2,94.2,438,6,1,0,1,51.8,3.2,0,81.5,1,Tier 1 (Product/MNC),35.74
+STU1098,Computer Science,7.17,71.8,79.1,135,3,1,1,1,77.6,3.2,1,38.5,0,Not Placed,0.0
+STU1099,Computer Science,7.75,87.6,71.1,3,2,0,1,0,65.9,4.3,0,34.9,1,Tier 3 (Service/Mass Recruiter),6.37
+STU1100,Computer Science,8.3,87.7,90.0,74,0,0,2,3,88.4,2.6,0,43.1,0,Not Placed,0.0
+STU1101,Electronics & Comm,7.87,74.8,77.1,228,1,0,1,3,52.2,3.8,1,26.8,0,Not Placed,0.0
+STU1102,Computer Science,8.28,90.1,87.6,47,2,1,0,2,69.0,4.0,4,0.0,0,Not Placed,0.0
+STU1103,Information Technology,6.97,76.3,77.1,13,3,1,1,2,72.0,3.4,1,23.7,0,Not Placed,0.0
+STU1104,Mechanical,7.95,84.3,79.4,117,2,2,3,1,53.0,4.1,0,61.1,1,Tier 3 (Service/Mass Recruiter),6.06
+STU1105,Computer Science,6.53,89.4,84.9,122,1,0,1,6,79.5,3.6,0,35.4,0,Not Placed,0.0
+STU1106,Information Technology,7.7,81.7,82.9,111,4,1,2,1,75.7,4.4,0,66.0,1,Tier 3 (Service/Mass Recruiter),4.4
+STU1107,Electronics & Comm,6.99,86.1,60.0,6,3,1,3,3,43.9,2.4,0,34.4,0,Not Placed,0.0
+STU1108,Computer Science,7.14,77.4,68.8,19,3,0,2,1,66.4,3.3,1,25.1,0,Not Placed,0.0
+STU1109,Computer Science,8.91,80.2,89.3,128,2,2,1,2,77.6,3.4,0,64.7,1,Tier 2 (Tech Startup/Mid-Corp),10.26
+STU1110,Computer Science,8.78,80.1,78.7,30,1,2,0,1,63.6,1.6,0,45.0,1,Tier 3 (Service/Mass Recruiter),5.08
+STU1111,Computer Science,8.35,75.3,74.8,92,5,0,4,0,49.8,2.7,0,54.6,1,Tier 3 (Service/Mass Recruiter),5.03
+STU1112,Mechanical,6.82,80.4,66.4,64,0,0,0,2,69.8,2.9,3,0.0,0,Not Placed,0.0
+STU1113,Electrical & Electronics,7.52,68.1,69.2,27,4,0,1,1,99.0,4.2,0,55.1,0,Not Placed,0.0
+STU1114,Electronics & Comm,8.89,77.6,59.8,326,1,1,2,2,66.8,3.0,3,17.4,0,Not Placed,0.0
+STU1115,Electrical & Electronics,7.93,79.4,79.0,152,5,0,0,1,91.3,2.9,2,16.5,0,Not Placed,0.0
+STU1116,Electrical & Electronics,9.89,79.7,74.0,105,2,3,3,3,64.6,4.1,2,32.2,0,Not Placed,0.0
+STU1117,Computer Science,8.15,79.8,70.3,10,3,1,1,1,73.0,2.4,2,10.4,0,Not Placed,0.0
+STU1118,Mechanical,7.97,81.4,79.3,9,5,0,0,2,80.2,2.1,2,10.9,0,Not Placed,0.0
+STU1119,Information Technology,7.52,86.3,83.6,89,1,0,1,3,67.9,3.2,1,20.8,0,Not Placed,0.0
+STU1120,Electrical & Electronics,7.92,89.9,99.0,14,3,2,0,6,65.1,2.5,0,44.7,0,Not Placed,0.0
+STU1121,Mechanical,7.66,76.2,64.9,315,1,0,1,4,78.7,2.5,0,58.8,1,Tier 3 (Service/Mass Recruiter),7.43
+STU1122,Computer Science,8.44,71.2,91.6,22,3,2,0,2,97.3,3.9,0,61.8,1,Tier 3 (Service/Mass Recruiter),5.68
+STU1123,Computer Science,8.66,72.6,89.7,88,0,1,2,2,75.7,4.1,0,48.8,0,Not Placed,0.0
+STU1124,Computer Science,7.09,77.6,72.2,59,4,1,1,0,59.6,4.1,0,50.5,0,Not Placed,0.0
+STU1125,Information Technology,6.6,78.8,82.0,134,1,0,1,2,62.6,4.3,0,39.8,0,Not Placed,0.0
+STU1126,Electrical & Electronics,6.15,75.1,75.4,11,3,0,1,4,99.2,4.4,2,2.9,0,Not Placed,0.0
+STU1127,Electrical & Electronics,8.26,70.3,81.9,46,2,2,1,1,72.2,2.0,0,58.5,0,Not Placed,0.0
+STU1128,Computer Science,6.81,77.9,95.1,42,2,0,1,2,57.6,3.8,0,35.3,0,Not Placed,0.0
+STU1129,Information Technology,5.86,83.6,86.1,288,5,0,0,1,47.1,3.1,1,36.3,0,Not Placed,0.0
+STU1130,Information Technology,8.15,87.4,85.1,5,7,1,1,3,44.4,3.0,0,50.8,1,Tier 3 (Service/Mass Recruiter),5.39
+STU1131,Computer Science,9.9,77.0,75.7,323,5,0,1,4,80.3,3.9,0,78.0,1,Tier 1 (Product/MNC),24.39
+STU1132,Computer Science,7.79,78.3,65.2,236,4,2,2,1,78.0,2.3,2,23.5,0,Not Placed,0.0
+STU1133,Computer Science,8.55,73.7,77.9,46,4,3,0,1,65.6,2.3,0,57.8,1,Tier 3 (Service/Mass Recruiter),6.65
+STU1134,Mechanical,7.87,81.7,92.1,128,2,1,3,2,68.9,3.9,0,53.7,0,Not Placed,0.0
+STU1135,Computer Science,7.71,74.4,64.7,4,4,1,1,3,52.2,3.8,0,39.2,0,Not Placed,0.0
+STU1136,Information Technology,8.63,87.2,69.4,449,3,2,0,1,73.2,3.6,0,87.3,1,Tier 1 (Product/MNC),38.7
+STU1137,Electronics & Comm,7.54,65.9,81.3,82,1,2,1,3,74.9,2.9,1,27.9,0,Not Placed,0.0
+STU1138,Information Technology,8.04,78.8,70.2,47,2,3,1,5,62.1,4.0,0,52.6,0,Not Placed,0.0
+STU1139,Civil,8.09,84.7,72.1,37,6,1,3,4,93.4,4.0,3,13.7,0,Not Placed,0.0
+STU1140,Civil,7.2,83.7,75.8,5,4,1,2,1,55.4,3.6,0,38.3,0,Not Placed,0.0
+STU1141,Computer Science,8.69,99.0,66.3,599,1,1,0,2,75.5,2.7,0,67.9,1,Tier 1 (Product/MNC),27.94
+STU1142,Information Technology,7.64,85.1,70.3,5,2,1,0,1,80.3,3.2,2,4.3,0,Not Placed,0.0
+STU1143,Computer Science,7.12,73.0,87.0,140,0,0,2,2,65.8,4.1,2,7.4,0,Not Placed,0.0
+STU1144,Computer Science,8.28,81.1,66.9,77,1,1,2,1,67.7,4.4,0,49.7,1,Tier 3 (Service/Mass Recruiter),7.45
+STU1145,Computer Science,6.99,66.0,64.0,392,3,2,1,1,46.5,3.3,0,66.8,1,Tier 1 (Product/MNC),38.72
+STU1146,Electronics & Comm,7.83,81.3,73.7,31,2,0,0,5,88.0,3.3,1,30.0,0,Not Placed,0.0
+STU1147,Information Technology,7.79,74.5,87.3,100,4,1,0,1,66.5,3.4,0,53.8,1,Tier 3 (Service/Mass Recruiter),5.05
+STU1148,Computer Science,8.78,90.2,78.0,86,3,2,0,3,79.4,3.7,0,63.9,0,Not Placed,0.0
+STU1149,Computer Science,8.23,77.1,75.4,160,3,0,0,3,79.6,3.1,1,35.4,1,Tier 3 (Service/Mass Recruiter),6.05
+STU1150,Mechanical,7.78,80.9,80.4,5,6,0,1,4,60.0,1.5,0,42.7,0,Not Placed,0.0
+STU1151,Computer Science,8.54,76.3,62.5,28,2,1,0,6,68.3,4.3,0,53.0,1,Tier 3 (Service/Mass Recruiter),6.08
+STU1152,Computer Science,9.05,97.6,84.9,31,6,2,0,2,91.3,4.8,0,61.7,1,Tier 3 (Service/Mass Recruiter),5.94
+STU1153,Information Technology,8.3,79.1,83.8,176,1,2,2,4,54.8,3.1,2,25.1,0,Not Placed,0.0
+STU1154,Civil,7.81,98.5,75.9,17,4,3,0,2,98.7,2.8,0,57.5,1,Tier 3 (Service/Mass Recruiter),6.94
+STU1155,Computer Science,6.62,89.3,90.1,112,1,0,1,2,54.9,3.4,1,25.0,0,Not Placed,0.0
+STU1156,Electronics & Comm,6.84,86.3,68.7,26,4,0,0,2,49.5,3.4,0,43.1,0,Not Placed,0.0
+STU1157,Electronics & Comm,7.53,85.3,91.3,217,4,1,5,1,69.9,4.2,0,67.7,1,Tier 2 (Tech Startup/Mid-Corp),9.0
+STU1158,Computer Science,7.25,85.5,81.5,376,4,1,1,1,98.2,3.5,0,82.2,1,Tier 1 (Product/MNC),29.06
+STU1159,Electronics & Comm,7.63,64.7,76.6,80,1,0,1,6,41.6,2.9,0,25.8,0,Not Placed,0.0
+STU1160,Information Technology,7.85,79.5,79.8,57,4,0,1,2,67.1,2.6,0,51.4,1,Tier 3 (Service/Mass Recruiter),5.71
+STU1161,Electronics & Comm,8.28,89.6,78.9,29,4,1,1,1,77.0,4.1,0,52.0,0,Not Placed,0.0
+STU1162,Electronics & Comm,7.74,81.6,92.2,5,1,2,1,1,69.2,3.9,0,45.8,0,Not Placed,0.0
+STU1163,Information Technology,8.24,69.4,69.2,41,2,1,3,6,75.6,4.2,1,38.8,0,Not Placed,0.0
+STU1164,Computer Science,7.86,81.5,72.4,140,2,1,1,4,59.0,2.8,0,50.4,0,Not Placed,0.0
+STU1165,Electrical & Electronics,6.02,97.3,90.4,62,2,1,0,2,55.2,4.8,1,21.1,0,Not Placed,0.0
+STU1166,Computer Science,6.95,93.2,74.0,380,4,1,2,1,64.3,2.3,0,76.5,1,Tier 1 (Product/MNC),29.9
+STU1167,Computer Science,7.67,81.4,89.0,66,0,1,0,2,52.7,4.0,0,38.8,0,Not Placed,0.0
+STU1168,Computer Science,6.71,90.6,97.0,156,2,0,1,0,65.0,2.2,0,37.0,0,Not Placed,0.0
+STU1169,Information Technology,8.34,78.7,76.0,88,2,3,1,0,65.1,2.9,0,65.4,1,Tier 3 (Service/Mass Recruiter),7.29
+STU1170,Electronics & Comm,9.18,66.7,86.8,79,3,1,1,5,66.5,4.6,0,62.7,1,Tier 3 (Service/Mass Recruiter),5.57
+STU1171,Computer Science,8.9,73.7,68.5,41,2,0,0,0,76.7,4.1,0,55.9,1,Tier 3 (Service/Mass Recruiter),5.09
+STU1172,Information Technology,7.61,96.1,87.5,80,0,1,2,0,42.8,3.1,0,44.5,0,Not Placed,0.0
+STU1173,Computer Science,9.14,79.5,82.0,83,3,1,0,4,69.7,3.1,0,50.6,0,Not Placed,0.0
+STU1174,Electronics & Comm,7.93,79.8,84.7,134,5,1,0,1,100.0,3.6,3,12.2,0,Not Placed,0.0
+STU1175,Computer Science,7.5,79.3,73.5,372,4,0,2,2,52.8,3.9,1,47.9,1,Tier 3 (Service/Mass Recruiter),6.18
+STU1176,Electronics & Comm,7.25,99.0,63.4,43,4,1,3,3,85.2,4.4,0,55.8,1,Tier 3 (Service/Mass Recruiter),4.66
+STU1177,Information Technology,7.53,96.6,85.0,5,3,0,0,3,68.8,3.2,2,1.2,0,Not Placed,0.0
+STU1178,Mechanical,7.45,99.0,59.4,56,2,1,0,2,59.4,2.4,0,33.4,0,Not Placed,0.0
+STU1179,Computer Science,7.95,80.6,76.8,103,2,0,3,5,50.9,3.6,1,27.3,0,Not Placed,0.0
+STU1180,Computer Science,7.94,84.7,89.4,24,2,2,0,3,71.3,3.2,0,57.0,1,Tier 3 (Service/Mass Recruiter),4.62
+STU1181,Computer Science,7.8,68.4,81.9,188,2,0,0,0,89.3,2.6,0,53.0,1,Tier 3 (Service/Mass Recruiter),5.69
+STU1182,Mechanical,8.19,95.3,99.0,346,4,2,1,5,64.6,3.7,0,77.8,1,Tier 1 (Product/MNC),25.56
+STU1183,Electrical & Electronics,8.87,71.5,90.3,240,3,1,0,2,71.0,3.4,0,74.3,0,Not Placed,0.0
+STU1184,Computer Science,8.65,84.0,73.5,28,3,1,1,3,85.6,3.7,0,53.3,1,Tier 3 (Service/Mass Recruiter),5.82
+STU1185,Electronics & Comm,6.46,72.1,80.3,229,5,0,1,1,69.7,2.9,0,54.1,1,Tier 3 (Service/Mass Recruiter),4.62
+STU1186,Electrical & Electronics,5.5,76.7,79.5,100,3,0,3,2,40.0,3.8,0,41.1,0,Not Placed,0.0
+STU1187,Information Technology,8.64,74.5,64.2,79,5,1,4,0,72.8,2.6,0,57.6,1,Tier 3 (Service/Mass Recruiter),4.95
+STU1188,Information Technology,6.57,76.5,70.6,102,5,0,1,2,86.4,2.9,1,27.1,0,Not Placed,0.0
+STU1189,Computer Science,7.6,77.1,74.4,250,2,0,3,1,67.8,3.3,0,50.6,1,Tier 3 (Service/Mass Recruiter),6.03
+STU1190,Computer Science,6.75,77.1,59.6,86,0,2,1,2,30.0,4.7,1,20.1,0,Not Placed,0.0
+STU1191,Mechanical,6.18,89.5,80.5,38,4,0,1,3,69.5,4.0,0,35.5,0,Not Placed,0.0
+STU1192,Mechanical,8.29,72.1,77.5,56,3,2,1,2,67.6,4.3,0,58.9,1,Tier 3 (Service/Mass Recruiter),4.6
+STU1193,Electronics & Comm,8.48,84.0,63.3,95,2,1,0,2,45.3,4.5,0,48.5,0,Not Placed,0.0
+STU1194,Computer Science,7.28,93.0,84.0,27,4,1,2,1,43.8,5.0,2,21.4,0,Not Placed,0.0
+STU1195,Computer Science,5.47,77.4,87.2,305,0,0,1,2,75.6,3.5,0,42.6,0,Not Placed,0.0
+STU1196,Electronics & Comm,7.31,75.5,82.3,123,1,1,2,2,57.2,4.5,0,56.0,1,Tier 3 (Service/Mass Recruiter),7.22
+STU1197,Mechanical,8.15,79.9,76.8,82,2,2,1,4,57.3,4.2,0,56.6,1,Tier 3 (Service/Mass Recruiter),5.55
+STU1198,Mechanical,6.47,92.6,85.9,8,2,0,3,1,64.4,4.2,0,40.6,0,Not Placed,0.0
+STU1199,Electronics & Comm,7.97,83.7,86.8,101,2,0,1,3,60.4,4.7,0,51.9,1,Tier 3 (Service/Mass Recruiter),6.61
+STU1200,Electronics & Comm,7.79,77.2,83.1,14,4,1,2,1,70.3,3.2,0,41.1,0,Not Placed,0.0
+STU1201,Computer Science,8.32,86.4,71.8,10,5,1,1,2,67.6,3.2,1,34.1,1,Tier 3 (Service/Mass Recruiter),7.12
+STU1202,Computer Science,7.91,72.1,82.8,98,0,0,0,2,52.4,3.7,1,19.6,0,Not Placed,0.0
+STU1203,Mechanical,6.92,88.1,92.0,42,0,0,0,0,59.1,3.4,2,0.0,0,Not Placed,0.0
+STU1204,Electronics & Comm,8.88,85.7,74.0,97,2,2,0,1,78.3,3.7,0,62.5,1,Tier 3 (Service/Mass Recruiter),5.64
+STU1205,Computer Science,7.66,79.2,99.0,12,3,1,0,3,69.1,4.6,0,53.4,1,Tier 3 (Service/Mass Recruiter),6.66
+STU1206,Computer Science,7.78,74.5,74.7,74,1,1,1,3,67.7,3.2,0,34.9,0,Not Placed,0.0
+STU1207,Electronics & Comm,6.96,74.0,80.3,21,2,0,0,2,93.5,3.3,2,0.0,0,Not Placed,0.0
+STU1208,Computer Science,7.4,86.8,73.3,574,1,0,1,1,77.9,3.6,0,61.4,1,Tier 2 (Tech Startup/Mid-Corp),14.64
+STU1209,Computer Science,7.0,93.1,82.2,108,2,0,1,1,78.4,3.3,0,44.3,0,Not Placed,0.0
+STU1210,Information Technology,7.64,76.3,62.6,153,1,1,2,0,66.1,2.2,2,12.8,0,Not Placed,0.0
+STU1211,Electronics & Comm,9.34,86.1,74.5,43,3,2,2,1,76.6,3.1,0,59.4,1,Tier 3 (Service/Mass Recruiter),5.71
+STU1212,Electronics & Comm,6.57,63.2,69.1,10,6,0,0,2,59.2,4.0,0,42.7,0,Not Placed,0.0
+STU1213,Computer Science,6.35,76.7,81.4,491,4,0,1,0,75.4,4.5,0,75.9,1,Tier 2 (Tech Startup/Mid-Corp),14.66
+STU1214,Electronics & Comm,9.12,81.7,89.9,37,2,2,1,3,71.3,2.7,0,66.3,1,Tier 3 (Service/Mass Recruiter),4.92
+STU1215,Computer Science,7.61,73.8,86.5,72,2,1,0,2,71.4,2.7,2,5.5,0,Not Placed,0.0
+STU1216,Computer Science,7.2,73.6,56.3,138,0,1,1,4,69.3,3.5,0,39.2,0,Not Placed,0.0
+STU1217,Electronics & Comm,8.74,76.0,99.0,2,2,2,0,1,71.5,2.0,0,50.0,1,Tier 3 (Service/Mass Recruiter),5.39
+STU1218,Electronics & Comm,7.25,84.6,83.0,182,2,1,0,4,100.0,3.2,0,62.8,1,Tier 2 (Tech Startup/Mid-Corp),14.05
+STU1219,Electrical & Electronics,9.44,80.3,72.2,63,0,2,0,2,64.5,2.3,0,54.4,0,Not Placed,0.0
+STU1220,Electronics & Comm,8.41,61.9,81.6,35,3,0,0,1,61.3,4.5,0,52.5,1,Tier 3 (Service/Mass Recruiter),5.19
+STU1221,Information Technology,7.36,62.9,81.8,8,2,0,1,5,77.3,3.0,0,36.3,1,Tier 3 (Service/Mass Recruiter),6.38
+STU1222,Computer Science,9.74,76.5,73.3,23,2,2,0,5,66.4,4.7,0,57.5,1,Tier 3 (Service/Mass Recruiter),7.83
+STU1223,Information Technology,7.25,86.1,82.0,297,3,1,0,2,63.2,4.3,0,64.7,1,Tier 2 (Tech Startup/Mid-Corp),15.48
+STU1224,Computer Science,8.47,57.3,73.9,152,1,1,3,2,55.7,3.0,1,37.1,0,Not Placed,0.0
+STU1225,Computer Science,8.07,77.5,76.0,37,7,0,2,3,76.6,2.7,0,56.9,0,Not Placed,0.0
+STU1226,Civil,8.97,77.3,73.1,5,3,1,5,3,79.5,3.4,1,44.1,0,Not Placed,0.0
+STU1227,Information Technology,9.21,94.5,65.7,154,5,1,1,2,68.7,3.4,0,72.4,1,Tier 2 (Tech Startup/Mid-Corp),13.94
+STU1228,Mechanical,7.83,78.5,81.5,70,1,2,1,3,79.0,3.7,0,55.2,1,Tier 3 (Service/Mass Recruiter),7.44
+STU1229,Electronics & Comm,7.12,85.4,85.9,57,4,1,1,2,40.9,3.0,3,0.0,0,Not Placed,0.0
+STU1230,Electrical & Electronics,8.21,83.3,85.1,37,1,2,1,0,60.2,4.0,0,53.7,1,Tier 3 (Service/Mass Recruiter),5.8
+STU1231,Information Technology,7.19,62.8,88.2,32,2,0,1,2,64.7,3.7,0,30.2,0,Not Placed,0.0
+STU1232,Information Technology,9.61,88.9,83.2,146,1,3,0,4,57.9,3.3,0,67.0,1,Tier 2 (Tech Startup/Mid-Corp),12.38
+STU1233,Information Technology,7.92,83.9,74.7,465,3,0,1,0,44.8,3.0,0,67.0,0,Not Placed,0.0
+STU1234,Computer Science,7.47,86.6,88.4,25,3,1,1,4,63.6,3.4,0,45.5,1,Tier 3 (Service/Mass Recruiter),5.83
+STU1235,Electronics & Comm,7.97,99.0,66.4,100,4,0,0,0,79.1,2.9,0,49.5,0,Not Placed,0.0
+STU1236,Computer Science,6.59,63.2,71.0,72,2,0,2,2,83.2,3.5,0,44.0,0,Not Placed,0.0
+STU1237,Computer Science,6.93,97.5,70.4,78,2,0,1,0,58.6,3.6,0,36.6,0,Not Placed,0.0
+STU1238,Electronics & Comm,8.88,79.4,90.8,32,3,2,0,1,82.4,3.7,1,45.0,0,Not Placed,0.0
+STU1239,Computer Science,7.21,84.6,89.4,230,3,1,1,2,76.0,4.7,0,65.7,1,Tier 2 (Tech Startup/Mid-Corp),12.95
+STU1240,Mechanical,6.86,81.6,84.9,54,3,0,2,1,83.1,3.4,0,44.7,1,Tier 3 (Service/Mass Recruiter),5.41
+STU1241,Civil,8.28,78.2,90.7,64,2,1,1,4,65.4,4.2,0,48.9,0,Not Placed,0.0
+STU1242,Mechanical,8.87,76.9,71.2,29,2,1,1,2,46.9,3.7,0,51.2,0,Not Placed,0.0
+STU1243,Information Technology,8.45,85.0,83.5,26,4,0,0,0,71.8,3.3,0,47.4,0,Not Placed,0.0
+STU1244,Computer Science,8.7,68.3,78.7,11,2,2,2,1,57.4,3.4,0,50.0,0,Not Placed,0.0
+STU1245,Mechanical,7.12,88.8,88.5,103,2,1,1,4,56.7,3.5,0,45.5,1,Tier 3 (Service/Mass Recruiter),5.86
+STU1246,Information Technology,6.52,78.3,78.8,28,2,1,2,6,60.8,3.7,1,24.6,0,Not Placed,0.0
+STU1247,Civil,9.15,71.8,76.2,96,1,1,0,1,68.2,2.8,1,35.8,0,Not Placed,0.0
+STU1248,Civil,7.51,77.9,85.4,40,0,0,1,3,70.0,2.5,0,35.7,0,Not Placed,0.0
+STU1249,Electrical & Electronics,7.57,93.3,88.8,44,2,1,1,2,78.1,4.0,1,30.4,0,Not Placed,0.0
+STU1250,Computer Science,9.0,77.2,73.3,83,5,3,1,0,67.3,4.1,0,68.3,1,Tier 3 (Service/Mass Recruiter),6.13
+STU1251,Information Technology,8.3,85.2,79.4,60,4,1,1,4,75.9,4.0,0,61.9,1,Tier 3 (Service/Mass Recruiter),6.2
+STU1252,Electrical & Electronics,8.21,75.4,69.4,8,3,0,3,3,70.3,3.6,3,0.0,0,Not Placed,0.0
+STU1253,Computer Science,9.75,88.8,55.0,48,5,2,2,0,87.8,4.0,0,65.9,1,Tier 3 (Service/Mass Recruiter),8.15
+STU1254,Computer Science,7.22,88.2,82.0,143,0,1,0,0,64.5,4.0,0,41.4,0,Not Placed,0.0
+STU1255,Information Technology,8.64,98.6,86.1,144,0,1,4,2,70.3,4.1,0,58.8,0,Not Placed,0.0
+STU1256,Mechanical,7.85,80.4,82.6,27,3,1,2,3,63.8,2.9,2,19.2,0,Not Placed,0.0
+STU1257,Electronics & Comm,8.04,88.0,60.5,67,0,1,2,2,67.4,2.7,0,46.1,1,Tier 3 (Service/Mass Recruiter),6.02
+STU1258,Information Technology,9.18,82.9,76.5,28,1,2,2,2,62.1,3.2,0,63.3,1,Tier 3 (Service/Mass Recruiter),5.68
+STU1259,Computer Science,8.26,93.7,57.8,31,1,3,1,1,57.9,3.5,0,52.6,0,Not Placed,0.0
+STU1260,Electronics & Comm,8.28,75.5,93.7,2,3,1,3,3,81.2,3.3,0,52.1,1,Tier 3 (Service/Mass Recruiter),6.94
+STU1261,Civil,8.77,88.7,69.1,187,3,2,0,3,56.6,2.2,0,61.8,1,Tier 2 (Tech Startup/Mid-Corp),12.32
+STU1262,Computer Science,7.47,80.2,92.6,31,2,1,0,1,63.4,4.7,1,25.9,0,Not Placed,0.0
+STU1263,Information Technology,7.04,81.4,89.5,34,2,0,1,1,80.8,3.3,0,35.9,0,Not Placed,0.0
+STU1264,Electrical & Electronics,6.86,82.8,71.0,27,2,0,1,2,61.1,3.6,0,30.7,0,Not Placed,0.0
+STU1265,Electronics & Comm,6.03,84.3,68.7,14,0,0,1,3,75.2,4.4,1,13.8,0,Not Placed,0.0
+STU1266,Electronics & Comm,9.65,81.0,83.5,112,2,3,1,2,66.2,1.9,0,68.3,1,Tier 3 (Service/Mass Recruiter),7.67
+STU1267,Electronics & Comm,6.81,83.9,71.6,8,4,0,0,2,51.2,3.1,0,43.3,0,Not Placed,0.0
+STU1268,Information Technology,7.6,96.2,81.0,19,4,0,1,1,46.0,3.2,0,37.8,0,Not Placed,0.0
+STU1269,Computer Science,7.55,90.9,75.2,136,5,1,1,4,86.5,3.3,1,41.5,0,Not Placed,0.0
+STU1270,Electrical & Electronics,8.08,89.8,62.2,34,1,2,5,1,53.8,3.4,0,49.0,0,Not Placed,0.0
+STU1271,Electrical & Electronics,8.53,77.9,57.7,101,3,1,1,0,81.6,4.5,0,65.6,1,Tier 3 (Service/Mass Recruiter),4.8
+STU1272,Electrical & Electronics,8.57,74.0,82.3,67,2,1,2,3,57.2,4.0,0,56.7,0,Not Placed,0.0
+STU1273,Mechanical,7.28,90.6,74.4,24,1,2,2,0,85.8,4.2,0,47.3,0,Not Placed,0.0
+STU1274,Information Technology,7.65,89.9,74.5,138,1,1,2,2,99.3,3.5,0,53.6,0,Not Placed,0.0
+STU1275,Information Technology,8.05,95.3,87.0,16,2,2,2,3,46.1,2.5,0,50.2,0,Not Placed,0.0
+STU1276,Electrical & Electronics,7.58,76.6,91.7,63,1,1,1,3,53.0,2.0,0,40.5,0,Not Placed,0.0
+STU1277,Electronics & Comm,9.25,79.9,77.3,63,1,1,2,3,84.1,2.4,0,57.7,1,Tier 3 (Service/Mass Recruiter),5.96
+STU1278,Electronics & Comm,8.24,67.2,76.6,34,2,1,0,1,77.4,3.8,0,44.7,0,Not Placed,0.0
+STU1279,Electrical & Electronics,8.46,78.5,85.0,76,1,2,1,2,81.8,3.5,0,49.2,1,Tier 3 (Service/Mass Recruiter),4.89
+STU1280,Mechanical,8.4,91.0,66.4,169,4,2,2,2,62.7,3.4,1,43.6,0,Not Placed,0.0
+STU1281,Computer Science,8.86,77.8,82.2,650,1,0,1,0,99.9,3.2,3,24.8,0,Not Placed,0.0
+STU1282,Information Technology,7.96,87.8,85.5,123,1,0,3,0,71.0,4.9,0,62.5,0,Not Placed,0.0
+STU1283,Computer Science,6.63,80.3,86.8,68,3,1,4,2,48.4,2.9,0,43.8,0,Not Placed,0.0
+STU1284,Information Technology,8.16,84.9,60.6,33,3,1,2,2,66.4,4.1,0,61.9,1,Tier 3 (Service/Mass Recruiter),4.74
+STU1285,Computer Science,7.21,71.7,72.4,39,1,1,1,3,50.3,3.5,0,41.7,1,Tier 3 (Service/Mass Recruiter),6.19
+STU1286,Information Technology,7.32,82.8,71.2,86,2,0,0,3,89.7,3.5,0,38.6,0,Not Placed,0.0
+STU1287,Information Technology,8.33,55.1,81.0,60,3,0,0,1,61.2,4.3,0,48.0,0,Not Placed,0.0
+STU1288,Computer Science,8.91,80.3,84.8,323,2,3,0,2,79.1,4.5,1,69.8,1,Tier 2 (Tech Startup/Mid-Corp),12.88
+STU1289,Information Technology,7.82,67.3,95.0,60,3,0,1,1,62.4,3.3,1,16.5,1,Tier 3 (Service/Mass Recruiter),7.12
+STU1290,Computer Science,8.08,92.9,75.1,61,3,0,0,1,61.1,4.1,0,47.9,0,Not Placed,0.0
+STU1291,Computer Science,9.33,89.0,75.0,63,3,2,0,0,46.8,3.8,0,62.6,1,Tier 3 (Service/Mass Recruiter),6.59
+STU1292,Electrical & Electronics,8.02,86.2,91.5,149,2,1,0,3,77.9,3.5,0,56.8,0,Not Placed,0.0
+STU1293,Information Technology,9.9,95.7,83.0,138,5,0,0,2,93.4,3.6,0,68.2,1,Tier 2 (Tech Startup/Mid-Corp),13.34
+STU1294,Computer Science,8.31,73.5,92.7,125,3,1,4,2,57.6,3.0,1,41.1,0,Not Placed,0.0
+STU1295,Information Technology,6.22,97.7,82.9,53,4,0,0,0,42.5,3.3,0,32.0,0,Not Placed,0.0
+STU1296,Electronics & Comm,8.48,90.4,68.4,187,1,1,0,3,82.2,3.1,0,53.1,0,Not Placed,0.0
+STU1297,Computer Science,8.14,79.9,66.7,5,0,1,1,2,46.9,4.1,1,18.6,0,Not Placed,0.0
+STU1298,Electronics & Comm,8.96,92.2,64.5,225,3,2,1,3,89.5,3.4,0,74.0,1,Tier 2 (Tech Startup/Mid-Corp),15.62
+STU1299,Computer Science,8.41,72.0,86.6,94,2,0,0,2,58.1,2.6,0,43.8,1,Tier 3 (Service/Mass Recruiter),6.56
+STU1300,Computer Science,7.68,74.6,91.9,67,2,0,5,5,53.1,3.0,0,44.6,1,Tier 3 (Service/Mass Recruiter),6.83
+STU1301,Information Technology,6.7,76.5,98.5,90,1,0,1,3,69.1,1.3,2,0.0,0,Not Placed,0.0
+STU1302,Information Technology,7.61,77.2,88.4,145,5,0,2,0,53.8,3.2,0,57.0,1,Tier 3 (Service/Mass Recruiter),6.3
+STU1303,Electronics & Comm,7.03,72.5,91.6,1,3,1,3,3,56.7,3.5,0,45.1,1,Tier 3 (Service/Mass Recruiter),4.55
+STU1304,Electronics & Comm,7.28,93.0,74.2,225,1,0,2,2,72.3,3.4,0,50.9,0,Not Placed,0.0
+STU1305,Civil,8.33,79.7,68.4,48,6,2,0,4,36.5,4.9,1,39.5,0,Not Placed,0.0
+STU1306,Information Technology,9.3,85.2,88.5,55,2,0,1,2,96.4,3.9,0,53.8,1,Tier 3 (Service/Mass Recruiter),7.07
+STU1307,Computer Science,8.16,76.9,84.2,19,0,3,1,4,70.6,3.9,0,52.6,1,Tier 3 (Service/Mass Recruiter),5.72
+STU1308,Electrical & Electronics,6.72,65.6,81.1,47,5,1,2,4,47.6,2.3,4,0.0,0,Not Placed,0.0
+STU1309,Computer Science,8.2,84.4,83.9,90,0,1,0,2,55.9,3.2,2,5.0,0,Not Placed,0.0
+STU1310,Information Technology,8.88,64.8,83.2,68,2,1,1,2,86.0,3.2,3,0.0,0,Not Placed,0.0
+STU1311,Computer Science,7.25,81.4,92.8,149,3,0,2,3,75.7,2.9,0,50.4,0,Not Placed,0.0
+STU1312,Computer Science,7.68,69.7,92.9,72,2,2,2,2,88.0,2.9,2,14.5,0,Not Placed,0.0
+STU1313,Civil,7.81,99.0,85.4,268,2,2,0,2,59.4,2.2,0,60.6,1,Tier 2 (Tech Startup/Mid-Corp),12.18
+STU1314,Electrical & Electronics,7.09,90.2,88.5,75,7,1,0,3,70.9,2.6,0,49.9,0,Not Placed,0.0
+STU1315,Electronics & Comm,8.38,83.0,85.1,181,2,1,2,3,76.6,4.1,0,54.4,1,Tier 3 (Service/Mass Recruiter),7.5
+STU1316,Information Technology,7.69,93.4,75.4,15,5,1,1,2,78.3,3.4,0,53.7,0,Not Placed,0.0
+STU1317,Computer Science,8.18,74.4,87.6,66,3,0,2,2,85.8,3.1,0,50.6,0,Not Placed,0.0
+STU1318,Computer Science,7.0,86.9,66.1,54,3,0,2,2,56.5,3.5,0,45.7,0,Not Placed,0.0
+STU1319,Computer Science,7.41,83.8,90.5,111,2,1,2,4,66.1,4.3,1,35.9,0,Not Placed,0.0
+STU1320,Information Technology,8.45,84.4,68.1,260,2,1,0,4,62.3,3.5,0,66.3,1,Tier 2 (Tech Startup/Mid-Corp),12.12
+STU1321,Electronics & Comm,7.46,93.5,82.9,8,2,3,1,3,67.2,3.9,0,55.1,1,Tier 3 (Service/Mass Recruiter),6.14
+STU1322,Electronics & Comm,9.35,88.6,71.5,8,5,3,2,2,83.3,2.9,0,59.3,1,Tier 3 (Service/Mass Recruiter),6.1
+STU1323,Computer Science,7.44,84.6,85.5,250,2,2,1,4,44.7,3.1,2,24.1,0,Not Placed,0.0
+STU1324,Civil,8.0,67.1,79.7,19,5,1,3,2,85.0,3.7,0,49.9,0,Not Placed,0.0
+STU1325,Electronics & Comm,8.64,73.4,64.1,121,5,2,2,2,55.5,4.8,0,70.1,1,Tier 2 (Tech Startup/Mid-Corp),10.23
+STU1326,Information Technology,6.52,80.9,84.2,103,2,1,3,6,60.8,4.5,0,48.9,0,Not Placed,0.0
+STU1327,Electronics & Comm,6.22,82.8,74.2,196,3,1,0,1,81.6,3.9,2,13.3,0,Not Placed,0.0
+STU1328,Information Technology,6.43,71.8,88.8,17,4,0,1,0,69.4,3.6,0,40.9,0,Not Placed,0.0
+STU1329,Computer Science,8.94,99.0,80.0,18,3,0,1,1,77.1,4.5,0,42.9,0,Not Placed,0.0
+STU1330,Information Technology,7.3,95.6,84.0,107,2,0,0,1,50.9,4.1,0,39.5,0,Not Placed,0.0
+STU1331,Electronics & Comm,9.9,87.4,70.4,321,6,3,0,2,60.6,1.9,2,47.8,0,Not Placed,0.0
+STU1332,Computer Science,7.29,82.6,74.1,70,1,0,2,0,80.6,2.8,0,39.4,0,Not Placed,0.0
+STU1333,Computer Science,7.97,80.1,75.4,52,3,2,1,5,61.2,3.7,0,51.3,0,Not Placed,0.0
+STU1334,Computer Science,9.19,73.4,88.6,123,3,2,3,4,66.1,2.2,0,61.8,0,Not Placed,0.0
+STU1335,Computer Science,9.61,82.7,96.8,351,3,1,1,3,87.8,2.9,3,20.2,0,Not Placed,0.0
+STU1336,Electrical & Electronics,9.66,84.3,71.9,149,2,1,4,2,59.8,3.0,0,69.5,1,Tier 2 (Tech Startup/Mid-Corp),14.31
+STU1337,Electronics & Comm,8.89,70.8,90.8,594,5,2,1,1,75.9,3.3,0,86.3,1,Tier 1 (Product/MNC),39.24
+STU1338,Information Technology,8.72,85.0,58.3,3,2,3,1,2,72.3,3.3,0,54.5,0,Not Placed,0.0
+STU1339,Computer Science,8.33,80.6,68.1,15,1,0,3,3,70.5,3.3,0,42.8,0,Not Placed,0.0
+STU1340,Information Technology,8.5,64.8,70.4,124,2,2,0,4,63.7,4.1,0,59.5,1,Tier 3 (Service/Mass Recruiter),5.9
+STU1341,Information Technology,7.3,74.3,66.5,226,1,0,1,1,59.3,3.3,0,51.9,0,Not Placed,0.0
+STU1342,Computer Science,7.06,78.3,64.2,44,0,0,3,0,51.6,3.2,3,0.0,0,Not Placed,0.0
+STU1343,Information Technology,7.8,99.0,84.1,36,3,1,0,1,75.6,2.6,0,39.7,0,Not Placed,0.0
+STU1344,Information Technology,7.65,87.0,77.9,204,3,0,4,0,59.1,4.2,2,27.5,0,Not Placed,0.0
+STU1345,Electronics & Comm,7.39,70.0,83.8,6,4,0,0,2,81.2,3.0,0,42.5,0,Not Placed,0.0
+STU1346,Electronics & Comm,8.43,86.4,86.9,50,1,1,3,2,67.6,2.7,2,14.5,0,Not Placed,0.0
+STU1347,Computer Science,8.66,68.1,82.7,93,3,1,0,0,56.7,3.6,0,57.8,0,Not Placed,0.0
+STU1348,Information Technology,7.88,91.7,86.6,108,3,0,2,0,65.8,3.0,0,49.7,1,Tier 3 (Service/Mass Recruiter),5.6
+STU1349,Electronics & Comm,9.13,77.8,79.3,143,0,2,1,0,67.1,3.1,0,64.2,1,Tier 2 (Tech Startup/Mid-Corp),16.62
+STU1350,Information Technology,6.77,81.2,68.1,57,1,1,1,0,79.9,3.7,0,48.1,0,Not Placed,0.0
+STU1351,Electrical & Electronics,7.63,93.9,90.6,78,4,1,1,2,63.2,3.3,0,53.6,0,Not Placed,0.0
+STU1352,Electronics & Comm,7.15,70.4,74.1,96,1,1,1,3,63.1,5.0,0,44.9,0,Not Placed,0.0
+STU1353,Computer Science,6.12,69.4,70.6,104,2,0,1,2,83.6,3.4,0,39.8,1,Tier 3 (Service/Mass Recruiter),3.74
+STU1354,Computer Science,7.73,76.7,78.2,135,3,1,0,2,75.8,3.9,0,60.5,1,Tier 2 (Tech Startup/Mid-Corp),10.74
+STU1355,Electronics & Comm,7.69,91.3,70.9,33,1,1,4,3,91.8,2.1,0,42.7,0,Not Placed,0.0
+STU1356,Computer Science,9.16,68.3,75.8,11,3,2,1,2,90.6,2.9,0,57.9,1,Tier 3 (Service/Mass Recruiter),7.46
+STU1357,Information Technology,8.37,56.5,83.4,16,2,2,0,3,58.2,2.7,0,45.3,0,Not Placed,0.0
+STU1358,Mechanical,6.88,77.9,83.5,20,5,0,1,3,80.0,2.8,0,38.8,0,Not Placed,0.0
+STU1359,Information Technology,9.47,87.0,71.0,91,1,1,1,3,95.3,3.8,0,64.5,1,Tier 3 (Service/Mass Recruiter),7.93
+STU1360,Information Technology,8.9,92.8,75.1,242,1,1,1,2,93.7,4.2,0,71.8,1,Tier 2 (Tech Startup/Mid-Corp),13.08
+STU1361,Electronics & Comm,8.32,77.8,90.7,132,5,1,0,0,84.3,3.7,0,60.6,0,Not Placed,0.0
+STU1362,Information Technology,7.6,78.3,85.0,205,0,1,1,4,81.8,3.3,1,39.4,0,Not Placed,0.0
+STU1363,Information Technology,6.94,92.4,99.0,57,2,0,2,1,62.1,3.1,0,37.9,0,Not Placed,0.0
+STU1364,Mechanical,7.47,65.2,91.8,42,2,0,3,2,56.2,4.3,0,40.3,0,Not Placed,0.0
+STU1365,Information Technology,8.78,78.5,91.4,66,3,0,1,3,66.9,4.9,0,51.2,0,Not Placed,0.0
+STU1366,Civil,9.5,83.7,66.1,17,1,1,0,5,50.7,3.6,1,30.4,0,Not Placed,0.0
+STU1367,Mechanical,9.19,86.0,87.6,5,4,1,1,1,91.9,4.2,0,63.8,0,Not Placed,0.0
+STU1368,Computer Science,7.36,77.4,79.5,117,4,1,1,2,63.6,3.7,0,52.1,1,Tier 3 (Service/Mass Recruiter),6.99
+STU1369,Computer Science,6.79,82.3,74.5,597,2,0,1,2,84.0,4.0,0,69.5,1,Tier 2 (Tech Startup/Mid-Corp),8.84
+STU1370,Computer Science,7.93,59.6,81.7,24,2,1,1,3,52.0,2.7,0,47.6,0,Not Placed,0.0
+STU1371,Computer Science,6.21,76.1,89.5,6,2,0,0,3,79.3,3.2,0,25.2,0,Not Placed,0.0
+STU1372,Computer Science,8.09,86.1,85.0,199,2,0,0,1,62.8,3.8,0,54.6,1,Tier 3 (Service/Mass Recruiter),5.14
+STU1373,Electronics & Comm,7.67,73.2,71.2,32,5,1,0,4,50.5,4.3,1,34.4,0,Not Placed,0.0
+STU1374,Computer Science,7.38,82.5,87.4,233,4,0,2,2,90.4,2.9,0,61.8,1,Tier 2 (Tech Startup/Mid-Corp),14.73
+STU1375,Computer Science,6.36,86.0,73.6,160,0,0,0,3,80.1,2.1,0,40.8,0,Not Placed,0.0
+STU1376,Electrical & Electronics,8.26,78.9,82.2,240,3,1,2,1,73.3,3.2,0,76.2,1,Tier 2 (Tech Startup/Mid-Corp),16.24
+STU1377,Computer Science,7.32,83.5,77.0,69,3,1,2,3,67.9,4.2,0,53.0,1,Tier 3 (Service/Mass Recruiter),4.84
+STU1378,Electrical & Electronics,6.75,73.3,77.8,89,2,0,3,1,71.9,2.4,0,40.7,0,Not Placed,0.0
+STU1379,Computer Science,5.21,80.1,87.7,82,2,0,1,1,63.9,2.7,1,15.3,0,Not Placed,0.0
+STU1380,Computer Science,7.78,87.5,69.6,131,3,0,4,1,57.7,3.6,0,58.1,0,Not Placed,0.0
+STU1381,Electronics & Comm,9.4,83.4,99.0,65,6,2,0,4,67.9,3.4,0,53.2,0,Not Placed,0.0
+STU1382,Electronics & Comm,9.3,76.7,61.8,22,1,2,1,2,100.0,3.9,0,60.5,0,Not Placed,0.0
+STU1383,Electrical & Electronics,7.39,84.0,74.0,58,0,0,1,0,100.0,2.6,0,37.9,0,Not Placed,0.0
+STU1384,Electronics & Comm,7.26,88.4,83.7,82,1,1,2,1,89.2,3.3,0,50.5,1,Tier 3 (Service/Mass Recruiter),4.29
+STU1385,Electrical & Electronics,8.22,63.6,85.8,137,1,1,0,4,76.9,4.3,0,54.2,1,Tier 3 (Service/Mass Recruiter),4.78
+STU1386,Computer Science,6.9,92.4,79.0,175,0,1,3,1,61.5,2.7,3,0.0,0,Not Placed,0.0
+STU1387,Computer Science,8.07,79.0,79.4,143,1,2,0,1,58.5,4.5,0,53.5,1,Tier 3 (Service/Mass Recruiter),5.27
+STU1388,Electronics & Comm,8.49,85.8,84.1,13,4,0,1,3,60.7,2.8,0,47.5,0,Not Placed,0.0
+STU1389,Electrical & Electronics,8.9,92.8,77.7,105,1,3,2,0,64.5,4.1,0,71.5,1,Tier 3 (Service/Mass Recruiter),7.2
+STU1390,Civil,7.71,69.7,93.9,57,6,2,1,1,98.7,3.2,2,19.0,0,Not Placed,0.0
+STU1391,Information Technology,7.62,75.6,88.4,296,1,0,2,1,93.6,2.7,1,38.0,0,Not Placed,0.0
+STU1392,Information Technology,7.01,79.4,88.7,333,2,0,1,2,77.0,3.2,0,60.3,1,Tier 2 (Tech Startup/Mid-Corp),11.59
+STU1393,Electronics & Comm,7.06,74.9,70.3,6,3,0,1,2,53.2,3.9,2,0.2,0,Not Placed,0.0
+STU1394,Computer Science,7.6,97.6,79.2,226,0,1,2,1,80.8,3.5,0,63.2,1,Tier 2 (Tech Startup/Mid-Corp),11.86
+STU1395,Mechanical,8.13,74.3,77.0,3,6,1,0,2,66.6,4.3,0,48.7,0,Not Placed,0.0
+STU1396,Electrical & Electronics,8.62,77.0,69.9,37,4,3,1,1,41.2,4.5,1,35.7,0,Not Placed,0.0
+STU1397,Information Technology,7.08,83.8,83.6,103,1,1,2,2,70.8,2.7,1,18.8,0,Not Placed,0.0
+STU1398,Electronics & Comm,9.14,71.2,74.6,17,2,2,0,2,61.1,2.6,2,20.3,0,Not Placed,0.0
+STU1399,Electronics & Comm,7.56,78.4,86.6,150,7,0,0,4,56.9,2.6,1,36.9,0,Not Placed,0.0
+STU1400,Computer Science,7.78,84.9,69.3,1,2,0,1,1,65.3,2.9,4,0.0,0,Not Placed,0.0
+STU1401,Mechanical,7.13,79.0,97.2,15,2,0,1,4,59.9,4.3,0,31.8,1,Tier 3 (Service/Mass Recruiter),5.92
+STU1402,Information Technology,5.62,81.2,71.0,114,5,0,6,3,61.9,3.9,0,43.3,0,Not Placed,0.0
+STU1403,Electrical & Electronics,8.6,77.2,82.2,103,4,0,0,3,70.1,3.1,0,54.0,0,Not Placed,0.0
+STU1404,Computer Science,8.46,68.4,87.9,327,1,0,0,1,44.6,3.5,1,36.6,0,Not Placed,0.0
+STU1405,Mechanical,7.55,84.9,74.3,100,4,0,2,3,89.4,4.5,0,57.1,1,Tier 3 (Service/Mass Recruiter),7.07
+STU1406,Information Technology,7.86,97.8,88.5,147,2,0,3,2,55.3,4.8,0,63.1,1,Tier 2 (Tech Startup/Mid-Corp),9.26
+STU1407,Computer Science,8.26,82.2,67.7,66,5,3,2,2,57.0,3.7,1,37.3,0,Not Placed,0.0
+STU1408,Mechanical,6.39,84.0,94.5,0,2,0,1,1,60.1,1.6,3,0.0,0,Not Placed,0.0
+STU1409,Computer Science,7.32,88.2,80.1,16,1,3,0,1,66.0,3.7,0,48.8,1,Tier 3 (Service/Mass Recruiter),6.35
+STU1410,Computer Science,8.51,70.6,74.0,100,0,1,3,0,91.5,4.2,0,53.8,1,Tier 3 (Service/Mass Recruiter),7.57
+STU1411,Civil,6.67,97.3,77.0,92,2,0,1,3,69.3,3.7,0,47.4,1,Tier 3 (Service/Mass Recruiter),4.55
+STU1412,Civil,8.06,83.8,88.1,44,1,1,0,3,77.6,4.0,0,52.2,0,Not Placed,0.0
+STU1413,Information Technology,6.58,96.7,74.2,173,1,0,1,3,69.1,3.7,0,43.5,0,Not Placed,0.0
+STU1414,Electronics & Comm,8.22,75.4,72.5,81,1,0,0,1,73.4,2.6,2,2.1,0,Not Placed,0.0
+STU1415,Information Technology,7.77,98.4,77.8,10,3,2,1,1,73.1,2.9,0,48.0,0,Not Placed,0.0
+STU1416,Computer Science,6.35,89.0,68.2,28,6,1,3,1,37.5,3.3,0,39.1,0,Not Placed,0.0
+STU1417,Computer Science,8.85,87.0,98.2,241,2,0,1,6,68.5,4.2,0,65.4,1,Tier 2 (Tech Startup/Mid-Corp),16.42
+STU1418,Electronics & Comm,7.14,84.1,74.3,141,0,0,2,3,83.2,3.0,0,48.6,0,Not Placed,0.0
+STU1419,Electronics & Comm,7.07,79.8,88.3,247,1,0,2,1,100.0,3.8,0,54.7,0,Not Placed,0.0
+STU1420,Electrical & Electronics,7.98,92.8,82.1,10,2,0,1,4,52.6,3.7,0,42.6,0,Not Placed,0.0
+STU1421,Electrical & Electronics,8.83,83.3,70.2,381,5,1,0,1,77.9,4.6,1,70.3,1,Tier 1 (Product/MNC),39.63
+STU1422,Computer Science,6.89,64.3,79.9,31,4,0,1,1,58.2,3.5,0,37.2,0,Not Placed,0.0
+STU1423,Information Technology,7.86,71.9,87.8,1,1,1,2,2,97.7,2.3,1,22.4,0,Not Placed,0.0
+STU1424,Computer Science,8.19,80.3,78.1,650,2,1,1,0,51.1,4.0,0,74.2,1,Tier 1 (Product/MNC),23.25
+STU1425,Information Technology,8.42,84.8,91.9,43,4,1,0,2,79.5,5.0,0,53.2,1,Tier 3 (Service/Mass Recruiter),5.31
+STU1426,Information Technology,7.96,81.5,90.2,145,3,0,0,0,49.7,4.0,0,53.3,1,Tier 3 (Service/Mass Recruiter),6.32
+STU1427,Mechanical,7.47,93.0,89.2,16,2,1,1,1,63.4,2.9,0,36.3,0,Not Placed,0.0
+STU1428,Information Technology,7.06,64.4,75.4,114,2,2,1,3,66.2,2.7,0,52.6,1,Tier 3 (Service/Mass Recruiter),5.63
+STU1429,Computer Science,7.88,83.3,69.2,309,2,1,2,3,84.1,2.8,0,69.1,0,Not Placed,0.0
+STU1430,Computer Science,6.84,65.6,73.9,50,0,1,1,2,50.9,4.9,0,36.4,0,Not Placed,0.0
+STU1431,Electronics & Comm,5.2,88.8,82.0,122,5,0,0,1,70.4,3.3,0,38.9,0,Not Placed,0.0
+STU1432,Electronics & Comm,8.19,81.1,85.5,22,3,3,1,0,70.3,3.0,0,57.8,0,Not Placed,0.0
+STU1433,Computer Science,8.61,85.8,58.3,129,3,2,0,2,75.2,3.4,0,57.9,0,Not Placed,0.0
+STU1434,Computer Science,5.67,74.2,79.9,54,2,0,0,1,75.9,3.3,0,29.3,0,Not Placed,0.0
+STU1435,Electronics & Comm,6.89,93.5,81.6,26,5,1,1,2,48.2,4.6,0,43.8,0,Not Placed,0.0
+STU1436,Computer Science,8.36,91.4,77.2,49,2,0,0,4,81.9,2.8,0,43.6,0,Not Placed,0.0
+STU1437,Electrical & Electronics,9.65,87.3,92.9,16,2,2,1,1,66.5,4.3,0,57.2,0,Not Placed,0.0
+STU1438,Electronics & Comm,7.82,80.8,84.2,255,2,3,2,4,84.3,3.6,0,65.4,1,Tier 2 (Tech Startup/Mid-Corp),12.71
+STU1439,Computer Science,7.14,87.2,93.1,66,0,1,3,0,71.6,4.3,0,42.5,1,Tier 3 (Service/Mass Recruiter),4.8
+STU1440,Computer Science,7.64,75.6,77.8,37,3,2,3,1,65.5,4.6,0,61.4,0,Not Placed,0.0
+STU1441,Civil,9.04,89.7,89.4,49,4,1,0,0,64.4,3.6,0,56.2,1,Tier 3 (Service/Mass Recruiter),6.97
+STU1442,Information Technology,7.22,96.8,96.4,51,1,1,2,1,78.7,3.3,3,0.0,0,Not Placed,0.0
+STU1443,Information Technology,7.08,91.6,93.1,180,4,1,3,1,84.4,3.5,0,61.9,1,Tier 2 (Tech Startup/Mid-Corp),9.73
+STU1444,Electrical & Electronics,7.37,75.4,69.1,292,3,1,2,5,60.1,3.4,0,65.4,1,Tier 2 (Tech Startup/Mid-Corp),11.05
+STU1445,Mechanical,6.94,85.3,77.5,47,2,0,1,1,50.5,2.3,1,12.8,0,Not Placed,0.0
+STU1446,Civil,7.91,70.4,76.5,162,5,2,1,1,79.0,4.6,0,69.7,0,Not Placed,0.0
+STU1447,Electronics & Comm,9.26,87.2,84.9,91,3,1,0,0,53.0,3.7,0,56.3,1,Tier 3 (Service/Mass Recruiter),6.09
+STU1448,Information Technology,8.09,86.1,86.9,22,2,2,2,3,51.5,2.7,1,25.5,0,Not Placed,0.0
+STU1449,Computer Science,7.57,65.2,71.6,154,4,1,0,2,53.3,2.1,1,33.5,0,Not Placed,0.0
+STU1450,Electronics & Comm,7.54,71.5,80.7,79,2,0,1,2,62.3,1.9,0,28.7,1,Tier 3 (Service/Mass Recruiter),6.37
+STU1451,Information Technology,6.39,79.5,59.8,138,2,0,1,2,46.0,4.0,0,41.7,0,Not Placed,0.0
+STU1452,Information Technology,8.59,79.3,94.4,290,3,3,2,3,44.1,3.1,1,48.1,1,Tier 3 (Service/Mass Recruiter),4.93
+STU1453,Mechanical,7.73,71.1,74.9,47,5,1,0,1,52.8,3.2,0,47.6,0,Not Placed,0.0
+STU1454,Computer Science,7.64,85.5,80.6,305,2,0,3,1,77.4,3.8,0,61.8,1,Tier 2 (Tech Startup/Mid-Corp),9.91
+STU1455,Information Technology,9.9,84.3,76.9,183,2,3,1,1,57.4,3.1,0,72.4,1,Tier 2 (Tech Startup/Mid-Corp),12.58
+STU1456,Computer Science,8.07,80.3,91.5,88,2,2,0,3,64.9,3.9,0,56.6,1,Tier 3 (Service/Mass Recruiter),4.77
+STU1457,Information Technology,7.12,75.2,51.6,122,4,1,0,4,94.1,3.6,0,61.6,0,Not Placed,0.0
+STU1458,Computer Science,7.42,91.4,79.8,51,4,1,1,3,67.1,3.4,0,43.0,1,Tier 3 (Service/Mass Recruiter),4.83
+STU1459,Computer Science,8.83,96.9,78.9,542,1,2,4,0,76.8,2.4,1,70.3,1,Tier 1 (Product/MNC),38.87
+STU1460,Computer Science,7.9,77.6,75.5,145,1,1,1,3,56.0,2.9,0,49.8,0,Not Placed,0.0
+STU1461,Electronics & Comm,6.51,76.5,97.3,4,1,0,0,3,95.3,3.9,0,31.9,0,Not Placed,0.0
+STU1462,Electronics & Comm,8.63,86.4,71.1,43,0,0,1,0,63.8,3.0,0,43.0,0,Not Placed,0.0
+STU1463,Information Technology,7.2,78.8,87.7,128,5,1,3,3,63.9,4.3,0,57.7,0,Not Placed,0.0
+STU1464,Civil,9.49,80.7,83.6,4,0,3,1,4,92.4,5.0,0,66.8,1,Tier 3 (Service/Mass Recruiter),7.34
+STU1465,Information Technology,8.77,88.7,92.6,3,3,2,1,1,69.3,4.0,0,52.3,0,Not Placed,0.0
+STU1466,Computer Science,7.4,64.8,73.3,78,4,1,1,3,68.4,4.5,0,51.4,0,Not Placed,0.0
+STU1467,Electrical & Electronics,8.95,93.9,72.7,33,3,1,0,2,68.4,4.0,0,56.9,0,Not Placed,0.0
+STU1468,Computer Science,7.86,82.7,91.0,76,1,2,1,1,65.2,3.1,2,20.2,0,Not Placed,0.0
+STU1469,Civil,8.57,78.3,84.3,25,3,0,1,5,76.4,3.6,0,48.0,0,Not Placed,0.0
+STU1470,Computer Science,8.24,81.2,64.6,23,2,2,1,1,77.9,4.9,0,45.4,0,Not Placed,0.0
+STU1471,Civil,7.04,81.7,74.6,96,2,0,0,0,57.6,3.1,0,37.1,0,Not Placed,0.0
+STU1472,Computer Science,7.22,66.4,83.9,95,1,0,2,2,56.4,2.8,0,39.2,0,Not Placed,0.0
+STU1473,Mechanical,8.73,95.5,88.4,18,2,1,0,1,63.2,2.7,0,43.8,0,Not Placed,0.0
+STU1474,Information Technology,7.5,82.4,73.2,50,3,0,1,4,48.4,3.3,0,41.2,0,Not Placed,0.0
+STU1475,Civil,7.44,86.0,50.9,73,3,1,1,1,45.5,2.8,0,42.1,0,Not Placed,0.0
+STU1476,Computer Science,6.94,90.6,85.2,9,3,0,1,1,70.5,4.7,0,43.8,0,Not Placed,0.0
+STU1477,Information Technology,8.18,72.8,67.8,21,1,0,1,2,83.2,3.7,0,38.0,0,Not Placed,0.0
+STU1478,Civil,9.66,86.3,59.8,6,5,3,4,1,86.7,4.2,0,69.7,1,Tier 3 (Service/Mass Recruiter),7.18
+STU1479,Information Technology,6.84,79.6,51.7,220,3,0,0,3,32.7,3.3,0,51.2,1,Tier 3 (Service/Mass Recruiter),5.46
+STU1480,Electronics & Comm,7.82,89.6,88.1,153,2,2,0,5,65.5,2.7,0,51.6,0,Not Placed,0.0
+STU1481,Electronics & Comm,9.07,62.9,81.3,153,2,2,1,1,57.3,2.6,1,40.1,0,Not Placed,0.0
+STU1482,Information Technology,7.73,81.1,77.7,166,5,1,0,2,70.7,2.9,0,60.5,1,Tier 2 (Tech Startup/Mid-Corp),8.79
+STU1483,Electronics & Comm,8.21,76.6,93.9,121,3,2,1,3,64.3,3.7,0,56.3,0,Not Placed,0.0
+STU1484,Information Technology,6.84,85.9,86.4,85,4,0,0,3,74.3,3.9,2,6.7,0,Not Placed,0.0
+STU1485,Mechanical,8.19,86.2,96.2,84,3,0,0,3,69.8,3.9,0,53.0,1,Tier 3 (Service/Mass Recruiter),7.54
+STU1486,Computer Science,7.63,75.6,66.1,5,5,1,1,2,41.9,2.5,0,45.8,0,Not Placed,0.0
+STU1487,Computer Science,8.69,75.6,79.7,128,2,2,2,0,58.0,3.5,0,70.0,1,Tier 2 (Tech Startup/Mid-Corp),10.87
+STU1488,Civil,8.87,81.0,63.8,124,7,1,0,2,72.2,2.8,0,64.8,1,Tier 2 (Tech Startup/Mid-Corp),15.09
+STU1489,Mechanical,9.9,73.9,77.7,57,4,2,1,3,76.5,3.8,0,64.9,1,Tier 3 (Service/Mass Recruiter),8.08
+STU1490,Information Technology,8.32,89.6,77.5,58,1,3,1,2,50.8,3.8,0,55.4,0,Not Placed,0.0
+STU1491,Electronics & Comm,8.09,78.7,86.3,35,1,0,0,0,48.3,2.7,0,33.3,0,Not Placed,0.0
+STU1492,Computer Science,7.97,55.8,80.5,135,2,2,2,3,70.2,4.2,0,61.9,1,Tier 2 (Tech Startup/Mid-Corp),14.25
+STU1493,Computer Science,7.48,78.6,86.2,155,2,1,2,4,48.3,5.0,2,19.6,0,Not Placed,0.0
+STU1494,Information Technology,8.1,72.7,87.0,270,3,1,3,1,46.5,4.1,0,65.2,1,Tier 2 (Tech Startup/Mid-Corp),10.57
+STU1495,Information Technology,7.53,67.3,99.0,55,3,0,0,4,61.9,3.4,0,41.8,0,Not Placed,0.0
+STU1496,Information Technology,7.95,70.9,76.8,193,2,1,3,0,62.5,3.3,0,55.1,1,Tier 3 (Service/Mass Recruiter),5.39
+STU1497,Computer Science,8.99,83.0,70.6,108,3,1,1,3,60.2,3.4,0,55.0,1,Tier 3 (Service/Mass Recruiter),4.89
+STU1498,Civil,6.89,94.0,82.5,176,3,1,1,3,56.3,3.0,0,50.5,1,Tier 3 (Service/Mass Recruiter),5.92
+STU1499,Civil,8.83,84.8,72.0,61,2,0,3,3,72.2,3.7,0,44.0,0,Not Placed,0.0
+STU1500,Electronics & Comm,8.99,76.5,94.8,80,4,1,0,3,62.4,2.7,1,40.0,0,Not Placed,0.0
+STU1501,Information Technology,7.69,86.1,77.2,113,2,0,1,2,69.6,2.2,1,17.5,0,Not Placed,0.0
+STU1502,Computer Science,5.89,77.9,74.3,182,6,2,1,1,57.8,3.7,0,56.2,0,Not Placed,0.0
+STU1503,Electrical & Electronics,7.25,75.7,75.3,275,7,2,2,3,69.6,3.5,0,63.6,0,Not Placed,0.0
+STU1504,Electronics & Comm,8.97,71.6,87.2,8,2,3,2,1,84.7,3.1,0,57.0,1,Tier 3 (Service/Mass Recruiter),6.75
+STU1505,Computer Science,7.78,66.2,78.4,7,5,2,3,3,80.6,2.6,0,52.8,0,Not Placed,0.0
+STU1506,Mechanical,6.9,78.5,73.6,228,2,1,1,3,84.2,3.7,2,31.5,0,Not Placed,0.0
+STU1507,Electrical & Electronics,7.35,83.4,96.7,62,5,0,0,3,79.3,2.8,0,46.3,0,Not Placed,0.0
+STU1508,Mechanical,8.56,81.1,71.4,78,3,2,1,2,74.5,3.4,0,52.3,1,Tier 3 (Service/Mass Recruiter),6.94
+STU1509,Electronics & Comm,8.29,78.3,80.4,72,2,1,3,3,64.3,4.7,0,60.9,1,Tier 3 (Service/Mass Recruiter),4.55
+STU1510,Electronics & Comm,7.58,73.5,86.5,10,3,1,2,1,62.8,4.0,0,46.2,1,Tier 3 (Service/Mass Recruiter),6.85
+STU1511,Information Technology,7.47,87.5,63.7,192,1,0,0,2,55.6,2.5,3,0.0,0,Not Placed,0.0
+STU1512,Mechanical,7.45,70.1,84.8,113,3,0,2,1,67.9,2.6,1,31.5,0,Not Placed,0.0
+STU1513,Electrical & Electronics,6.97,89.0,69.4,30,0,0,3,4,76.2,3.6,0,28.7,0,Not Placed,0.0
+STU1514,Computer Science,9.25,73.0,88.2,48,1,3,1,3,63.1,2.5,1,39.9,0,Not Placed,0.0
+STU1515,Computer Science,7.51,75.2,70.4,240,2,2,1,4,67.5,2.1,0,59.2,0,Not Placed,0.0
+STU1516,Information Technology,8.9,68.8,86.9,9,2,2,2,4,62.7,3.9,0,60.7,1,Tier 3 (Service/Mass Recruiter),7.12
+STU1517,Electrical & Electronics,9.17,77.5,91.1,175,0,2,3,4,75.9,3.7,0,71.6,1,Tier 2 (Tech Startup/Mid-Corp),11.23
+STU1518,Civil,8.7,90.8,88.6,24,0,2,2,4,63.9,3.8,0,45.1,0,Not Placed,0.0
+STU1519,Computer Science,7.41,86.6,82.5,118,3,1,2,1,57.4,3.7,0,58.0,1,Tier 3 (Service/Mass Recruiter),5.28
+STU1520,Information Technology,8.16,90.8,77.7,362,3,1,1,0,60.5,3.5,0,74.9,1,Tier 1 (Product/MNC),36.55
+STU1521,Information Technology,7.78,86.7,74.2,149,1,2,0,0,75.9,3.0,0,48.7,0,Not Placed,0.0
+STU1522,Civil,6.99,72.1,94.7,44,3,1,0,4,65.1,3.9,0,43.5,1,Tier 3 (Service/Mass Recruiter),5.58
+STU1523,Electrical & Electronics,8.09,79.0,73.0,96,5,0,1,3,63.8,4.6,0,59.9,0,Not Placed,0.0
+STU1524,Electrical & Electronics,6.74,75.0,69.6,34,4,0,2,0,69.4,3.1,0,36.6,0,Not Placed,0.0
+STU1525,Information Technology,8.87,94.0,86.7,42,0,0,1,1,66.3,2.8,0,46.4,0,Not Placed,0.0
+STU1526,Information Technology,7.38,71.2,72.0,650,1,0,0,2,83.4,2.7,1,39.0,0,Not Placed,0.0
+STU1527,Computer Science,7.98,90.0,70.5,183,3,1,3,1,55.8,2.9,0,57.2,1,Tier 3 (Service/Mass Recruiter),4.76
+STU1528,Computer Science,8.05,90.0,65.6,136,3,0,3,1,67.0,3.6,0,52.4,1,Tier 3 (Service/Mass Recruiter),4.7
+STU1529,Electrical & Electronics,7.57,98.5,75.2,36,2,0,3,6,48.5,2.0,0,42.8,0,Not Placed,0.0
+STU1530,Electrical & Electronics,8.33,78.3,79.2,4,7,2,1,1,65.6,3.8,0,52.0,0,Not Placed,0.0
+STU1531,Civil,7.37,88.4,82.4,2,1,1,1,2,44.1,4.0,0,31.9,1,Tier 3 (Service/Mass Recruiter),6.65
+STU1532,Civil,8.58,99.0,89.5,66,4,3,0,0,81.7,2.2,0,60.3,0,Not Placed,0.0
+STU1533,Information Technology,6.59,76.4,85.3,189,2,1,1,1,76.0,2.8,0,53.5,1,Tier 3 (Service/Mass Recruiter),4.33
+STU1534,Electronics & Comm,7.91,68.2,78.1,84,3,0,0,1,80.2,3.6,1,32.6,0,Not Placed,0.0
+STU1535,Mechanical,9.55,65.1,78.0,151,1,3,1,2,74.5,3.4,0,69.8,1,Tier 2 (Tech Startup/Mid-Corp),11.93
+STU1536,Electrical & Electronics,6.9,88.4,85.1,2,6,2,3,1,53.9,3.9,0,46.0,0,Not Placed,0.0
+STU1537,Computer Science,7.19,65.1,92.7,60,5,0,2,0,55.9,3.4,0,43.8,1,Tier 3 (Service/Mass Recruiter),6.73
+STU1538,Information Technology,8.26,78.6,81.3,35,2,1,2,1,91.7,4.4,0,62.3,1,Tier 3 (Service/Mass Recruiter),6.46
+STU1539,Computer Science,7.96,85.9,75.3,78,4,2,0,3,89.5,3.3,0,64.2,0,Not Placed,0.0
+STU1540,Civil,8.12,83.7,70.1,6,0,1,0,1,71.6,2.8,0,42.3,0,Not Placed,0.0
+STU1541,Electronics & Comm,8.24,85.8,65.5,339,3,0,1,1,63.0,2.8,0,69.1,0,Not Placed,0.0
+STU1542,Computer Science,8.37,84.0,86.7,33,2,2,0,3,89.8,4.0,1,39.8,0,Not Placed,0.0
+STU1543,Electronics & Comm,8.8,93.5,85.8,281,4,3,1,3,62.2,3.5,0,70.9,0,Not Placed,0.0
+STU1544,Electronics & Comm,8.17,73.4,85.8,61,2,0,1,1,73.2,3.9,1,31.5,0,Not Placed,0.0
+STU1545,Information Technology,7.58,75.9,78.7,559,3,2,1,0,87.2,3.9,0,83.2,1,Tier 1 (Product/MNC),36.48
+STU1546,Computer Science,8.41,75.0,94.1,106,6,1,1,4,59.0,2.1,0,61.9,1,Tier 3 (Service/Mass Recruiter),6.1
+STU1547,Electronics & Comm,9.51,89.5,75.2,293,2,2,2,2,85.6,2.7,0,84.0,1,Tier 1 (Product/MNC),36.74
+STU1548,Information Technology,7.68,90.1,89.6,0,3,2,3,1,75.8,2.8,0,51.7,1,Tier 3 (Service/Mass Recruiter),6.2
+STU1549,Electronics & Comm,6.92,86.1,79.6,151,2,2,1,3,65.7,2.9,0,46.2,0,Not Placed,0.0
+STU1550,Information Technology,8.8,92.7,73.9,308,5,1,0,1,58.0,3.2,2,37.4,0,Not Placed,0.0
+STU1551,Electrical & Electronics,7.69,71.4,85.9,12,3,0,3,1,58.4,4.2,0,42.9,0,Not Placed,0.0
+STU1552,Information Technology,5.84,97.0,84.1,13,3,0,1,4,67.1,4.3,2,0.0,0,Not Placed,0.0
+STU1553,Information Technology,8.56,95.7,83.6,72,4,1,0,4,51.3,3.3,1,32.3,0,Not Placed,0.0
+STU1554,Electrical & Electronics,7.32,88.6,80.8,223,3,0,0,1,69.3,3.3,0,52.1,1,Tier 3 (Service/Mass Recruiter),7.22
+STU1555,Information Technology,7.72,98.0,79.6,103,7,1,1,2,76.2,3.0,0,59.8,0,Not Placed,0.0
+STU1556,Computer Science,8.1,67.1,99.0,98,4,0,2,4,83.6,3.6,0,54.4,1,Tier 3 (Service/Mass Recruiter),5.15
+STU1557,Computer Science,7.97,77.3,91.8,20,1,1,0,2,49.8,3.6,1,21.7,0,Not Placed,0.0
+STU1558,Electronics & Comm,8.44,75.4,87.2,0,3,0,3,2,89.2,4.1,1,28.1,0,Not Placed,0.0
+STU1559,Electronics & Comm,7.41,88.5,81.1,182,0,1,1,1,91.5,4.1,0,52.1,0,Not Placed,0.0
+STU1560,Electronics & Comm,8.26,72.5,90.1,10,2,0,3,2,76.0,1.9,0,45.3,0,Not Placed,0.0
+STU1561,Computer Science,7.57,88.8,85.2,132,2,0,1,1,53.7,3.4,0,40.1,0,Not Placed,0.0
+STU1562,Computer Science,8.46,94.3,80.3,324,1,2,0,3,66.3,4.5,1,60.4,1,Tier 2 (Tech Startup/Mid-Corp),10.97
+STU1563,Computer Science,8.35,88.3,77.0,30,3,2,2,4,69.9,3.2,2,23.1,0,Not Placed,0.0
+STU1564,Information Technology,6.96,84.6,79.2,144,3,0,0,3,70.2,4.3,0,46.8,0,Not Placed,0.0
+STU1565,Information Technology,8.78,73.1,50.0,10,3,0,1,1,72.1,3.3,0,58.6,1,Tier 3 (Service/Mass Recruiter),4.89
+STU1566,Information Technology,7.32,74.4,82.1,122,0,1,0,0,71.4,3.6,0,49.6,1,Tier 3 (Service/Mass Recruiter),6.23
+STU1567,Information Technology,8.53,93.2,75.1,23,3,1,0,1,69.8,2.7,0,43.5,0,Not Placed,0.0
+STU1568,Mechanical,8.13,89.0,95.9,109,5,2,2,4,73.6,2.7,1,44.4,0,Not Placed,0.0
+STU1569,Computer Science,9.45,81.6,80.2,47,2,2,1,1,67.4,4.0,0,60.9,0,Not Placed,0.0
+STU1570,Information Technology,7.6,78.2,68.1,82,1,0,1,2,63.6,4.1,0,39.4,0,Not Placed,0.0
+STU1571,Electrical & Electronics,7.49,63.8,79.5,75,2,1,3,0,59.9,3.5,0,45.4,0,Not Placed,0.0
+STU1572,Information Technology,7.78,72.4,69.5,24,3,1,1,5,95.7,2.6,0,53.2,0,Not Placed,0.0
+STU1573,Electronics & Comm,7.53,99.0,84.7,148,5,2,1,2,88.6,3.5,0,61.1,0,Not Placed,0.0
+STU1574,Electrical & Electronics,8.52,70.5,82.9,29,1,0,0,1,78.8,4.4,1,25.9,0,Not Placed,0.0
+STU1575,Mechanical,6.35,83.7,89.6,89,0,0,2,3,83.1,4.7,0,37.1,0,Not Placed,0.0
+STU1576,Computer Science,6.85,91.1,72.1,22,2,0,3,4,77.2,3.3,0,37.1,0,Not Placed,0.0
+STU1577,Mechanical,6.84,70.7,80.3,96,4,0,1,1,68.6,2.3,0,42.2,0,Not Placed,0.0
+STU1578,Information Technology,8.66,83.7,66.3,18,1,2,4,1,50.4,4.1,0,56.5,1,Tier 3 (Service/Mass Recruiter),6.42
+STU1579,Computer Science,9.34,90.4,87.0,73,5,2,0,4,69.8,3.3,0,53.2,0,Not Placed,0.0
+STU1580,Information Technology,7.71,82.1,85.2,37,2,2,0,4,63.9,4.2,0,49.3,0,Not Placed,0.0
+STU1581,Civil,7.65,99.0,85.0,113,1,1,1,1,52.6,3.7,0,44.0,1,Tier 3 (Service/Mass Recruiter),4.62
+STU1582,Information Technology,7.86,67.0,80.0,40,2,2,1,2,48.3,2.9,0,52.2,0,Not Placed,0.0
+STU1583,Computer Science,8.85,91.5,84.1,281,5,2,3,3,78.9,3.5,1,72.4,1,Tier 2 (Tech Startup/Mid-Corp),12.63
+STU1584,Electronics & Comm,6.97,80.4,96.0,244,0,0,0,2,70.9,4.4,0,47.9,0,Not Placed,0.0
+STU1585,Computer Science,8.01,88.9,77.1,28,4,0,2,3,53.2,3.4,0,38.7,0,Not Placed,0.0
+STU1586,Computer Science,8.68,86.0,81.4,125,3,1,0,2,61.1,2.8,0,55.0,1,Tier 3 (Service/Mass Recruiter),5.24
+STU1587,Computer Science,8.25,75.4,69.1,12,1,0,0,6,86.5,2.4,1,19.2,0,Not Placed,0.0
+STU1588,Computer Science,7.97,84.1,71.3,65,2,1,3,2,57.1,3.0,0,57.5,0,Not Placed,0.0
+STU1589,Computer Science,8.7,65.3,81.0,164,4,1,2,1,74.0,3.2,0,73.0,1,Tier 2 (Tech Startup/Mid-Corp),12.19
+STU1590,Computer Science,5.37,87.4,91.0,142,4,1,4,1,58.9,4.1,0,52.6,0,Not Placed,0.0
+STU1591,Electronics & Comm,8.41,84.7,77.4,107,1,1,2,0,77.8,2.7,0,51.2,1,Tier 3 (Service/Mass Recruiter),7.61
+STU1592,Computer Science,7.21,87.7,77.6,43,3,1,1,0,55.1,4.6,1,31.1,0,Not Placed,0.0
+STU1593,Computer Science,6.15,91.5,75.9,62,5,1,2,2,65.2,2.6,2,9.4,0,Not Placed,0.0
+STU1594,Mechanical,8.26,85.3,74.7,8,1,2,2,1,72.6,5.0,0,55.5,1,Tier 3 (Service/Mass Recruiter),6.69
+STU1595,Information Technology,9.04,83.3,82.9,167,3,2,2,3,75.8,4.7,1,49.1,1,Tier 3 (Service/Mass Recruiter),4.84
+STU1596,Electronics & Comm,7.68,74.1,65.0,77,2,1,1,2,69.6,3.6,0,53.1,0,Not Placed,0.0
+STU1597,Computer Science,8.66,75.6,92.8,162,2,1,1,1,76.3,2.3,0,58.6,1,Tier 3 (Service/Mass Recruiter),5.47
+STU1598,Computer Science,9.25,92.7,73.3,37,1,2,2,1,100.0,3.5,1,43.7,1,Tier 3 (Service/Mass Recruiter),4.93
+STU1599,Computer Science,8.98,94.9,87.2,51,2,2,1,2,100.0,3.2,0,59.2,1,Tier 3 (Service/Mass Recruiter),7.08
+STU1600,Computer Science,9.28,79.9,67.3,53,3,1,4,4,64.4,2.6,0,56.1,0,Not Placed,0.0
+STU1601,Computer Science,8.47,82.4,86.7,3,5,1,2,2,38.4,3.7,2,15.5,0,Not Placed,0.0
+STU1602,Computer Science,7.87,73.9,86.7,55,5,1,2,2,77.4,2.9,0,48.1,0,Not Placed,0.0
+STU1603,Computer Science,6.36,92.6,83.8,214,2,1,1,1,67.2,3.0,0,53.9,0,Not Placed,0.0
+STU1604,Computer Science,7.58,88.0,70.1,300,3,0,1,1,83.1,3.4,0,60.0,1,Tier 3 (Service/Mass Recruiter),5.73
+STU1605,Information Technology,7.04,99.0,82.5,96,0,0,1,1,70.6,3.1,1,11.0,0,Not Placed,0.0
+STU1606,Computer Science,9.75,74.1,68.2,80,4,1,1,1,75.6,5.0,1,57.2,1,Tier 3 (Service/Mass Recruiter),8.28
+STU1607,Information Technology,7.64,78.6,77.5,4,2,0,3,2,84.2,3.1,0,39.9,0,Not Placed,0.0
+STU1608,Information Technology,7.91,84.1,90.3,279,6,1,0,2,87.0,3.8,1,54.2,1,Tier 3 (Service/Mass Recruiter),6.71
+STU1609,Electronics & Comm,8.3,87.8,88.0,1,2,1,2,4,51.0,3.6,0,49.8,0,Not Placed,0.0
+STU1610,Computer Science,7.84,80.1,80.2,382,4,2,0,3,57.6,3.7,0,85.5,1,Tier 1 (Product/MNC),32.96
+STU1611,Electrical & Electronics,9.33,74.1,70.3,55,4,2,0,4,72.0,3.8,1,39.2,0,Not Placed,0.0
+STU1612,Electronics & Comm,7.24,89.9,86.5,46,2,0,0,5,68.6,4.1,0,35.3,1,Tier 3 (Service/Mass Recruiter),6.67
+STU1613,Computer Science,7.98,88.5,80.2,340,4,1,0,3,66.3,3.7,0,68.8,1,Tier 2 (Tech Startup/Mid-Corp),14.31
+STU1614,Electrical & Electronics,7.13,73.8,56.8,2,1,0,3,2,73.0,3.7,0,41.8,0,Not Placed,0.0
+STU1615,Mechanical,6.61,94.2,87.8,71,1,0,3,1,79.3,3.5,0,47.9,0,Not Placed,0.0
+STU1616,Computer Science,7.25,92.5,79.8,105,3,0,2,3,91.4,3.4,0,46.8,0,Not Placed,0.0
+STU1617,Computer Science,7.77,83.2,92.0,32,4,1,3,2,76.9,2.9,0,58.3,0,Not Placed,0.0
+STU1618,Electrical & Electronics,7.41,82.7,69.0,46,2,1,1,0,55.8,3.5,0,40.0,0,Not Placed,0.0
+STU1619,Electronics & Comm,7.18,87.0,50.0,116,2,1,1,4,65.0,3.7,0,50.1,0,Not Placed,0.0
+STU1620,Computer Science,6.53,74.2,82.8,171,4,0,2,3,64.0,3.8,0,46.3,1,Tier 3 (Service/Mass Recruiter),4.59
+STU1621,Computer Science,7.73,82.3,82.9,0,2,1,1,2,75.9,3.6,1,25.8,0,Not Placed,0.0
+STU1622,Information Technology,6.45,62.6,63.1,364,1,0,0,0,70.3,3.3,1,36.8,0,Not Placed,0.0
+STU1623,Information Technology,8.48,89.9,70.2,23,3,0,1,1,99.7,3.5,1,31.4,0,Not Placed,0.0
+STU1624,Electronics & Comm,7.87,67.9,99.0,29,0,2,1,6,62.7,3.1,0,45.8,0,Not Placed,0.0
+STU1625,Information Technology,6.49,95.5,76.9,40,1,1,0,1,70.4,3.7,1,14.6,0,Not Placed,0.0
+STU1626,Information Technology,7.52,79.0,87.3,5,3,0,2,3,100.0,3.3,0,42.6,0,Not Placed,0.0
+STU1627,Electronics & Comm,7.12,80.1,73.5,14,3,0,3,2,58.7,3.6,0,42.8,1,Tier 3 (Service/Mass Recruiter),5.75
+STU1628,Computer Science,8.09,76.4,59.1,566,2,1,2,4,71.8,4.2,0,84.1,1,Tier 1 (Product/MNC),36.29
+STU1629,Computer Science,9.01,79.4,78.3,49,0,2,5,0,59.3,3.0,0,57.7,1,Tier 3 (Service/Mass Recruiter),6.25
+STU1630,Electronics & Comm,6.11,94.8,77.3,13,4,0,3,2,65.0,3.9,1,23.7,0,Not Placed,0.0
+STU1631,Mechanical,7.9,59.6,76.0,9,1,0,2,3,58.3,3.5,0,41.2,0,Not Placed,0.0
+STU1632,Information Technology,7.66,93.5,78.9,167,3,1,5,1,83.1,4.9,0,71.4,1,Tier 2 (Tech Startup/Mid-Corp),9.72
+STU1633,Information Technology,8.4,85.0,82.6,254,1,0,1,0,72.8,3.3,1,37.2,0,Not Placed,0.0
+STU1634,Computer Science,7.99,71.1,78.5,39,3,1,1,1,56.4,4.0,0,45.6,0,Not Placed,0.0
+STU1635,Information Technology,7.12,72.3,67.4,2,4,1,0,4,78.6,3.5,1,23.4,0,Not Placed,0.0
+STU1636,Information Technology,7.51,97.1,84.9,33,2,1,1,2,70.6,2.5,1,32.0,0,Not Placed,0.0
+STU1637,Computer Science,7.08,73.5,60.5,7,2,0,2,1,80.1,3.1,0,40.4,0,Not Placed,0.0
+STU1638,Computer Science,8.77,71.6,59.5,14,0,3,0,1,55.7,4.1,0,53.5,0,Not Placed,0.0
+STU1639,Information Technology,7.82,92.2,87.4,74,3,2,3,2,74.1,3.2,0,57.9,1,Tier 3 (Service/Mass Recruiter),5.04
+STU1640,Computer Science,9.51,85.0,85.1,34,2,1,2,1,84.9,1.9,0,49.6,0,Not Placed,0.0
+STU1641,Computer Science,7.75,73.6,79.4,95,3,1,0,3,62.8,3.5,0,57.4,0,Not Placed,0.0
+STU1642,Computer Science,7.16,83.9,66.0,38,2,0,1,4,49.4,2.7,0,35.7,0,Not Placed,0.0
+STU1643,Computer Science,6.44,72.8,72.9,372,6,1,0,2,64.2,3.6,2,37.7,0,Not Placed,0.0
+STU1644,Computer Science,6.18,91.9,77.4,312,3,0,3,2,81.2,4.6,1,39.3,0,Not Placed,0.0
+STU1645,Mechanical,6.37,91.6,64.0,69,1,1,1,4,80.4,4.0,0,45.4,0,Not Placed,0.0
+STU1646,Information Technology,8.04,86.8,72.6,57,2,1,2,1,63.6,4.6,0,51.0,1,Tier 3 (Service/Mass Recruiter),5.32
+STU1647,Electronics & Comm,8.26,85.3,86.5,52,3,1,0,1,52.3,3.1,0,41.2,0,Not Placed,0.0
+STU1648,Electrical & Electronics,6.38,97.9,94.3,43,5,1,2,2,58.6,3.4,0,41.2,0,Not Placed,0.0
+STU1649,Information Technology,8.61,82.0,75.8,171,4,1,3,1,64.8,2.8,0,60.2,1,Tier 2 (Tech Startup/Mid-Corp),9.51
+STU1650,Computer Science,7.37,71.4,87.6,79,1,0,2,1,73.8,3.0,1,18.7,0,Not Placed,0.0
+STU1651,Information Technology,7.93,86.0,60.9,256,0,0,0,3,67.8,2.9,2,15.1,0,Not Placed,0.0
+STU1652,Information Technology,9.25,99.0,86.6,380,7,2,0,5,62.7,2.6,0,81.8,1,Tier 1 (Product/MNC),46.14
+STU1653,Electronics & Comm,8.61,72.9,72.0,45,4,0,1,3,86.8,4.5,0,56.9,1,Tier 3 (Service/Mass Recruiter),6.84
+STU1654,Information Technology,7.56,78.7,83.1,108,1,1,2,1,70.1,2.0,0,53.3,1,Tier 3 (Service/Mass Recruiter),6.43
+STU1655,Computer Science,7.0,85.7,77.5,13,1,0,0,2,72.6,4.5,0,34.2,0,Not Placed,0.0
+STU1656,Computer Science,5.86,81.5,93.2,29,5,0,1,6,38.9,4.4,0,26.4,0,Not Placed,0.0
+STU1657,Information Technology,7.15,73.2,71.3,70,7,0,3,1,33.0,3.8,0,47.2,0,Not Placed,0.0
+STU1658,Electronics & Comm,7.61,92.1,86.3,25,2,3,0,2,48.2,2.7,0,51.3,1,Tier 3 (Service/Mass Recruiter),6.08
+STU1659,Information Technology,6.91,99.0,77.2,276,4,0,1,4,59.5,2.4,0,55.0,1,Tier 3 (Service/Mass Recruiter),6.17
+STU1660,Information Technology,7.68,83.8,78.4,22,2,1,2,3,76.6,3.1,0,52.6,0,Not Placed,0.0
+STU1661,Civil,7.87,73.9,78.2,50,1,0,1,2,36.3,3.9,0,38.8,0,Not Placed,0.0
+STU1662,Electronics & Comm,7.6,68.1,71.5,102,5,1,2,0,90.6,3.5,0,53.3,0,Not Placed,0.0
+STU1663,Computer Science,7.21,84.3,79.9,155,6,3,1,5,69.5,2.8,1,40.2,1,Tier 3 (Service/Mass Recruiter),7.23
+STU1664,Computer Science,7.95,91.9,79.4,63,1,2,0,0,88.4,4.3,3,1.4,0,Not Placed,0.0
+STU1665,Computer Science,8.2,86.3,82.4,268,2,1,0,1,57.7,4.7,2,33.1,0,Not Placed,0.0
+STU1666,Computer Science,6.82,82.0,80.8,110,0,0,2,2,73.0,3.3,1,29.2,0,Not Placed,0.0
+STU1667,Computer Science,9.07,76.7,88.0,76,2,1,0,2,73.9,3.6,0,58.2,1,Tier 3 (Service/Mass Recruiter),6.06
+STU1668,Computer Science,7.71,72.2,89.2,9,4,2,0,4,80.1,2.4,0,51.5,0,Not Placed,0.0
+STU1669,Computer Science,7.82,89.5,69.5,82,2,3,0,3,65.7,3.2,0,58.3,1,Tier 3 (Service/Mass Recruiter),6.61
+STU1670,Computer Science,8.44,90.2,88.7,226,2,1,1,2,77.4,3.9,0,65.0,1,Tier 2 (Tech Startup/Mid-Corp),12.1
+STU1671,Mechanical,8.01,68.1,68.1,78,1,3,0,2,85.0,3.7,1,34.4,0,Not Placed,0.0
+STU1672,Computer Science,8.66,96.3,85.9,235,3,1,3,1,62.4,3.1,1,51.4,1,Tier 3 (Service/Mass Recruiter),7.4
+STU1673,Information Technology,8.06,87.2,86.2,89,2,0,1,1,73.1,3.3,0,48.4,1,Tier 3 (Service/Mass Recruiter),7.17
+STU1674,Information Technology,7.25,94.6,60.9,16,2,0,0,1,40.8,3.2,0,25.7,0,Not Placed,0.0
+STU1675,Civil,8.13,69.9,80.9,1,1,1,0,6,79.7,3.3,0,47.6,1,Tier 3 (Service/Mass Recruiter),7.34
+STU1676,Computer Science,6.77,69.7,75.3,47,4,1,2,0,93.2,3.8,0,56.2,1,Tier 3 (Service/Mass Recruiter),3.93
+STU1677,Information Technology,7.9,80.7,72.4,158,4,2,2,3,51.8,2.1,0,51.7,0,Not Placed,0.0
+STU1678,Civil,7.77,86.5,93.5,128,3,2,3,4,67.5,3.4,0,65.3,1,Tier 2 (Tech Startup/Mid-Corp),10.81
+STU1679,Electrical & Electronics,7.61,98.2,73.5,28,2,1,0,3,80.7,3.7,2,7.8,0,Not Placed,0.0
+STU1680,Electrical & Electronics,7.68,88.4,71.9,56,6,1,0,3,69.0,3.1,0,49.8,1,Tier 3 (Service/Mass Recruiter),4.7
+STU1681,Computer Science,6.11,79.8,80.8,72,2,0,4,0,66.1,3.2,0,44.3,0,Not Placed,0.0
+STU1682,Computer Science,7.31,72.8,86.9,69,3,0,3,0,61.9,3.2,0,45.3,1,Tier 3 (Service/Mass Recruiter),5.58
+STU1683,Electronics & Comm,7.88,93.1,78.6,28,2,2,0,2,63.2,3.2,4,0.0,0,Not Placed,0.0
+STU1684,Mechanical,7.94,73.3,91.7,12,5,1,2,2,68.1,3.5,1,30.8,0,Not Placed,0.0
+STU1685,Information Technology,6.88,96.7,85.3,28,2,1,3,0,66.7,3.6,0,37.4,0,Not Placed,0.0
+STU1686,Information Technology,8.94,79.4,58.2,7,2,1,1,1,55.8,2.0,4,0.0,0,Not Placed,0.0
+STU1687,Computer Science,7.02,96.3,74.7,29,5,1,1,0,65.6,4.0,0,51.9,1,Tier 3 (Service/Mass Recruiter),5.59
+STU1688,Electronics & Comm,8.67,88.1,74.4,1,2,1,2,6,93.5,3.3,0,49.1,1,Tier 3 (Service/Mass Recruiter),5.49
+STU1689,Computer Science,8.18,80.8,84.8,130,2,1,2,2,64.2,4.9,0,54.0,1,Tier 3 (Service/Mass Recruiter),6.79
+STU1690,Computer Science,7.22,77.3,53.8,50,6,1,0,5,49.8,2.7,0,47.1,0,Not Placed,0.0
+STU1691,Information Technology,9.4,78.9,99.0,477,0,2,0,4,71.6,2.9,0,72.8,1,Tier 1 (Product/MNC),30.58
+STU1692,Information Technology,6.73,85.9,85.3,28,4,1,0,1,55.7,3.4,2,5.5,0,Not Placed,0.0
+STU1693,Computer Science,8.63,82.7,81.5,56,0,1,2,4,52.6,3.8,1,28.1,0,Not Placed,0.0
+STU1694,Computer Science,8.7,76.7,91.8,58,3,1,1,4,73.5,2.1,0,53.8,0,Not Placed,0.0
+STU1695,Electronics & Comm,7.2,80.5,99.0,0,2,2,0,2,57.1,2.9,0,34.3,0,Not Placed,0.0
+STU1696,Computer Science,9.05,82.7,88.7,241,3,2,1,1,63.9,3.9,0,79.8,1,Tier 2 (Tech Startup/Mid-Corp),16.79
+STU1697,Information Technology,7.57,62.8,89.5,4,4,1,2,2,70.4,2.8,0,46.5,1,Tier 3 (Service/Mass Recruiter),4.8
+STU1698,Computer Science,8.06,86.1,81.3,371,2,1,0,2,48.2,4.5,0,72.9,1,Tier 1 (Product/MNC),29.38
+STU1699,Information Technology,8.03,73.2,78.6,293,7,1,3,2,45.2,3.2,0,73.4,1,Tier 2 (Tech Startup/Mid-Corp),13.72
+STU1700,Information Technology,7.68,71.6,75.2,101,0,1,3,4,77.9,2.9,0,44.8,0,Not Placed,0.0
+STU1701,Computer Science,8.53,66.8,71.7,103,6,0,4,0,44.1,3.9,1,44.9,0,Not Placed,0.0
+STU1702,Computer Science,8.51,65.9,73.1,140,3,2,0,1,57.4,4.6,0,57.6,1,Tier 3 (Service/Mass Recruiter),6.54
+STU1703,Computer Science,6.23,69.8,66.5,64,1,0,0,1,39.0,3.8,0,22.6,0,Not Placed,0.0
+STU1704,Computer Science,8.97,75.6,79.2,137,1,2,2,2,65.6,4.4,0,73.1,1,Tier 2 (Tech Startup/Mid-Corp),10.49
+STU1705,Civil,6.3,99.0,63.2,3,2,0,2,3,70.4,4.7,0,40.9,0,Not Placed,0.0
+STU1706,Computer Science,8.73,77.3,81.9,7,3,2,0,0,73.3,2.9,0,60.8,1,Tier 3 (Service/Mass Recruiter),7.4
+STU1707,Electrical & Electronics,8.81,83.6,79.6,50,5,1,1,1,100.0,4.2,0,63.4,1,Tier 3 (Service/Mass Recruiter),6.64
+STU1708,Computer Science,6.82,85.6,81.5,105,0,0,1,1,81.2,2.4,0,37.2,0,Not Placed,0.0
+STU1709,Electronics & Comm,7.43,83.2,74.8,240,1,0,3,0,54.8,3.8,2,21.1,0,Not Placed,0.0
+STU1710,Electronics & Comm,6.8,81.3,99.0,12,2,1,1,1,49.2,3.5,0,36.1,0,Not Placed,0.0
+STU1711,Information Technology,7.61,71.2,93.6,228,3,1,1,2,100.0,4.4,1,47.4,1,Tier 3 (Service/Mass Recruiter),7.03
+STU1712,Information Technology,7.52,95.1,67.6,31,2,1,2,1,82.9,4.3,0,46.6,0,Not Placed,0.0
+STU1713,Information Technology,8.5,98.3,82.3,66,4,2,0,2,79.3,3.9,2,26.2,0,Not Placed,0.0
+STU1714,Computer Science,8.98,66.9,73.9,50,3,1,2,3,73.5,3.7,0,53.9,1,Tier 3 (Service/Mass Recruiter),7.57
+STU1715,Mechanical,9.06,72.8,69.9,42,2,1,1,3,76.5,3.9,0,50.4,0,Not Placed,0.0
+STU1716,Electrical & Electronics,7.29,79.5,66.6,13,2,1,1,2,46.6,3.5,0,40.1,0,Not Placed,0.0
+STU1717,Civil,7.61,73.3,84.3,57,3,0,2,2,70.5,3.5,0,45.9,0,Not Placed,0.0
+STU1718,Computer Science,6.28,86.6,73.2,213,2,1,1,0,65.4,4.5,0,57.4,1,Tier 3 (Service/Mass Recruiter),5.46
+STU1719,Electronics & Comm,7.07,75.4,89.7,64,1,1,1,1,54.1,4.6,4,0.0,0,Not Placed,0.0
+STU1720,Mechanical,8.67,99.0,89.9,55,3,2,0,1,64.0,3.4,1,35.4,0,Not Placed,0.0
+STU1721,Computer Science,9.25,92.7,93.7,249,7,2,0,2,94.5,3.7,0,82.6,1,Tier 2 (Tech Startup/Mid-Corp),17.49
+STU1722,Computer Science,6.69,83.9,71.5,161,3,0,1,6,63.8,3.6,0,43.7,0,Not Placed,0.0
+STU1723,Electronics & Comm,7.27,91.2,84.8,74,2,1,3,1,96.3,2.4,0,48.6,0,Not Placed,0.0
+STU1724,Information Technology,7.78,92.0,86.3,39,5,1,0,1,44.5,3.3,1,26.1,0,Not Placed,0.0
+STU1725,Electrical & Electronics,8.05,76.9,75.3,178,1,1,2,3,62.3,4.6,1,40.5,0,Not Placed,0.0
+STU1726,Computer Science,7.07,74.7,72.3,113,1,0,2,4,45.1,3.0,0,45.6,0,Not Placed,0.0
+STU1727,Electrical & Electronics,8.18,82.7,96.1,20,1,2,3,1,53.1,5.0,0,48.4,1,Tier 3 (Service/Mass Recruiter),7.19
+STU1728,Computer Science,7.37,89.8,82.3,41,4,1,2,2,56.0,4.3,1,37.6,0,Not Placed,0.0
+STU1729,Computer Science,7.79,83.3,86.4,214,2,1,1,2,73.3,3.8,0,63.6,0,Not Placed,0.0
+STU1730,Computer Science,8.29,67.8,71.8,5,3,1,0,1,74.1,3.9,0,54.5,0,Not Placed,0.0
+STU1731,Electrical & Electronics,7.81,74.8,67.8,399,3,3,1,1,59.4,2.9,0,90.3,1,Tier 1 (Product/MNC),44.51
+STU1732,Electronics & Comm,7.41,81.3,74.3,15,2,1,2,0,36.5,3.3,1,26.7,1,Tier 3 (Service/Mass Recruiter),6.88
+STU1733,Information Technology,7.7,81.3,78.8,209,0,2,0,1,89.3,4.5,0,66.1,1,Tier 2 (Tech Startup/Mid-Corp),14.91
+STU1734,Information Technology,7.72,99.0,69.4,66,1,0,4,2,64.7,3.1,3,0.0,0,Not Placed,0.0
+STU1735,Electrical & Electronics,7.47,69.5,79.9,55,2,1,2,3,52.3,4.2,0,42.2,1,Tier 3 (Service/Mass Recruiter),5.69
+STU1736,Information Technology,7.57,86.6,63.1,280,2,0,2,2,72.1,2.5,0,60.1,1,Tier 2 (Tech Startup/Mid-Corp),9.88
+STU1737,Electrical & Electronics,9.24,95.4,68.8,43,0,2,3,5,76.1,2.7,0,49.8,1,Tier 3 (Service/Mass Recruiter),7.81
+STU1738,Information Technology,8.3,99.0,86.7,101,0,0,1,1,65.9,4.8,2,13.8,0,Not Placed,0.0
+STU1739,Information Technology,7.53,78.4,86.0,6,3,1,3,1,70.2,3.5,0,39.9,0,Not Placed,0.0
+STU1740,Information Technology,8.43,86.4,76.1,0,1,2,0,1,54.6,3.1,0,48.6,0,Not Placed,0.0
+STU1741,Computer Science,7.5,87.1,69.8,37,6,0,5,3,78.6,4.5,0,54.5,0,Not Placed,0.0
+STU1742,Electronics & Comm,8.86,83.8,69.7,125,3,1,1,2,58.1,4.4,0,61.2,1,Tier 2 (Tech Startup/Mid-Corp),15.51
+STU1743,Information Technology,8.13,81.1,76.3,17,0,2,2,0,61.4,4.1,1,27.7,0,Not Placed,0.0
+STU1744,Computer Science,7.7,85.9,86.4,15,3,0,0,2,77.7,3.1,0,32.6,0,Not Placed,0.0
+STU1745,Mechanical,8.2,59.2,89.3,43,1,2,0,2,87.0,3.3,1,38.3,0,Not Placed,0.0
+STU1746,Information Technology,6.39,88.1,75.0,137,3,0,1,1,86.9,3.7,2,16.8,0,Not Placed,0.0
+STU1747,Information Technology,6.79,83.1,68.5,164,2,0,0,0,80.6,4.0,0,45.8,0,Not Placed,0.0
+STU1748,Mechanical,6.73,80.0,82.7,16,2,0,1,1,61.1,3.1,1,17.3,0,Not Placed,0.0
+STU1749,Electronics & Comm,7.93,99.0,71.8,9,1,2,2,3,47.7,3.6,0,44.4,0,Not Placed,0.0
+STU1750,Computer Science,9.36,75.9,74.8,372,5,2,0,1,93.2,3.7,0,91.7,1,Tier 1 (Product/MNC),29.76
+STU1751,Mechanical,9.81,78.4,93.3,24,2,1,1,5,94.1,4.4,0,64.2,1,Tier 3 (Service/Mass Recruiter),6.21
+STU1752,Electronics & Comm,8.37,99.0,88.3,211,0,1,2,2,61.2,4.0,0,61.9,0,Not Placed,0.0
+STU1753,Computer Science,8.25,74.5,81.6,262,3,0,1,3,83.1,2.4,0,67.9,1,Tier 2 (Tech Startup/Mid-Corp),14.49
+STU1754,Computer Science,6.18,77.0,67.3,195,2,0,4,2,59.4,3.4,0,51.1,0,Not Placed,0.0
+STU1755,Electrical & Electronics,7.31,80.7,82.1,15,4,0,3,0,88.5,2.8,2,10.9,0,Not Placed,0.0
+STU1756,Electronics & Comm,7.09,89.6,90.6,189,2,1,3,1,59.6,3.9,1,36.1,1,Tier 3 (Service/Mass Recruiter),5.57
+STU1757,Information Technology,7.24,83.9,76.2,193,4,0,0,1,94.9,4.1,0,56.6,1,Tier 3 (Service/Mass Recruiter),4.36
+STU1758,Mechanical,7.65,70.4,93.5,74,5,0,1,3,79.5,3.6,0,55.1,1,Tier 3 (Service/Mass Recruiter),4.71
+STU1759,Electrical & Electronics,7.38,77.2,92.9,33,1,1,1,4,92.8,3.3,0,38.7,0,Not Placed,0.0
+STU1760,Computer Science,6.02,76.5,96.6,40,4,1,3,2,57.1,3.5,0,47.6,0,Not Placed,0.0
+STU1761,Computer Science,8.47,81.3,83.1,17,1,1,3,3,76.6,3.6,0,49.8,1,Tier 3 (Service/Mass Recruiter),6.98
+STU1762,Computer Science,6.83,85.8,85.9,94,3,1,2,0,52.4,3.1,0,42.7,0,Not Placed,0.0
+STU1763,Electronics & Comm,8.02,85.8,94.1,96,2,0,6,0,81.4,2.6,0,51.6,0,Not Placed,0.0
+STU1764,Computer Science,9.67,66.0,84.5,58,4,1,1,1,87.1,2.1,1,45.3,0,Not Placed,0.0
+STU1765,Information Technology,6.97,91.6,75.0,85,1,1,0,2,100.0,4.4,0,48.4,1,Tier 3 (Service/Mass Recruiter),5.04
+STU1766,Electronics & Comm,5.52,84.3,75.5,49,5,0,0,2,68.8,3.8,0,43.0,0,Not Placed,0.0
+STU1767,Electrical & Electronics,7.54,94.5,82.4,84,3,0,0,2,78.3,3.8,0,41.2,1,Tier 3 (Service/Mass Recruiter),5.84
+STU1768,Computer Science,8.79,86.0,67.1,305,1,0,2,2,65.3,4.4,0,65.6,1,Tier 2 (Tech Startup/Mid-Corp),15.78
+STU1769,Electrical & Electronics,9.56,91.9,78.6,14,1,2,4,0,81.8,2.6,0,60.0,0,Not Placed,0.0
+STU1770,Computer Science,6.69,86.2,91.0,63,3,0,1,2,60.3,2.3,0,33.0,0,Not Placed,0.0
+STU1771,Electrical & Electronics,8.25,94.1,58.1,12,4,1,0,1,71.9,3.8,0,50.1,1,Tier 3 (Service/Mass Recruiter),6.9
+STU1772,Computer Science,7.38,86.7,95.3,129,2,3,2,0,70.1,3.7,0,60.3,0,Not Placed,0.0
+STU1773,Information Technology,7.7,81.1,91.2,172,1,0,0,1,63.7,2.3,0,45.6,0,Not Placed,0.0
+STU1774,Electrical & Electronics,9.9,99.0,75.4,221,2,2,0,1,76.1,3.8,0,80.8,1,Tier 2 (Tech Startup/Mid-Corp),12.32
+STU1775,Computer Science,6.45,90.0,85.4,43,6,0,1,0,59.6,3.2,0,36.7,0,Not Placed,0.0
+STU1776,Computer Science,8.03,87.2,80.0,395,3,2,1,2,64.3,2.9,0,80.1,1,Tier 1 (Product/MNC),22.56
+STU1777,Electronics & Comm,8.22,70.5,92.3,7,4,1,1,2,85.2,3.3,0,49.6,1,Tier 3 (Service/Mass Recruiter),6.38
+STU1778,Electronics & Comm,8.78,70.4,89.8,101,0,2,1,2,74.3,1.8,0,54.4,0,Not Placed,0.0
+STU1779,Electronics & Comm,7.89,84.6,66.0,6,3,1,3,2,74.0,3.1,3,0.0,0,Not Placed,0.0
+STU1780,Electronics & Comm,8.08,83.3,85.9,246,2,1,1,0,49.3,3.0,0,55.1,1,Tier 3 (Service/Mass Recruiter),6.8
+STU1781,Information Technology,7.45,76.5,77.9,99,4,0,1,3,73.8,3.9,1,28.9,0,Not Placed,0.0
+STU1782,Computer Science,8.04,83.3,80.8,146,0,1,2,0,77.1,3.4,1,38.0,0,Not Placed,0.0
+STU1783,Computer Science,7.49,96.3,72.7,235,3,0,1,2,62.4,3.9,2,21.3,0,Not Placed,0.0
+STU1784,Computer Science,8.36,88.3,97.5,21,2,1,1,0,99.8,1.7,0,47.2,1,Tier 3 (Service/Mass Recruiter),5.02
+STU1785,Mechanical,7.47,71.7,90.4,3,1,0,1,4,35.9,2.9,1,13.5,0,Not Placed,0.0
+STU1786,Information Technology,8.14,81.0,72.6,278,3,1,0,0,80.9,3.9,2,35.9,0,Not Placed,0.0
+STU1787,Information Technology,7.77,74.8,66.7,49,2,0,2,5,78.8,3.3,0,43.0,0,Not Placed,0.0
+STU1788,Information Technology,8.81,78.5,76.1,18,3,3,0,4,79.5,4.1,0,56.8,0,Not Placed,0.0
+STU1789,Mechanical,7.75,78.3,84.3,52,2,2,2,0,71.2,2.2,3,0.0,0,Not Placed,0.0
+STU1790,Computer Science,6.2,77.7,82.4,120,2,0,1,0,71.8,4.0,0,41.7,0,Not Placed,0.0
+STU1791,Information Technology,8.94,70.7,92.5,4,4,2,2,2,84.5,3.1,0,52.3,0,Not Placed,0.0
+STU1792,Information Technology,6.98,80.9,87.9,42,3,1,0,3,56.3,3.0,1,22.1,0,Not Placed,0.0
+STU1793,Electronics & Comm,7.21,77.0,89.7,3,3,0,2,1,71.3,4.2,0,47.0,0,Not Placed,0.0
+STU1794,Computer Science,7.26,55.6,83.3,71,6,0,3,1,64.7,4.3,0,53.3,1,Tier 3 (Service/Mass Recruiter),5.3
+STU1795,Electrical & Electronics,9.04,99.0,66.1,186,2,2,2,2,57.3,4.2,0,67.6,1,Tier 2 (Tech Startup/Mid-Corp),16.91
+STU1796,Mechanical,5.88,91.8,78.0,334,5,1,0,4,73.2,4.9,0,75.5,0,Not Placed,0.0
+STU1797,Information Technology,9.9,78.6,90.6,133,3,1,1,1,67.3,4.4,1,55.9,1,Tier 3 (Service/Mass Recruiter),8.18
+STU1798,Electronics & Comm,8.75,82.2,79.5,19,0,2,0,1,50.8,2.9,0,40.8,0,Not Placed,0.0
+STU1799,Mechanical,8.0,71.5,85.0,194,1,1,2,0,62.0,3.6,1,40.3,0,Not Placed,0.0
+STU1800,Electronics & Comm,7.75,97.3,76.8,79,2,2,3,1,57.6,3.2,0,55.4,1,Tier 3 (Service/Mass Recruiter),5.75
+STU1801,Computer Science,8.06,99.0,69.7,22,4,2,1,0,84.1,4.9,0,60.2,0,Not Placed,0.0
+STU1802,Information Technology,8.27,83.4,78.8,336,2,3,1,1,72.5,4.3,0,87.9,1,Tier 1 (Product/MNC),21.97
+STU1803,Electronics & Comm,8.38,91.2,83.1,155,6,0,1,2,90.0,3.4,0,65.2,0,Not Placed,0.0
+STU1804,Information Technology,8.3,83.6,73.4,173,3,0,4,3,61.1,4.1,1,45.1,0,Not Placed,0.0
+STU1805,Electronics & Comm,7.88,70.0,77.6,135,4,1,1,1,81.4,2.6,0,60.8,1,Tier 2 (Tech Startup/Mid-Corp),10.62
+STU1806,Mechanical,7.62,78.3,70.6,18,7,1,1,4,100.0,3.7,1,43.0,1,Tier 3 (Service/Mass Recruiter),4.99
+STU1807,Mechanical,7.66,83.2,91.2,19,3,0,0,3,73.5,2.8,0,42.8,0,Not Placed,0.0
+STU1808,Information Technology,7.62,77.9,77.1,153,3,0,1,2,80.4,2.3,0,52.7,0,Not Placed,0.0
+STU1809,Computer Science,8.82,80.0,94.5,32,1,3,1,1,81.7,4.0,0,54.7,0,Not Placed,0.0
+STU1810,Civil,8.33,81.2,95.3,47,3,2,2,3,50.6,4.1,1,35.8,0,Not Placed,0.0
+STU1811,Electrical & Electronics,5.2,81.3,79.2,125,2,0,0,3,69.3,3.8,0,37.5,0,Not Placed,0.0
+STU1812,Computer Science,8.39,82.5,69.9,202,4,2,1,2,75.0,3.4,0,70.4,1,Tier 2 (Tech Startup/Mid-Corp),11.08
+STU1813,Mechanical,7.98,72.5,59.1,49,4,1,1,1,65.8,2.6,0,52.9,0,Not Placed,0.0
+STU1814,Electrical & Electronics,7.78,75.5,65.3,129,1,2,0,2,56.5,2.7,0,57.2,0,Not Placed,0.0
+STU1815,Information Technology,7.45,70.4,66.3,240,4,1,1,2,77.6,2.8,0,58.9,1,Tier 3 (Service/Mass Recruiter),5.76
+STU1816,Information Technology,8.81,90.8,93.8,140,4,0,2,4,58.3,3.3,0,63.1,1,Tier 2 (Tech Startup/Mid-Corp),14.34
+STU1817,Information Technology,8.65,63.0,81.2,34,2,1,2,1,100.0,4.3,2,21.1,0,Not Placed,0.0
+STU1818,Computer Science,7.1,92.4,83.9,42,5,0,2,0,68.4,4.2,0,52.3,0,Not Placed,0.0
+STU1819,Computer Science,8.17,94.5,57.8,49,1,1,1,6,52.9,2.3,0,41.4,0,Not Placed,0.0
+STU1820,Electrical & Electronics,6.93,79.3,68.0,10,3,0,3,1,59.1,3.0,0,46.9,0,Not Placed,0.0
+STU1821,Computer Science,6.56,58.6,88.9,42,1,2,3,2,61.3,3.0,0,44.4,1,Tier 3 (Service/Mass Recruiter),4.22
+STU1822,Computer Science,7.24,78.7,82.9,31,2,0,1,1,100.0,1.7,0,36.2,0,Not Placed,0.0
+STU1823,Information Technology,8.58,81.4,78.5,80,2,1,0,6,58.8,3.9,2,16.6,0,Not Placed,0.0
+STU1824,Information Technology,8.66,72.9,85.6,315,1,1,1,1,69.8,3.3,2,34.1,0,Not Placed,0.0
+STU1825,Mechanical,8.26,77.4,96.4,9,0,1,0,4,62.8,3.4,0,43.7,0,Not Placed,0.0
+STU1826,Computer Science,8.45,95.8,77.8,168,1,1,1,0,77.8,4.4,0,62.5,1,Tier 2 (Tech Startup/Mid-Corp),16.36
+STU1827,Computer Science,8.26,88.0,80.7,153,3,2,0,1,63.0,3.6,1,53.2,0,Not Placed,0.0
+STU1828,Electronics & Comm,7.22,73.7,81.9,11,5,1,2,3,51.2,3.2,2,8.9,0,Not Placed,0.0
+STU1829,Information Technology,8.19,67.6,99.0,337,3,1,1,5,67.3,3.9,0,73.1,1,Tier 2 (Tech Startup/Mid-Corp),13.89
+STU1830,Computer Science,8.52,79.1,59.0,110,4,2,2,3,66.9,4.2,0,61.6,1,Tier 3 (Service/Mass Recruiter),6.52
+STU1831,Information Technology,8.48,80.1,86.8,59,1,0,2,1,62.6,3.7,2,10.2,0,Not Placed,0.0
+STU1832,Computer Science,8.87,86.5,78.9,186,1,1,0,1,64.6,4.0,0,60.1,1,Tier 2 (Tech Startup/Mid-Corp),17.64
+STU1833,Computer Science,8.44,77.2,85.7,39,3,2,1,3,87.4,3.4,0,59.8,0,Not Placed,0.0
+STU1834,Information Technology,8.12,86.6,73.4,156,5,0,2,1,65.4,3.4,2,24.0,0,Not Placed,0.0
+STU1835,Information Technology,8.76,99.0,79.5,5,6,1,0,3,55.9,3.6,1,33.2,0,Not Placed,0.0
+STU1836,Mechanical,7.78,89.3,87.1,150,3,2,1,2,62.4,3.0,0,55.4,1,Tier 3 (Service/Mass Recruiter),6.32
+STU1837,Information Technology,7.01,81.6,99.0,78,1,0,2,0,67.3,3.1,0,37.7,0,Not Placed,0.0
+STU1838,Information Technology,7.65,80.4,88.1,133,2,1,1,0,49.8,4.5,0,56.6,1,Tier 3 (Service/Mass Recruiter),7.23
+STU1839,Electronics & Comm,7.13,78.8,71.5,27,1,2,1,2,89.7,4.9,2,20.3,1,Tier 3 (Service/Mass Recruiter),4.97
+STU1840,Computer Science,7.19,92.6,75.8,149,2,0,0,3,79.2,4.6,4,0.0,0,Not Placed,0.0
+STU1841,Electronics & Comm,7.67,76.4,75.5,162,1,0,0,1,88.5,2.6,1,25.4,0,Not Placed,0.0
+STU1842,Computer Science,7.09,82.4,62.0,84,3,1,0,2,72.3,2.5,0,44.2,0,Not Placed,0.0
+STU1843,Civil,7.52,82.5,76.7,79,0,2,3,1,38.8,2.7,0,53.5,0,Not Placed,0.0
+STU1844,Computer Science,6.1,77.5,87.3,80,3,0,1,1,85.3,3.6,0,45.2,1,Tier 3 (Service/Mass Recruiter),4.41
+STU1845,Information Technology,7.99,69.6,67.3,296,4,1,2,1,57.4,1.5,0,68.4,1,Tier 2 (Tech Startup/Mid-Corp),12.82
+STU1846,Computer Science,7.8,84.9,90.5,90,3,2,0,3,58.0,3.1,0,56.2,0,Not Placed,0.0
+STU1847,Civil,7.06,81.5,84.9,152,1,1,3,1,68.9,4.5,0,61.0,1,Tier 2 (Tech Startup/Mid-Corp),11.65
+STU1848,Information Technology,8.39,86.5,72.7,213,1,1,0,4,90.0,4.2,0,58.5,0,Not Placed,0.0
+STU1849,Information Technology,8.64,77.2,78.6,69,4,0,1,3,86.2,3.1,2,16.7,0,Not Placed,0.0
+STU1850,Computer Science,6.35,93.0,96.0,34,2,0,0,4,77.2,3.2,0,30.8,0,Not Placed,0.0
+STU1851,Electronics & Comm,7.11,74.1,87.3,57,2,1,2,2,62.5,3.9,0,48.3,0,Not Placed,0.0
+STU1852,Computer Science,7.11,97.4,80.1,230,1,1,0,1,62.2,4.2,0,54.4,0,Not Placed,0.0
+STU1853,Mechanical,6.95,66.3,77.6,21,2,2,1,1,71.2,3.1,0,47.7,0,Not Placed,0.0
+STU1854,Computer Science,8.55,85.9,80.8,98,2,2,5,2,69.3,3.3,0,59.5,1,Tier 3 (Service/Mass Recruiter),5.34
+STU1855,Computer Science,7.63,86.3,74.9,216,3,1,0,2,80.8,3.1,0,65.4,1,Tier 2 (Tech Startup/Mid-Corp),13.85
+STU1856,Computer Science,7.56,74.8,59.0,57,2,1,1,2,79.8,2.6,0,45.6,1,Tier 3 (Service/Mass Recruiter),4.32
+STU1857,Information Technology,6.0,85.8,99.0,135,2,0,1,4,71.8,3.3,0,42.8,0,Not Placed,0.0
+STU1858,Information Technology,8.37,93.5,81.6,37,4,2,1,1,35.3,3.3,0,55.6,1,Tier 3 (Service/Mass Recruiter),6.76
+STU1859,Computer Science,6.68,62.0,84.0,15,2,0,2,2,67.3,2.6,1,20.3,0,Not Placed,0.0
+STU1860,Electronics & Comm,7.85,86.5,79.4,173,4,0,2,1,67.5,4.0,0,60.5,1,Tier 2 (Tech Startup/Mid-Corp),12.18
+STU1861,Information Technology,8.05,59.6,72.6,13,0,2,1,1,72.0,3.8,0,50.3,0,Not Placed,0.0
+STU1862,Information Technology,9.02,73.3,78.1,41,0,2,2,3,62.0,4.0,0,61.6,1,Tier 3 (Service/Mass Recruiter),7.01
+STU1863,Information Technology,6.62,96.7,64.0,254,1,0,1,1,46.8,3.0,0,47.3,1,Tier 3 (Service/Mass Recruiter),5.38
+STU1864,Information Technology,5.2,76.8,99.0,56,3,0,4,4,67.6,2.1,1,13.2,0,Not Placed,0.0
+STU1865,Information Technology,7.97,71.4,67.7,476,5,1,2,2,64.4,3.8,0,84.0,1,Tier 1 (Product/MNC),46.1
+STU1866,Computer Science,9.42,80.2,69.7,514,1,3,0,0,81.8,3.0,0,87.2,1,Tier 1 (Product/MNC),32.68
+STU1867,Computer Science,8.92,99.0,75.6,41,2,1,3,5,62.9,2.9,1,25.8,0,Not Placed,0.0
+STU1868,Electrical & Electronics,7.99,65.5,92.9,3,2,1,3,3,89.3,2.6,0,50.9,1,Tier 3 (Service/Mass Recruiter),7.54
+STU1869,Mechanical,7.36,72.5,80.1,100,0,0,1,2,81.6,3.3,0,41.7,0,Not Placed,0.0
+STU1870,Information Technology,8.53,95.5,67.6,79,0,1,1,0,75.2,4.6,0,56.8,1,Tier 3 (Service/Mass Recruiter),4.82
+STU1871,Computer Science,6.92,98.7,92.5,14,0,1,1,0,63.3,3.1,0,31.0,1,Tier 3 (Service/Mass Recruiter),6.16
+STU1872,Electronics & Comm,8.23,81.1,87.3,135,1,3,0,4,82.1,2.7,0,54.8,1,Tier 3 (Service/Mass Recruiter),5.94
+STU1873,Information Technology,8.25,70.8,85.4,4,2,2,0,1,75.8,4.0,0,51.4,1,Tier 3 (Service/Mass Recruiter),7.13
+STU1874,Computer Science,8.75,99.0,87.2,269,1,3,2,1,75.1,3.6,1,60.4,1,Tier 2 (Tech Startup/Mid-Corp),15.92
+STU1875,Computer Science,9.9,96.3,99.0,19,4,3,3,1,89.8,2.0,0,62.6,1,Tier 3 (Service/Mass Recruiter),7.72
+STU1876,Electronics & Comm,8.15,88.1,99.0,14,6,0,0,4,89.9,4.0,0,52.9,1,Tier 3 (Service/Mass Recruiter),4.76
+STU1877,Electronics & Comm,7.34,74.7,73.1,21,1,1,2,1,50.0,5.0,0,38.7,0,Not Placed,0.0
+STU1878,Computer Science,7.78,81.6,96.2,425,3,0,0,6,54.1,1.7,0,62.0,1,Tier 2 (Tech Startup/Mid-Corp),15.01
+STU1879,Computer Science,6.21,80.6,83.8,155,2,0,0,3,53.2,2.6,1,16.9,0,Not Placed,0.0
+STU1880,Computer Science,7.17,85.0,85.0,213,1,1,1,0,46.0,1.5,0,50.1,0,Not Placed,0.0
+STU1881,Electronics & Comm,7.43,95.1,63.1,55,4,2,3,1,66.9,3.4,1,36.1,0,Not Placed,0.0
+STU1882,Computer Science,7.33,89.9,78.3,54,1,0,0,3,75.9,4.2,3,0.0,0,Not Placed,0.0
+STU1883,Computer Science,7.94,72.3,71.9,35,0,1,1,2,69.0,3.6,0,49.4,1,Tier 3 (Service/Mass Recruiter),5.06
+STU1884,Electrical & Electronics,7.06,94.4,88.3,54,3,0,1,2,59.2,4.5,1,23.2,0,Not Placed,0.0
+STU1885,Computer Science,8.81,84.8,90.7,105,1,1,4,2,87.7,4.1,0,66.0,0,Not Placed,0.0
+STU1886,Electronics & Comm,7.8,88.2,59.3,109,2,1,0,1,70.9,4.7,0,52.2,1,Tier 3 (Service/Mass Recruiter),4.4
+STU1887,Computer Science,7.79,95.2,79.8,39,4,1,0,1,73.7,4.3,0,57.9,1,Tier 3 (Service/Mass Recruiter),5.01
+STU1888,Computer Science,7.5,72.0,91.2,391,3,1,0,2,84.2,3.2,0,73.5,1,Tier 1 (Product/MNC),31.38
+STU1889,Computer Science,7.94,81.7,78.1,24,2,1,1,1,67.6,3.5,4,0.0,0,Not Placed,0.0
+STU1890,Electronics & Comm,8.54,77.2,87.3,370,5,0,2,2,100.0,2.9,0,81.2,1,Tier 1 (Product/MNC),40.08
+STU1891,Electrical & Electronics,7.02,67.9,83.5,1,2,0,1,2,60.3,3.3,0,34.1,0,Not Placed,0.0
+STU1892,Electrical & Electronics,7.21,85.1,83.4,54,1,0,1,2,95.1,3.5,0,46.6,1,Tier 3 (Service/Mass Recruiter),4.78
+STU1893,Information Technology,7.53,99.0,77.3,53,4,0,2,2,54.4,3.4,0,48.7,0,Not Placed,0.0
+STU1894,Electronics & Comm,6.59,65.4,67.8,65,4,0,1,3,72.5,4.4,0,44.9,1,Tier 3 (Service/Mass Recruiter),4.2
+STU1895,Computer Science,7.06,81.7,68.8,111,4,0,0,1,57.7,3.3,1,32.6,0,Not Placed,0.0
+STU1896,Computer Science,7.37,87.8,87.1,75,5,0,1,6,83.3,2.8,0,52.9,0,Not Placed,0.0
+STU1897,Mechanical,8.59,83.1,80.2,44,3,0,1,2,64.6,2.9,2,8.4,0,Not Placed,0.0
+STU1898,Computer Science,8.04,81.0,78.6,174,0,1,1,1,73.7,4.0,1,31.6,1,Tier 3 (Service/Mass Recruiter),6.48
+STU1899,Computer Science,7.97,70.3,75.8,152,0,1,2,0,60.3,2.5,0,47.8,1,Tier 3 (Service/Mass Recruiter),7.54
+STU1900,Computer Science,8.57,84.1,76.9,236,4,2,1,2,84.3,3.4,0,75.9,1,Tier 2 (Tech Startup/Mid-Corp),14.19
+STU1901,Computer Science,7.68,75.2,90.5,37,7,2,1,1,59.3,4.4,0,56.1,1,Tier 3 (Service/Mass Recruiter),6.48
+STU1902,Computer Science,8.15,62.3,76.6,124,1,1,0,1,93.5,3.7,1,42.1,0,Not Placed,0.0
+STU1903,Information Technology,7.71,92.8,66.6,116,0,1,2,1,54.7,3.4,0,42.4,0,Not Placed,0.0
+STU1904,Information Technology,8.04,90.6,87.4,60,1,2,0,1,50.8,3.5,0,45.1,0,Not Placed,0.0
+STU1905,Mechanical,7.28,82.5,78.0,54,1,0,3,2,80.6,2.8,0,37.0,0,Not Placed,0.0
+STU1906,Electrical & Electronics,5.61,84.1,80.3,31,3,0,1,0,54.0,2.9,0,23.3,0,Not Placed,0.0
+STU1907,Computer Science,7.68,91.7,96.1,20,1,1,1,1,68.4,3.4,0,39.2,0,Not Placed,0.0
+STU1908,Computer Science,9.08,84.0,79.8,31,2,2,3,3,68.2,3.7,0,61.3,1,Tier 3 (Service/Mass Recruiter),6.63
+STU1909,Information Technology,8.63,90.1,82.9,14,2,2,1,1,53.0,4.2,0,55.4,0,Not Placed,0.0
+STU1910,Information Technology,8.67,79.3,68.2,151,0,1,0,2,70.4,3.6,0,49.5,0,Not Placed,0.0
+STU1911,Computer Science,8.91,93.8,77.8,142,6,2,1,1,89.9,4.4,0,69.1,1,Tier 2 (Tech Startup/Mid-Corp),16.05
+STU1912,Electronics & Comm,7.88,84.9,86.1,330,1,0,1,0,83.2,4.6,0,59.6,1,Tier 3 (Service/Mass Recruiter),7.47
+STU1913,Information Technology,7.98,83.7,64.4,172,7,1,1,3,72.7,4.1,1,49.3,1,Tier 3 (Service/Mass Recruiter),6.13
+STU1914,Information Technology,7.24,70.6,82.0,7,3,0,0,1,82.8,4.4,0,38.2,0,Not Placed,0.0
+STU1915,Information Technology,7.52,84.6,81.0,284,3,1,1,6,53.2,2.8,0,68.0,1,Tier 2 (Tech Startup/Mid-Corp),11.45
+STU1916,Computer Science,8.35,74.5,80.4,262,0,2,2,3,66.0,2.7,0,67.0,1,Tier 2 (Tech Startup/Mid-Corp),16.01
+STU1917,Mechanical,8.88,76.3,90.4,48,2,1,1,0,77.7,3.9,0,53.9,0,Not Placed,0.0
+STU1918,Electronics & Comm,7.67,74.7,83.3,96,1,1,1,3,66.7,2.6,0,42.6,0,Not Placed,0.0
+STU1919,Computer Science,7.39,72.4,94.8,492,1,3,1,3,64.2,3.3,0,71.0,0,Not Placed,0.0
+STU1920,Electrical & Electronics,7.8,99.0,70.1,62,2,1,3,3,52.1,4.0,1,26.9,0,Not Placed,0.0
+STU1921,Information Technology,8.34,94.0,81.4,311,1,1,2,0,41.4,4.5,0,64.8,1,Tier 2 (Tech Startup/Mid-Corp),16.87
+STU1922,Mechanical,6.5,99.0,80.8,7,1,1,2,0,76.5,3.3,0,34.9,0,Not Placed,0.0
+STU1923,Electrical & Electronics,5.73,71.0,69.3,17,4,0,1,1,66.1,3.0,2,0.0,0,Not Placed,0.0
+STU1924,Information Technology,7.3,82.6,89.6,76,4,1,4,2,80.0,3.7,0,57.7,1,Tier 3 (Service/Mass Recruiter),4.54
+STU1925,Computer Science,6.7,70.4,99.0,116,0,0,1,1,59.5,2.7,0,36.6,0,Not Placed,0.0
+STU1926,Computer Science,7.34,75.7,79.8,223,7,1,4,6,57.5,3.4,0,61.3,0,Not Placed,0.0
+STU1927,Information Technology,7.67,73.7,85.1,586,2,2,2,1,68.6,3.5,2,50.7,1,Tier 1 (Product/MNC),36.23
+STU1928,Electronics & Comm,7.39,93.2,80.8,54,2,1,2,0,79.6,3.5,0,41.7,0,Not Placed,0.0
+STU1929,Computer Science,9.11,78.4,72.9,6,1,1,3,2,69.6,3.6,0,52.3,0,Not Placed,0.0
+STU1930,Computer Science,8.09,91.6,61.8,213,2,1,2,3,81.0,2.9,0,62.1,1,Tier 2 (Tech Startup/Mid-Corp),15.15
+STU1931,Electrical & Electronics,8.07,87.4,72.9,76,2,2,1,3,55.6,3.0,1,31.5,1,Tier 3 (Service/Mass Recruiter),6.13
+STU1932,Civil,8.36,99.0,66.1,18,3,1,1,2,68.3,3.0,0,45.5,1,Tier 3 (Service/Mass Recruiter),5.85
+STU1933,Information Technology,6.78,68.7,97.0,90,0,0,1,2,64.8,2.4,0,32.8,0,Not Placed,0.0
+STU1934,Computer Science,8.74,93.3,78.8,178,1,0,1,1,88.9,3.7,0,57.4,1,Tier 3 (Service/Mass Recruiter),6.79
+STU1935,Computer Science,7.73,92.3,76.5,194,2,1,3,1,71.6,4.1,0,61.5,1,Tier 2 (Tech Startup/Mid-Corp),10.54
+STU1936,Computer Science,8.4,73.2,88.9,91,3,2,1,2,95.2,4.1,0,59.9,1,Tier 3 (Service/Mass Recruiter),5.68
+STU1937,Mechanical,6.84,91.1,68.8,30,2,0,2,1,47.1,3.3,1,9.9,0,Not Placed,0.0
+STU1938,Computer Science,6.4,85.0,72.3,480,1,0,5,1,66.5,2.9,0,64.0,1,Tier 2 (Tech Startup/Mid-Corp),14.72
+STU1939,Information Technology,8.54,80.0,80.7,143,3,1,0,3,73.6,4.0,0,58.5,0,Not Placed,0.0
+STU1940,Computer Science,8.14,74.6,90.3,69,1,0,2,2,78.6,3.9,0,47.1,0,Not Placed,0.0
+STU1941,Information Technology,6.99,75.5,85.0,43,4,0,0,2,55.1,3.7,0,38.4,1,Tier 3 (Service/Mass Recruiter),6.03
+STU1942,Electronics & Comm,7.02,99.0,82.5,144,7,0,0,1,90.1,4.7,0,58.8,0,Not Placed,0.0
+STU1943,Electrical & Electronics,8.81,82.0,80.8,22,1,1,2,2,72.1,3.5,4,0.0,0,Not Placed,0.0
+STU1944,Computer Science,6.73,89.0,84.0,24,2,0,0,3,50.5,3.3,0,26.9,0,Not Placed,0.0
+STU1945,Computer Science,9.28,74.9,82.0,99,5,1,1,1,73.1,3.2,0,70.7,1,Tier 3 (Service/Mass Recruiter),7.7
+STU1946,Computer Science,6.99,75.0,69.7,45,3,1,0,3,62.1,2.4,0,36.2,0,Not Placed,0.0
+STU1947,Mechanical,8.37,91.7,80.5,81,3,1,2,3,100.0,4.0,0,60.6,1,Tier 3 (Service/Mass Recruiter),7.13
+STU1948,Electrical & Electronics,7.5,69.9,69.3,10,4,0,1,2,82.7,3.4,0,41.4,0,Not Placed,0.0
+STU1949,Information Technology,8.34,78.3,80.8,140,2,2,1,3,71.2,3.9,0,59.3,1,Tier 3 (Service/Mass Recruiter),6.62
+STU1950,Electronics & Comm,7.31,82.3,75.2,36,3,1,0,6,65.9,4.8,0,46.7,0,Not Placed,0.0
+STU1951,Electronics & Comm,7.65,83.0,99.0,0,3,0,2,3,81.8,3.2,0,42.9,0,Not Placed,0.0
+STU1952,Computer Science,7.84,80.4,79.6,17,2,2,0,1,83.0,1.9,0,43.9,0,Not Placed,0.0
+STU1953,Mechanical,6.9,85.6,66.0,223,5,0,2,2,30.0,3.8,0,53.2,1,Tier 3 (Service/Mass Recruiter),6.65
+STU1954,Information Technology,8.47,88.2,78.7,266,6,1,1,2,79.9,3.6,1,55.1,0,Not Placed,0.0
+STU1955,Information Technology,7.34,88.6,85.2,35,4,1,1,2,67.9,3.0,0,48.2,1,Tier 3 (Service/Mass Recruiter),5.05
+STU1956,Information Technology,7.59,73.1,96.7,198,1,1,1,3,49.9,3.8,2,25.1,0,Not Placed,0.0
+STU1957,Computer Science,6.91,79.4,74.1,123,3,1,1,2,78.5,4.1,0,49.5,0,Not Placed,0.0
+STU1958,Computer Science,5.49,92.8,64.2,466,1,0,1,5,93.4,2.8,0,58.8,0,Not Placed,0.0
+STU1959,Electronics & Comm,7.63,90.1,88.2,51,3,0,1,2,76.2,3.3,3,0.0,0,Not Placed,0.0
+STU1960,Computer Science,9.9,69.6,66.2,151,1,1,1,0,90.6,4.5,0,71.4,1,Tier 2 (Tech Startup/Mid-Corp),16.08
+STU1961,Electronics & Comm,8.51,85.2,75.6,7,3,3,1,0,96.3,3.0,0,60.5,1,Tier 3 (Service/Mass Recruiter),6.49
+STU1962,Computer Science,7.78,64.2,77.4,66,2,1,2,1,57.2,3.5,0,49.2,0,Not Placed,0.0
+STU1963,Information Technology,7.56,82.4,79.3,438,2,1,0,3,42.2,1.7,1,43.8,0,Not Placed,0.0
+STU1964,Computer Science,7.82,99.0,86.9,102,1,0,3,1,78.2,2.5,0,45.2,0,Not Placed,0.0
+STU1965,Information Technology,8.29,73.5,73.2,44,4,2,2,1,66.9,3.6,0,53.4,0,Not Placed,0.0
+STU1966,Electronics & Comm,6.74,74.5,77.3,14,5,0,3,2,46.5,4.4,0,43.0,0,Not Placed,0.0
+STU1967,Computer Science,8.8,88.9,79.9,160,1,0,1,1,70.8,2.5,1,28.6,0,Not Placed,0.0
+STU1968,Information Technology,8.44,68.1,81.5,136,1,1,1,2,81.0,3.6,0,54.2,1,Tier 3 (Service/Mass Recruiter),6.57
+STU1969,Information Technology,8.45,76.3,81.0,61,3,0,0,3,68.8,3.2,0,50.8,0,Not Placed,0.0
+STU1970,Electronics & Comm,8.19,87.4,84.4,331,4,0,0,5,59.1,4.2,0,68.7,1,Tier 2 (Tech Startup/Mid-Corp),10.28
+STU1971,Mechanical,7.82,76.3,88.4,1,4,1,2,3,65.8,2.6,1,32.7,0,Not Placed,0.0
+STU1972,Electronics & Comm,8.41,79.9,83.9,39,4,0,1,1,70.4,3.8,0,56.0,0,Not Placed,0.0
+STU1973,Computer Science,8.33,88.7,84.5,335,1,0,0,3,43.5,3.0,0,57.1,1,Tier 3 (Service/Mass Recruiter),5.42
+STU1974,Computer Science,7.48,85.8,64.2,51,1,0,2,0,65.9,3.7,1,23.5,0,Not Placed,0.0
+STU1975,Computer Science,7.28,84.4,80.5,38,3,0,1,5,48.5,3.5,0,37.1,0,Not Placed,0.0
+STU1976,Information Technology,7.89,78.9,84.8,100,4,1,1,3,78.4,3.3,0,53.4,1,Tier 3 (Service/Mass Recruiter),5.27
+STU1977,Computer Science,9.19,85.3,87.3,229,2,1,0,1,51.2,3.8,3,6.0,0,Not Placed,0.0
+STU1978,Information Technology,6.68,80.9,73.1,14,0,0,2,3,79.7,3.5,1,18.9,0,Not Placed,0.0
+STU1979,Information Technology,6.48,86.1,73.4,378,1,0,1,0,59.2,3.4,0,57.6,1,Tier 3 (Service/Mass Recruiter),5.72
+STU1980,Computer Science,7.95,77.5,74.3,209,2,0,1,4,61.7,3.3,0,61.0,1,Tier 2 (Tech Startup/Mid-Corp),16.42
+STU1981,Electronics & Comm,7.85,80.4,85.4,21,3,0,2,2,73.2,3.6,0,49.3,0,Not Placed,0.0
+STU1982,Computer Science,7.96,73.1,90.3,164,0,0,3,0,57.2,3.7,2,10.9,0,Not Placed,0.0
+STU1983,Computer Science,8.02,81.7,75.9,64,1,1,1,0,73.5,2.8,4,0.0,0,Not Placed,0.0
+STU1984,Electronics & Comm,7.6,74.7,89.1,56,3,1,1,1,58.0,3.3,0,45.3,0,Not Placed,0.0
+STU1985,Information Technology,9.14,72.0,81.2,201,4,1,0,1,65.1,2.8,0,70.2,1,Tier 2 (Tech Startup/Mid-Corp),17.7
+STU1986,Electronics & Comm,6.36,84.3,78.8,362,3,0,2,1,70.3,3.5,1,43.0,0,Not Placed,0.0
+STU1987,Information Technology,7.05,83.9,77.9,17,3,0,2,0,50.7,3.1,0,32.4,0,Not Placed,0.0
+STU1988,Computer Science,7.71,89.0,87.5,72,2,1,0,2,50.9,4.0,0,41.9,0,Not Placed,0.0
+STU1989,Electrical & Electronics,6.32,78.1,83.3,54,3,0,1,3,67.9,4.0,0,35.7,0,Not Placed,0.0
+STU1990,Electrical & Electronics,7.64,85.7,99.0,38,0,1,2,2,68.0,2.9,0,37.9,1,Tier 3 (Service/Mass Recruiter),4.98
+STU1991,Electronics & Comm,9.3,87.0,71.5,49,4,2,0,1,75.7,3.5,2,24.3,0,Not Placed,0.0
+STU1992,Computer Science,7.82,86.0,85.2,7,3,1,2,3,73.5,3.9,2,17.1,0,Not Placed,0.0
+STU1993,Information Technology,8.01,74.6,74.7,152,3,2,3,1,70.3,3.4,0,70.3,1,Tier 2 (Tech Startup/Mid-Corp),11.15
+STU1994,Information Technology,6.67,83.3,71.3,75,2,1,0,5,74.0,3.0,0,35.7,0,Not Placed,0.0
+STU1995,Computer Science,7.25,85.3,79.9,28,2,1,2,2,68.6,2.7,0,47.7,1,Tier 3 (Service/Mass Recruiter),4.21
+STU1996,Mechanical,7.46,82.1,81.4,139,0,1,1,2,39.8,4.1,1,24.9,0,Not Placed,0.0
+STU1997,Computer Science,7.51,63.2,99.0,214,0,0,4,4,43.6,4.1,0,53.7,1,Tier 3 (Service/Mass Recruiter),5.48
+STU1998,Civil,8.95,83.4,78.2,54,3,0,1,1,99.4,3.4,0,48.4,1,Tier 3 (Service/Mass Recruiter),7.45
+STU1999,Information Technology,8.3,99.0,68.7,46,6,1,2,0,70.4,4.0,0,60.3,1,Tier 3 (Service/Mass Recruiter),7.45
+STU2000,Computer Science,6.8,78.8,82.7,134,1,0,0,3,79.2,1.4,0,28.5,0,Not Placed,0.0
+STU2001,Information Technology,8.02,75.4,59.3,44,1,1,1,1,64.7,4.4,0,48.5,0,Not Placed,0.0
+STU2002,Electrical & Electronics,8.25,85.4,79.1,22,0,0,0,1,69.4,3.4,4,0.0,0,Not Placed,0.0
+STU2003,Electronics & Comm,8.83,84.8,80.2,144,2,1,3,4,65.6,3.6,0,63.4,1,Tier 2 (Tech Startup/Mid-Corp),11.58
+STU2004,Electrical & Electronics,9.22,92.7,87.9,3,2,2,1,2,100.0,3.3,0,56.4,1,Tier 3 (Service/Mass Recruiter),5.74
+STU2005,Electronics & Comm,6.89,70.7,89.7,10,4,0,1,1,69.7,4.5,0,44.0,0,Not Placed,0.0
+STU2006,Electronics & Comm,7.07,88.6,75.0,0,3,0,2,3,59.2,2.8,0,37.5,0,Not Placed,0.0
+STU2007,Electrical & Electronics,6.67,87.3,78.5,13,3,1,0,1,42.4,4.5,0,36.7,0,Not Placed,0.0
+STU2008,Computer Science,7.59,80.7,72.3,9,0,1,3,3,95.9,3.8,0,49.7,0,Not Placed,0.0
+STU2009,Information Technology,8.22,85.0,68.7,650,2,2,0,4,67.9,3.9,1,60.7,1,Tier 1 (Product/MNC),28.68
+STU2010,Computer Science,8.69,91.3,83.1,44,1,1,2,4,82.0,3.3,0,54.3,0,Not Placed,0.0
+STU2011,Civil,7.73,89.9,67.3,13,1,1,1,1,80.7,2.6,0,40.9,1,Tier 3 (Service/Mass Recruiter),5.41
+STU2012,Mechanical,7.51,71.7,75.9,22,7,1,2,4,61.6,4.2,0,52.3,0,Not Placed,0.0
+STU2013,Computer Science,7.94,89.4,70.0,363,5,0,2,0,78.7,3.7,1,61.3,1,Tier 2 (Tech Startup/Mid-Corp),15.06
+STU2014,Electronics & Comm,7.05,81.4,85.5,80,1,0,1,0,58.2,4.5,0,38.0,0,Not Placed,0.0
+STU2015,Mechanical,9.68,82.7,98.0,37,1,2,0,0,60.7,3.4,1,31.6,0,Not Placed,0.0
+STU2016,Computer Science,6.35,82.7,67.0,272,2,0,2,1,80.9,3.2,0,56.0,1,Tier 3 (Service/Mass Recruiter),5.81
+STU2017,Information Technology,7.97,80.6,61.5,66,1,3,0,4,67.2,4.5,0,61.0,0,Not Placed,0.0
+STU2018,Mechanical,9.62,92.7,78.8,33,4,3,1,1,81.6,4.8,0,68.6,1,Tier 3 (Service/Mass Recruiter),7.56
+STU2019,Computer Science,7.81,81.2,80.2,30,3,1,0,2,74.7,3.5,4,0.0,0,Not Placed,0.0
+STU2020,Electronics & Comm,7.63,71.9,82.2,52,3,1,1,1,77.3,3.0,0,48.4,0,Not Placed,0.0
+STU2021,Computer Science,7.48,78.5,75.5,50,3,0,0,5,46.1,4.1,0,42.3,0,Not Placed,0.0
+STU2022,Mechanical,7.64,83.6,78.0,93,0,1,1,1,60.2,3.3,0,42.7,0,Not Placed,0.0
+STU2023,Civil,9.04,93.1,83.7,28,3,2,0,1,68.1,3.9,0,55.6,1,Tier 3 (Service/Mass Recruiter),6.68
+STU2024,Mechanical,5.81,87.4,90.4,71,3,0,1,2,51.3,3.3,0,37.7,0,Not Placed,0.0
+STU2025,Information Technology,9.18,74.3,60.4,8,1,2,1,2,79.0,4.6,0,55.2,0,Not Placed,0.0
+STU2026,Electrical & Electronics,6.52,99.0,76.3,17,5,0,0,2,81.7,3.0,0,42.7,0,Not Placed,0.0
+STU2027,Electrical & Electronics,7.56,84.4,82.1,43,3,1,2,2,87.0,3.8,0,57.3,0,Not Placed,0.0
+STU2028,Computer Science,7.41,93.5,70.8,364,3,2,1,1,63.0,3.2,0,75.9,1,Tier 1 (Product/MNC),25.17
+STU2029,Electrical & Electronics,8.33,80.6,97.3,39,2,2,1,2,74.6,3.3,0,48.8,0,Not Placed,0.0
+STU2030,Computer Science,6.36,86.8,73.6,143,1,0,2,4,70.8,3.2,0,41.7,0,Not Placed,0.0
+STU2031,Information Technology,8.22,89.6,79.6,38,3,1,2,4,78.8,4.0,0,54.2,0,Not Placed,0.0
+STU2032,Computer Science,9.62,93.0,85.6,17,3,2,0,4,62.1,4.1,0,57.1,0,Not Placed,0.0
+STU2033,Computer Science,6.57,91.5,74.1,7,2,1,3,4,90.7,3.9,0,46.1,0,Not Placed,0.0
+STU2034,Computer Science,7.97,89.8,61.5,48,5,2,1,1,82.4,3.4,0,60.1,1,Tier 3 (Service/Mass Recruiter),5.12
+STU2035,Electronics & Comm,7.2,79.2,75.7,18,2,0,0,6,80.4,3.6,0,35.6,0,Not Placed,0.0
+STU2036,Computer Science,8.18,76.9,90.3,25,2,1,1,4,86.9,4.1,0,50.7,0,Not Placed,0.0
+STU2037,Electronics & Comm,7.82,85.0,76.6,157,4,2,0,2,76.4,4.2,0,64.0,1,Tier 2 (Tech Startup/Mid-Corp),8.55
+STU2038,Computer Science,7.22,90.4,71.5,2,1,0,0,1,52.8,1.6,0,29.9,0,Not Placed,0.0
+STU2039,Computer Science,8.24,80.0,89.3,107,3,1,0,1,68.3,3.3,0,52.4,1,Tier 3 (Service/Mass Recruiter),6.99
+STU2040,Information Technology,9.42,91.6,76.7,62,2,2,0,2,50.7,3.3,0,50.8,1,Tier 3 (Service/Mass Recruiter),7.68
+STU2041,Electrical & Electronics,7.63,95.1,74.9,58,3,1,1,4,74.2,4.0,0,44.6,0,Not Placed,0.0
+STU2042,Computer Science,8.45,73.8,81.5,109,3,3,0,2,68.5,3.5,0,63.4,0,Not Placed,0.0
+STU2043,Electronics & Comm,6.64,74.5,87.7,41,2,0,2,1,64.8,4.0,0,35.5,0,Not Placed,0.0
+STU2044,Mechanical,6.94,80.7,99.0,28,3,0,2,4,83.2,2.7,1,25.6,0,Not Placed,0.0
+STU2045,Electronics & Comm,8.23,84.8,88.3,145,2,0,1,1,63.8,3.7,0,46.2,0,Not Placed,0.0
+STU2046,Computer Science,9.14,77.3,91.6,270,2,3,1,3,69.4,4.1,3,23.1,0,Not Placed,0.0
+STU2047,Computer Science,8.12,94.2,74.9,28,4,1,2,6,70.2,2.5,0,45.6,0,Not Placed,0.0
+STU2048,Electrical & Electronics,7.52,85.8,69.7,8,3,1,0,0,42.3,5.0,1,26.3,0,Not Placed,0.0
+STU2049,Computer Science,7.8,82.4,80.6,301,4,0,2,3,65.2,4.3,0,71.6,1,Tier 2 (Tech Startup/Mid-Corp),14.61
+STU2050,Electrical & Electronics,6.67,69.1,81.1,35,6,1,1,3,30.7,3.5,1,25.4,1,Tier 3 (Service/Mass Recruiter),4.11
+STU2051,Information Technology,8.34,70.2,69.2,105,3,2,0,2,62.3,2.9,0,52.1,1,Tier 3 (Service/Mass Recruiter),6.98
+STU2052,Mechanical,8.59,84.5,78.2,36,3,1,1,0,83.3,3.4,0,51.1,1,Tier 3 (Service/Mass Recruiter),4.78
+STU2053,Electrical & Electronics,7.39,62.8,84.0,11,0,0,0,4,73.9,3.6,0,33.4,1,Tier 3 (Service/Mass Recruiter),4.5
+STU2054,Civil,7.38,91.1,83.6,73,5,3,0,6,59.3,3.8,4,0.0,0,Not Placed,0.0
+STU2055,Information Technology,8.04,80.6,85.0,98,2,1,1,3,70.2,4.6,4,0.0,0,Not Placed,0.0
+STU2056,Electronics & Comm,7.41,99.0,82.9,24,1,1,1,3,52.7,3.2,0,43.9,0,Not Placed,0.0
+STU2057,Information Technology,7.74,99.0,74.9,79,4,1,1,1,68.7,3.9,0,53.5,1,Tier 3 (Service/Mass Recruiter),5.71
+STU2058,Information Technology,9.69,80.4,74.9,210,4,1,1,1,100.0,2.6,0,69.4,1,Tier 2 (Tech Startup/Mid-Corp),14.54
+STU2059,Electronics & Comm,7.58,81.0,68.0,98,3,1,1,2,94.1,3.2,0,52.4,0,Not Placed,0.0
+STU2060,Electrical & Electronics,7.48,91.0,97.8,8,4,1,0,2,68.7,3.8,0,42.9,0,Not Placed,0.0
+STU2061,Civil,7.22,97.3,80.1,65,1,1,1,2,69.4,4.0,4,0.0,0,Not Placed,0.0
+STU2062,Electronics & Comm,8.47,67.3,77.8,133,4,3,0,2,57.2,3.0,0,67.7,0,Not Placed,0.0
+STU2063,Information Technology,7.64,65.9,70.7,207,1,1,1,2,57.2,3.2,0,56.3,1,Tier 3 (Service/Mass Recruiter),6.87
+STU2064,Information Technology,7.22,76.4,99.0,130,5,0,0,4,72.2,4.5,0,51.9,1,Tier 3 (Service/Mass Recruiter),6.26
+STU2065,Electronics & Comm,8.99,87.2,69.3,18,0,2,0,2,65.1,4.3,0,55.2,1,Tier 3 (Service/Mass Recruiter),5.29
+STU2066,Computer Science,9.08,86.5,75.7,163,2,1,0,0,85.4,3.6,0,58.5,1,Tier 3 (Service/Mass Recruiter),5.55
+STU2067,Computer Science,7.26,91.6,84.2,149,2,1,1,2,89.3,1.9,0,55.4,0,Not Placed,0.0
+STU2068,Information Technology,6.12,71.2,86.0,3,1,0,0,2,68.5,5.0,0,34.0,1,Tier 3 (Service/Mass Recruiter),4.56
+STU2069,Computer Science,8.71,61.2,89.6,70,4,0,0,3,73.0,3.5,0,51.1,0,Not Placed,0.0
+STU2070,Computer Science,7.18,89.7,98.1,53,1,1,2,2,43.5,3.3,0,44.1,1,Tier 3 (Service/Mass Recruiter),4.47
+STU2071,Computer Science,8.51,74.5,85.1,146,4,1,1,3,81.5,3.1,0,61.4,0,Not Placed,0.0
+STU2072,Computer Science,6.03,63.8,69.4,32,2,0,3,2,47.6,3.8,2,0.0,0,Not Placed,0.0
+STU2073,Computer Science,8.6,83.3,77.4,117,1,2,1,4,65.5,3.8,0,62.5,0,Not Placed,0.0
+STU2074,Civil,6.71,89.1,83.1,201,1,0,1,1,79.1,4.2,1,31.1,0,Not Placed,0.0
+STU2075,Information Technology,8.46,80.9,99.0,211,3,0,3,1,85.3,2.9,0,67.0,1,Tier 2 (Tech Startup/Mid-Corp),11.55
+STU2076,Information Technology,7.81,77.9,66.0,335,2,0,0,1,62.4,3.3,0,68.0,1,Tier 2 (Tech Startup/Mid-Corp),14.3
+STU2077,Electronics & Comm,6.94,80.6,92.0,422,0,0,3,1,60.6,4.9,0,63.1,1,Tier 2 (Tech Startup/Mid-Corp),9.36
+STU2078,Computer Science,7.43,78.7,81.8,1,3,0,2,2,58.0,3.7,0,39.2,0,Not Placed,0.0
+STU2079,Mechanical,8.42,69.9,88.4,80,1,1,0,3,54.0,3.4,1,34.2,0,Not Placed,0.0
+STU2080,Electrical & Electronics,7.9,75.6,79.0,43,0,1,0,6,60.3,2.8,0,40.7,0,Not Placed,0.0
+STU2081,Computer Science,8.33,86.7,71.6,259,6,0,1,3,47.9,3.9,0,64.4,0,Not Placed,0.0
+STU2082,Information Technology,9.58,84.9,87.5,38,2,3,0,2,83.8,4.2,0,62.4,1,Tier 3 (Service/Mass Recruiter),7.7
+STU2083,Electrical & Electronics,6.39,83.5,86.5,327,5,0,0,2,70.2,4.1,0,60.6,1,Tier 2 (Tech Startup/Mid-Corp),10.53
+STU2084,Mechanical,9.26,73.0,89.7,78,2,0,1,2,81.1,3.3,0,50.4,0,Not Placed,0.0
+STU2085,Information Technology,7.89,80.4,79.9,208,4,1,0,1,55.8,3.8,0,61.5,1,Tier 2 (Tech Startup/Mid-Corp),11.16
+STU2086,Electronics & Comm,6.99,62.4,74.0,9,1,1,2,1,49.7,4.7,0,39.9,0,Not Placed,0.0
+STU2087,Computer Science,6.6,83.6,64.4,26,3,1,2,3,66.1,4.2,0,45.8,0,Not Placed,0.0
+STU2088,Civil,7.63,94.9,88.2,117,1,1,0,3,69.3,3.0,0,42.7,0,Not Placed,0.0
+STU2089,Computer Science,8.63,68.7,84.2,2,0,2,1,3,69.3,1.7,0,43.3,1,Tier 3 (Service/Mass Recruiter),5.97
+STU2090,Mechanical,7.69,76.7,70.3,140,2,0,0,2,64.5,3.7,0,38.6,0,Not Placed,0.0
+STU2091,Electronics & Comm,9.16,85.0,74.6,1,1,1,2,4,96.9,4.1,0,56.0,0,Not Placed,0.0
+STU2092,Electronics & Comm,6.49,93.3,75.3,117,1,0,0,2,70.9,2.7,0,40.3,0,Not Placed,0.0
+STU2093,Information Technology,7.79,78.0,65.2,59,3,2,1,2,96.5,3.5,0,52.8,1,Tier 3 (Service/Mass Recruiter),6.59
+STU2094,Computer Science,6.67,75.8,71.8,124,1,0,3,2,83.3,3.3,0,47.6,1,Tier 3 (Service/Mass Recruiter),5.52
+STU2095,Computer Science,8.13,64.3,68.7,157,3,2,3,1,93.7,3.6,3,11.6,0,Not Placed,0.0
+STU2096,Computer Science,8.6,82.9,75.9,55,1,0,1,2,56.3,3.1,0,45.2,1,Tier 3 (Service/Mass Recruiter),4.66
+STU2097,Computer Science,7.42,99.0,72.6,15,4,2,2,0,76.1,4.4,0,53.8,1,Tier 3 (Service/Mass Recruiter),7.12
+STU2098,Electronics & Comm,5.46,84.5,63.7,7,3,0,0,3,55.8,3.6,1,9.9,0,Not Placed,0.0
+STU2099,Information Technology,7.98,81.8,99.0,117,5,1,2,3,46.1,2.9,0,55.8,1,Tier 3 (Service/Mass Recruiter),4.6
+STU2100,Computer Science,8.19,84.9,92.5,97,5,1,2,3,91.0,4.1,0,70.1,1,Tier 3 (Service/Mass Recruiter),7.48
+STU2101,Civil,8.16,81.9,72.2,111,1,1,1,3,65.9,2.6,0,50.2,0,Not Placed,0.0
+STU2102,Mechanical,8.91,74.7,82.7,58,3,1,1,1,57.5,4.4,1,35.0,0,Not Placed,0.0
+STU2103,Mechanical,6.84,89.4,84.2,45,2,2,0,1,60.2,4.2,1,27.4,0,Not Placed,0.0
+STU2104,Civil,8.41,84.0,91.9,41,2,0,2,2,59.6,4.5,0,46.3,0,Not Placed,0.0
+STU2105,Computer Science,8.87,82.2,71.8,3,5,0,0,2,62.4,3.4,0,48.5,0,Not Placed,0.0
+STU2106,Information Technology,6.2,73.2,90.9,53,5,0,1,0,61.0,3.2,0,37.6,0,Not Placed,0.0
+STU2107,Electronics & Comm,8.09,93.7,74.5,410,2,2,0,0,94.0,3.6,0,78.7,0,Not Placed,0.0
+STU2108,Electronics & Comm,7.35,88.0,66.6,227,0,0,1,0,58.2,3.4,0,48.3,1,Tier 3 (Service/Mass Recruiter),4.23
+STU2109,Computer Science,7.73,77.0,87.2,52,4,1,3,2,91.9,3.0,0,56.8,0,Not Placed,0.0
+STU2110,Electrical & Electronics,8.11,91.0,92.9,73,3,2,1,1,81.7,3.1,0,62.3,1,Tier 3 (Service/Mass Recruiter),6.91
+STU2111,Computer Science,7.36,77.5,99.0,248,5,0,0,3,73.1,3.2,1,40.3,1,Tier 3 (Service/Mass Recruiter),5.86
+STU2112,Computer Science,7.19,75.0,68.0,76,0,1,2,1,77.5,2.7,0,34.9,0,Not Placed,0.0
+STU2113,Information Technology,7.83,75.2,87.0,2,1,0,1,2,69.2,4.0,0,36.7,0,Not Placed,0.0
+STU2114,Information Technology,6.82,66.1,75.9,10,2,0,0,3,84.0,3.5,1,10.6,0,Not Placed,0.0
+STU2115,Information Technology,6.82,86.2,87.8,94,1,1,3,1,73.9,3.3,2,12.9,0,Not Placed,0.0
+STU2116,Computer Science,8.41,65.5,65.3,460,4,2,3,4,47.4,2.7,0,72.0,1,Tier 1 (Product/MNC),34.57
+STU2117,Electrical & Electronics,6.77,70.9,67.4,97,1,0,2,1,69.9,2.7,0,34.9,0,Not Placed,0.0
+STU2118,Computer Science,8.4,63.3,72.2,9,4,0,1,2,81.7,4.9,0,50.6,1,Tier 3 (Service/Mass Recruiter),4.79
+STU2119,Computer Science,8.22,81.2,80.8,27,0,1,1,1,66.1,3.1,1,29.8,0,Not Placed,0.0
+STU2120,Mechanical,6.25,80.6,73.6,121,0,0,0,4,66.0,3.9,0,30.3,0,Not Placed,0.0
+STU2121,Civil,7.19,79.1,86.6,151,3,0,2,4,58.5,3.6,0,49.9,1,Tier 3 (Service/Mass Recruiter),4.84
+STU2122,Electrical & Electronics,8.87,72.6,90.3,79,4,1,2,0,52.8,1.6,0,56.0,1,Tier 3 (Service/Mass Recruiter),7.24
+STU2123,Electrical & Electronics,6.92,71.4,86.0,85,4,1,2,3,44.5,4.8,0,56.7,1,Tier 3 (Service/Mass Recruiter),6.82
+STU2124,Electronics & Comm,7.38,86.2,96.2,3,3,0,1,1,46.1,4.0,1,22.0,0,Not Placed,0.0
+STU2125,Information Technology,8.22,77.0,84.2,232,1,2,0,2,79.5,3.0,0,68.1,1,Tier 2 (Tech Startup/Mid-Corp),13.19
+STU2126,Computer Science,8.51,84.8,67.8,204,2,1,1,0,36.2,3.5,0,60.7,1,Tier 2 (Tech Startup/Mid-Corp),12.13
+STU2127,Information Technology,7.57,74.0,93.6,39,1,1,3,2,58.9,2.7,0,38.3,0,Not Placed,0.0
+STU2128,Information Technology,7.26,83.6,73.9,162,3,0,1,3,56.6,4.8,0,53.1,1,Tier 3 (Service/Mass Recruiter),4.3
+STU2129,Computer Science,9.08,93.7,89.1,31,3,1,0,0,68.8,2.9,0,54.3,1,Tier 3 (Service/Mass Recruiter),7.02
+STU2130,Electronics & Comm,9.37,87.3,95.7,4,3,2,1,4,47.6,3.1,1,32.2,0,Not Placed,0.0
+STU2131,Information Technology,8.68,78.3,84.6,29,0,1,2,0,77.2,3.0,3,0.0,0,Not Placed,0.0
+STU2132,Computer Science,7.88,84.3,65.0,25,1,0,1,6,51.3,3.6,0,33.2,0,Not Placed,0.0
+STU2133,Computer Science,7.07,79.8,70.8,54,0,0,2,4,82.6,4.5,0,44.2,0,Not Placed,0.0
+STU2134,Electronics & Comm,7.05,82.1,93.2,59,2,0,0,6,58.0,4.8,4,0.0,0,Not Placed,0.0
+STU2135,Computer Science,8.27,79.1,78.3,93,4,1,1,0,69.0,3.2,0,55.1,0,Not Placed,0.0
+STU2136,Electrical & Electronics,8.18,80.5,80.8,53,2,0,2,2,70.1,3.8,2,6.2,0,Not Placed,0.0
+STU2137,Information Technology,9.06,83.9,87.6,41,3,1,2,0,76.1,3.6,0,57.6,0,Not Placed,0.0
+STU2138,Information Technology,8.39,73.1,87.0,3,4,0,0,1,71.2,2.8,0,40.9,1,Tier 3 (Service/Mass Recruiter),5.45
+STU2139,Information Technology,6.45,72.9,82.8,122,2,0,1,2,58.9,5.0,0,44.3,1,Tier 3 (Service/Mass Recruiter),3.95
+STU2140,Electrical & Electronics,8.75,69.5,77.9,41,3,1,2,2,76.5,4.5,1,36.0,0,Not Placed,0.0
+STU2141,Computer Science,6.9,67.6,76.9,46,3,2,4,2,72.7,3.6,2,15.3,0,Not Placed,0.0
+STU2142,Electronics & Comm,7.45,71.0,88.6,221,3,2,1,1,57.2,4.6,0,64.0,1,Tier 2 (Tech Startup/Mid-Corp),13.37
+STU2143,Information Technology,8.03,83.4,85.5,181,1,0,2,4,75.5,4.3,0,51.2,0,Not Placed,0.0
+STU2144,Computer Science,9.6,74.0,77.4,257,2,2,2,2,91.0,3.6,0,76.0,1,Tier 1 (Product/MNC),34.39
+STU2145,Electrical & Electronics,9.9,86.6,90.8,56,1,3,0,3,85.1,3.7,0,61.4,1,Tier 3 (Service/Mass Recruiter),5.2
+STU2146,Electrical & Electronics,8.35,82.3,78.7,11,0,3,4,2,83.6,4.6,0,58.2,1,Tier 3 (Service/Mass Recruiter),4.89
+STU2147,Electronics & Comm,7.64,64.3,71.5,131,2,1,3,3,70.8,2.8,0,55.1,1,Tier 3 (Service/Mass Recruiter),6.49
+STU2148,Electrical & Electronics,8.28,87.9,72.4,19,1,0,0,1,57.2,4.7,0,40.9,0,Not Placed,0.0
+STU2149,Electrical & Electronics,8.6,89.3,70.2,48,7,1,1,2,60.0,3.3,0,57.8,0,Not Placed,0.0
+STU2150,Electronics & Comm,7.51,73.1,77.3,7,1,0,4,5,72.5,4.6,0,41.2,1,Tier 3 (Service/Mass Recruiter),4.41
+STU2151,Electrical & Electronics,9.42,85.8,92.3,143,2,2,3,3,86.9,3.5,0,76.5,1,Tier 2 (Tech Startup/Mid-Corp),17.33
+STU2152,Electronics & Comm,8.01,74.3,71.9,14,2,1,2,2,100.0,3.7,0,50.7,1,Tier 3 (Service/Mass Recruiter),5.4
+STU2153,Electronics & Comm,8.25,82.9,81.9,256,5,1,3,0,84.0,3.5,2,40.2,0,Not Placed,0.0
+STU2154,Electronics & Comm,8.4,70.6,73.4,219,2,1,2,1,54.3,3.1,0,60.8,1,Tier 2 (Tech Startup/Mid-Corp),9.89
+STU2155,Electronics & Comm,8.18,65.9,77.4,68,2,0,2,2,59.3,3.3,0,47.3,1,Tier 3 (Service/Mass Recruiter),6.9
+STU2156,Computer Science,8.56,78.6,64.9,180,0,1,3,4,100.0,4.5,0,66.0,1,Tier 2 (Tech Startup/Mid-Corp),13.56
+STU2157,Mechanical,7.24,80.9,77.8,79,1,0,0,1,64.2,1.9,2,0.0,0,Not Placed,0.0
+STU2158,Electrical & Electronics,7.3,78.4,78.1,134,0,1,1,5,68.1,2.6,0,44.3,0,Not Placed,0.0
+STU2159,Computer Science,6.81,71.3,85.4,74,4,0,3,3,52.5,3.0,0,46.9,0,Not Placed,0.0
+STU2160,Electrical & Electronics,8.2,78.4,82.2,127,1,1,2,2,92.0,2.7,2,16.9,0,Not Placed,0.0
+STU2161,Computer Science,8.5,84.4,68.0,81,4,1,1,5,78.0,4.6,0,54.1,0,Not Placed,0.0
+STU2162,Computer Science,8.21,81.6,90.8,373,3,0,0,3,59.3,4.4,0,66.0,1,Tier 2 (Tech Startup/Mid-Corp),11.41
+STU2163,Electronics & Comm,9.31,83.6,82.1,73,2,1,5,1,59.5,3.9,0,67.4,0,Not Placed,0.0
+STU2164,Computer Science,7.79,76.0,82.0,81,2,1,5,2,73.2,3.1,1,37.6,0,Not Placed,0.0
+STU2165,Electrical & Electronics,8.4,92.5,79.9,126,3,1,1,3,71.3,4.4,0,60.9,1,Tier 2 (Tech Startup/Mid-Corp),12.43
+STU2166,Electrical & Electronics,6.82,71.4,74.8,142,3,0,2,0,77.6,2.4,0,43.0,0,Not Placed,0.0
+STU2167,Information Technology,7.45,86.4,82.2,106,2,1,0,2,75.5,5.0,0,52.6,1,Tier 3 (Service/Mass Recruiter),4.25
+STU2168,Computer Science,8.43,92.6,84.8,26,3,1,1,3,67.1,3.0,0,45.1,0,Not Placed,0.0
+STU2169,Computer Science,8.56,86.3,62.5,83,3,1,2,2,63.6,3.3,3,0.0,0,Not Placed,0.0
+STU2170,Electronics & Comm,7.54,80.2,74.6,378,5,1,2,0,65.9,3.2,0,75.0,1,Tier 1 (Product/MNC),36.08
+STU2171,Civil,7.74,77.2,77.5,115,0,0,0,1,61.0,2.7,0,39.8,0,Not Placed,0.0
+STU2172,Electronics & Comm,6.43,91.3,82.6,183,1,0,1,1,63.0,4.8,3,0.0,0,Not Placed,0.0
+STU2173,Computer Science,7.48,69.2,91.9,4,3,0,2,2,68.2,4.1,0,45.0,0,Not Placed,0.0
+STU2174,Electronics & Comm,8.6,73.3,72.3,69,3,1,1,2,58.7,4.4,0,48.9,0,Not Placed,0.0
+STU2175,Information Technology,8.32,78.4,75.0,137,1,1,1,3,79.3,2.6,0,53.5,1,Tier 3 (Service/Mass Recruiter),5.7
+STU2176,Electronics & Comm,8.25,93.1,74.9,194,0,2,1,4,65.1,3.6,0,59.3,1,Tier 3 (Service/Mass Recruiter),6.79
+STU2177,Computer Science,7.84,85.4,72.0,6,1,2,0,2,57.2,3.9,0,37.6,0,Not Placed,0.0
+STU2178,Electronics & Comm,7.81,73.3,76.5,210,3,0,0,0,64.0,3.7,0,54.8,1,Tier 3 (Service/Mass Recruiter),6.33
+STU2179,Information Technology,7.21,79.2,87.7,104,1,0,1,0,70.5,2.7,0,38.8,0,Not Placed,0.0
+STU2180,Civil,8.43,76.5,69.5,18,4,1,0,3,71.9,4.3,0,54.7,1,Tier 3 (Service/Mass Recruiter),6.66
+STU2181,Computer Science,8.18,75.6,84.3,50,1,0,1,2,75.9,3.6,0,43.9,0,Not Placed,0.0
+STU2182,Electronics & Comm,8.24,90.8,63.0,36,1,2,0,1,82.8,2.8,0,47.1,1,Tier 3 (Service/Mass Recruiter),7.03
+STU2183,Mechanical,7.33,69.7,74.4,62,2,1,1,5,85.7,2.2,0,48.8,0,Not Placed,0.0
+STU2184,Computer Science,5.86,96.5,76.7,7,3,1,0,1,67.1,3.9,0,26.4,0,Not Placed,0.0
+STU2185,Mechanical,8.79,89.5,96.7,14,3,0,1,3,56.9,5.0,0,48.5,1,Tier 3 (Service/Mass Recruiter),6.73
+STU2186,Electronics & Comm,7.37,91.8,77.3,184,1,0,0,4,63.8,2.8,3,0.0,0,Not Placed,0.0
+STU2187,Computer Science,7.02,77.8,58.0,18,3,1,1,4,52.5,3.6,2,1.2,0,Not Placed,0.0
+STU2188,Computer Science,8.42,80.7,60.0,35,2,2,0,6,94.5,4.3,0,59.6,1,Tier 3 (Service/Mass Recruiter),5.91
+STU2189,Electronics & Comm,7.45,69.1,80.3,66,3,2,2,1,95.7,2.6,4,0.0,0,Not Placed,0.0
+STU2190,Computer Science,8.75,77.3,86.1,96,3,0,5,4,80.9,3.2,4,0.0,0,Not Placed,0.0
+STU2191,Information Technology,8.36,86.4,83.8,190,3,1,0,4,82.6,2.9,0,70.9,1,Tier 2 (Tech Startup/Mid-Corp),12.25
+STU2192,Computer Science,8.42,93.7,81.7,78,3,1,3,1,74.3,4.2,0,55.1,1,Tier 3 (Service/Mass Recruiter),4.95
+STU2193,Electronics & Comm,6.57,72.0,91.6,171,5,0,1,1,70.3,4.4,3,7.1,0,Not Placed,0.0
+STU2194,Computer Science,8.89,78.7,74.6,127,5,1,1,3,49.8,3.6,0,61.5,1,Tier 2 (Tech Startup/Mid-Corp),16.0
+STU2195,Electrical & Electronics,8.04,80.6,88.9,9,4,1,1,6,68.6,2.9,0,46.0,0,Not Placed,0.0
+STU2196,Civil,7.47,69.4,63.7,14,1,0,2,6,55.6,3.2,0,37.4,0,Not Placed,0.0
+STU2197,Civil,7.93,87.3,71.0,47,4,0,2,1,73.2,3.1,0,54.1,0,Not Placed,0.0
+STU2198,Electronics & Comm,6.2,75.5,61.9,55,2,0,1,2,63.3,2.8,0,27.9,0,Not Placed,0.0
+STU2199,Computer Science,8.17,80.2,77.3,179,1,1,0,3,97.3,3.4,0,56.7,0,Not Placed,0.0
+STU2200,Electronics & Comm,6.87,77.9,79.5,95,2,1,1,2,79.0,3.9,0,51.7,1,Tier 3 (Service/Mass Recruiter),6.38
+STU2201,Computer Science,6.58,74.9,81.1,64,2,0,1,4,69.2,3.8,0,39.6,0,Not Placed,0.0
+STU2202,Computer Science,6.43,81.9,80.6,24,7,0,3,3,61.1,3.5,2,12.9,0,Not Placed,0.0
+STU2203,Computer Science,8.8,80.1,70.7,33,4,3,0,0,95.4,3.5,0,64.3,1,Tier 3 (Service/Mass Recruiter),5.51
+STU2204,Information Technology,7.23,78.7,78.1,113,2,2,1,1,66.8,3.4,0,60.3,1,Tier 3 (Service/Mass Recruiter),6.85
+STU2205,Electronics & Comm,9.18,75.4,65.0,60,3,3,1,1,77.7,2.6,0,62.0,1,Tier 3 (Service/Mass Recruiter),6.76
+STU2206,Electronics & Comm,7.32,84.9,93.6,79,3,1,1,4,68.0,3.6,0,50.1,0,Not Placed,0.0
+STU2207,Information Technology,6.26,96.9,77.0,24,5,0,4,5,58.6,3.1,4,0.0,0,Not Placed,0.0
+STU2208,Computer Science,6.8,83.3,75.1,143,4,0,2,2,66.4,2.6,0,47.5,0,Not Placed,0.0
+STU2209,Civil,8.91,91.0,95.9,157,1,2,0,2,44.8,3.8,0,61.6,1,Tier 2 (Tech Startup/Mid-Corp),13.62
+STU2210,Information Technology,7.66,69.5,67.6,39,2,0,0,6,46.8,3.1,0,35.9,0,Not Placed,0.0
+STU2211,Information Technology,7.31,83.4,68.7,89,2,1,2,2,72.3,3.7,0,53.4,1,Tier 3 (Service/Mass Recruiter),4.18
+STU2212,Computer Science,7.94,72.1,69.0,489,3,1,0,3,91.3,4.1,0,83.0,1,Tier 1 (Product/MNC),30.73
+STU2213,Electrical & Electronics,8.25,68.7,79.3,33,3,3,2,2,75.1,2.8,0,56.5,0,Not Placed,0.0
+STU2214,Electronics & Comm,8.81,75.3,84.3,99,6,2,1,5,61.8,3.6,0,64.3,1,Tier 3 (Service/Mass Recruiter),6.77
+STU2215,Computer Science,9.1,92.7,87.4,12,0,2,1,0,52.6,2.2,0,41.4,1,Tier 3 (Service/Mass Recruiter),5.13
+STU2216,Computer Science,7.48,90.6,99.0,122,2,1,0,0,78.9,4.6,2,15.0,0,Not Placed,0.0
+STU2217,Electronics & Comm,6.61,84.2,57.5,10,2,3,0,0,57.4,2.5,0,44.7,0,Not Placed,0.0
+STU2218,Electronics & Comm,7.43,68.2,86.1,351,2,1,0,1,76.8,3.1,0,72.0,1,Tier 1 (Product/MNC),30.31
+STU2219,Computer Science,8.03,80.2,74.4,166,5,2,0,3,75.1,4.4,1,41.8,0,Not Placed,0.0
+STU2220,Civil,6.93,84.7,74.1,128,0,2,0,1,73.0,3.3,1,26.9,0,Not Placed,0.0
+STU2221,Computer Science,6.94,83.6,73.8,160,2,0,0,3,66.8,2.7,0,42.5,1,Tier 3 (Service/Mass Recruiter),7.15
+STU2222,Information Technology,8.11,65.4,70.9,117,1,2,1,1,75.2,4.0,3,0.6,0,Not Placed,0.0
+STU2223,Mechanical,7.76,74.0,96.8,49,4,2,2,3,67.1,4.0,0,51.8,0,Not Placed,0.0
+STU2224,Information Technology,7.83,81.4,88.4,258,1,2,0,1,60.1,3.1,0,62.9,1,Tier 2 (Tech Startup/Mid-Corp),14.23
+STU2225,Electronics & Comm,7.12,86.8,80.2,345,2,0,0,4,53.4,3.1,0,62.6,1,Tier 2 (Tech Startup/Mid-Corp),12.02
+STU2226,Information Technology,7.59,62.2,93.5,91,1,1,2,1,34.9,3.2,0,34.8,0,Not Placed,0.0
+STU2227,Computer Science,6.97,80.5,64.9,353,4,1,2,6,63.9,3.4,0,70.0,1,Tier 1 (Product/MNC),31.33
+STU2228,Civil,8.6,83.3,66.7,72,1,1,4,6,92.6,2.2,0,58.2,0,Not Placed,0.0
+STU2229,Information Technology,8.73,89.6,58.2,102,2,2,1,3,81.9,3.4,0,64.9,1,Tier 3 (Service/Mass Recruiter),4.83
+STU2230,Mechanical,6.14,88.2,73.0,49,4,0,3,1,67.1,4.7,1,28.1,0,Not Placed,0.0
+STU2231,Computer Science,6.96,87.2,81.6,30,3,0,0,1,56.1,2.9,0,40.9,1,Tier 3 (Service/Mass Recruiter),7.05
+STU2232,Computer Science,6.45,74.8,81.0,0,6,0,0,2,78.8,3.1,0,39.6,0,Not Placed,0.0
+STU2233,Computer Science,7.21,64.8,81.5,36,4,1,2,2,65.5,2.7,0,52.0,0,Not Placed,0.0
+STU2234,Electronics & Comm,7.72,78.5,65.9,78,0,1,1,0,90.7,3.9,0,46.2,0,Not Placed,0.0
+STU2235,Information Technology,6.5,91.0,88.0,63,1,0,0,2,51.3,4.3,1,14.7,0,Not Placed,0.0
+STU2236,Electrical & Electronics,6.97,94.5,82.4,49,1,0,1,1,55.9,4.3,0,31.4,0,Not Placed,0.0
+STU2237,Information Technology,6.9,88.4,87.3,520,2,0,3,5,54.3,2.6,0,67.3,0,Not Placed,0.0
+STU2238,Civil,7.99,85.9,61.1,35,0,0,2,1,48.7,3.8,0,37.2,0,Not Placed,0.0
+STU2239,Computer Science,7.86,85.4,83.1,79,5,0,1,1,56.0,4.5,0,53.5,1,Tier 3 (Service/Mass Recruiter),7.32
+STU2240,Electrical & Electronics,7.15,77.0,68.1,11,5,1,0,2,68.4,3.9,0,45.1,0,Not Placed,0.0
+STU2241,Electronics & Comm,7.96,80.8,76.0,5,6,2,2,0,59.4,3.8,0,53.6,1,Tier 3 (Service/Mass Recruiter),6.57
+STU2242,Electronics & Comm,7.31,97.0,85.3,164,0,0,0,1,30.0,3.2,0,37.5,0,Not Placed,0.0
+STU2243,Electrical & Electronics,7.56,73.5,80.9,69,2,0,1,3,83.2,3.7,2,5.3,0,Not Placed,0.0
+STU2244,Electronics & Comm,9.31,96.5,71.5,157,3,1,0,0,49.8,4.4,0,58.5,1,Tier 3 (Service/Mass Recruiter),5.24
+STU2245,Electronics & Comm,9.01,79.1,80.1,17,2,2,0,4,80.8,3.7,3,1.6,0,Not Placed,0.0
+STU2246,Computer Science,6.63,93.9,64.7,111,5,1,1,1,65.8,2.6,0,52.4,1,Tier 3 (Service/Mass Recruiter),4.52
+STU2247,Computer Science,8.55,69.3,91.5,38,3,2,1,0,100.0,3.2,0,67.9,1,Tier 3 (Service/Mass Recruiter),5.21
+STU2248,Mechanical,8.53,87.3,77.9,21,5,1,0,4,85.0,4.3,0,58.9,1,Tier 3 (Service/Mass Recruiter),6.27
+STU2249,Electronics & Comm,6.77,75.4,91.2,1,2,0,0,3,58.7,3.7,0,35.0,0,Not Placed,0.0
+STU2250,Electrical & Electronics,8.54,69.3,74.7,11,1,1,1,1,61.3,3.6,1,20.3,0,Not Placed,0.0
+STU2251,Information Technology,9.18,84.0,74.8,48,4,3,1,3,94.1,3.1,1,54.2,1,Tier 3 (Service/Mass Recruiter),5.54
+STU2252,Computer Science,6.79,91.1,72.4,16,1,0,0,2,45.2,4.3,0,31.9,0,Not Placed,0.0
+STU2253,Computer Science,6.97,74.4,88.8,562,3,0,0,3,69.1,4.7,0,67.7,1,Tier 2 (Tech Startup/Mid-Corp),13.04
+STU2254,Electronics & Comm,8.72,68.5,72.9,40,0,2,0,1,69.8,4.4,2,14.9,0,Not Placed,0.0
+STU2255,Information Technology,8.04,81.2,86.4,18,2,1,2,1,64.8,4.5,0,45.1,0,Not Placed,0.0
+STU2256,Computer Science,8.3,81.2,76.2,29,1,0,0,2,75.3,3.2,1,18.6,0,Not Placed,0.0
+STU2257,Information Technology,8.11,86.9,60.2,116,6,1,0,1,72.5,3.1,2,31.8,0,Not Placed,0.0
+STU2258,Computer Science,8.15,90.5,74.3,8,2,1,1,6,76.4,3.4,0,42.6,0,Not Placed,0.0
+STU2259,Information Technology,6.61,81.5,68.2,261,3,0,1,3,67.3,3.5,1,32.4,0,Not Placed,0.0
+STU2260,Computer Science,8.74,98.7,80.3,429,3,1,1,5,77.6,4.5,0,81.1,1,Tier 1 (Product/MNC),35.95
+STU2261,Electrical & Electronics,8.85,84.0,68.1,23,0,2,3,1,73.4,4.3,0,52.0,0,Not Placed,0.0
+STU2262,Computer Science,7.59,78.9,89.3,78,0,3,1,1,59.0,3.9,0,52.3,0,Not Placed,0.0
+STU2263,Information Technology,7.76,67.5,79.1,2,1,0,1,3,68.8,2.5,0,38.6,0,Not Placed,0.0
+STU2264,Computer Science,6.42,79.6,78.2,135,0,0,1,0,54.8,2.3,0,30.4,0,Not Placed,0.0
+STU2265,Computer Science,8.26,79.0,86.6,70,2,1,3,1,59.4,3.7,1,30.0,0,Not Placed,0.0
+STU2266,Information Technology,8.31,90.6,89.6,41,2,1,1,0,65.7,4.1,0,51.2,0,Not Placed,0.0
+STU2267,Information Technology,7.74,86.2,79.8,30,5,1,2,2,67.1,3.4,0,52.1,0,Not Placed,0.0
+STU2268,Electronics & Comm,8.81,71.4,72.3,116,1,2,0,2,72.4,4.8,0,65.4,1,Tier 3 (Service/Mass Recruiter),4.78
+STU2269,Computer Science,7.5,83.6,62.3,71,3,2,2,2,80.8,2.7,0,52.7,1,Tier 3 (Service/Mass Recruiter),6.58
+STU2270,Electronics & Comm,8.31,88.0,73.1,21,1,0,0,1,63.4,2.7,0,35.1,0,Not Placed,0.0
+STU2271,Electrical & Electronics,6.88,95.8,73.8,96,5,0,2,1,68.9,3.0,0,48.0,0,Not Placed,0.0
+STU2272,Electronics & Comm,7.78,90.0,81.1,91,0,1,2,1,70.5,3.0,0,47.0,0,Not Placed,0.0
+STU2273,Computer Science,7.64,88.8,76.5,258,2,1,2,1,59.9,3.9,0,61.7,0,Not Placed,0.0
+STU2274,Information Technology,8.0,82.5,86.9,16,1,1,0,1,70.5,3.2,2,2.9,0,Not Placed,0.0
+STU2275,Computer Science,7.47,85.5,73.9,203,2,0,1,0,81.9,2.4,0,44.4,0,Not Placed,0.0
+STU2276,Computer Science,7.68,93.2,79.4,147,2,1,2,2,71.2,4.1,0,55.2,0,Not Placed,0.0
+STU2277,Civil,8.54,70.0,91.8,10,1,1,0,3,74.3,2.3,3,0.0,0,Not Placed,0.0
+STU2278,Computer Science,7.41,78.9,83.4,156,1,1,2,2,57.8,2.8,1,34.7,0,Not Placed,0.0
+STU2279,Information Technology,6.35,75.0,79.4,76,4,0,2,6,92.1,2.4,0,42.3,0,Not Placed,0.0
+STU2280,Electronics & Comm,9.37,85.4,74.0,319,4,3,0,2,64.5,3.6,0,87.4,1,Tier 1 (Product/MNC),26.85
+STU2281,Electronics & Comm,9.04,93.1,73.7,16,2,3,2,6,49.3,3.6,1,37.4,0,Not Placed,0.0
+STU2282,Information Technology,6.64,76.6,71.5,135,0,1,0,0,77.5,4.8,0,40.7,0,Not Placed,0.0
+STU2283,Computer Science,8.42,60.5,74.6,63,1,1,2,2,69.2,4.1,1,27.8,0,Not Placed,0.0
+STU2284,Computer Science,7.35,78.3,87.6,414,6,1,2,2,63.3,4.5,0,84.9,1,Tier 1 (Product/MNC),40.28
+STU2285,Information Technology,8.04,90.2,77.8,52,1,0,0,4,62.0,3.7,0,37.9,0,Not Placed,0.0
+STU2286,Computer Science,8.06,86.8,66.5,432,5,1,2,2,95.9,2.8,0,79.6,1,Tier 1 (Product/MNC),29.68
+STU2287,Information Technology,7.59,85.9,97.7,305,1,1,0,1,73.2,3.6,0,53.0,0,Not Placed,0.0
+STU2288,Computer Science,7.09,79.5,83.2,41,5,1,1,1,74.5,3.9,0,49.6,0,Not Placed,0.0
+STU2289,Computer Science,7.18,70.5,65.9,214,3,0,0,6,69.3,4.0,0,55.0,0,Not Placed,0.0
+STU2290,Information Technology,6.98,86.6,75.6,650,1,0,0,3,70.2,3.2,0,57.4,1,Tier 3 (Service/Mass Recruiter),5.07
+STU2291,Computer Science,7.05,74.5,81.1,38,1,0,2,0,86.2,3.8,3,0.0,0,Not Placed,0.0
+STU2292,Information Technology,7.74,99.0,97.0,75,3,2,1,2,65.2,2.8,0,51.0,0,Not Placed,0.0
+STU2293,Electronics & Comm,7.16,87.1,68.9,80,5,2,2,5,46.6,2.8,0,53.4,1,Tier 3 (Service/Mass Recruiter),4.1
+STU2294,Electrical & Electronics,8.41,76.8,89.8,28,2,3,0,1,82.9,2.7,1,32.4,0,Not Placed,0.0
+STU2295,Computer Science,9.14,76.5,94.0,2,1,0,1,2,79.9,3.5,0,42.7,0,Not Placed,0.0
+STU2296,Computer Science,7.28,81.2,73.7,32,0,0,1,0,68.8,2.7,0,37.2,0,Not Placed,0.0
+STU2297,Computer Science,8.02,79.8,77.2,43,2,0,3,3,76.1,3.2,0,49.1,0,Not Placed,0.0
+STU2298,Electronics & Comm,8.25,92.1,69.6,64,6,0,3,1,65.1,4.1,0,59.4,1,Tier 3 (Service/Mass Recruiter),7.66
+STU2299,Electronics & Comm,8.22,83.7,78.0,20,1,1,0,2,70.5,2.8,0,38.9,1,Tier 3 (Service/Mass Recruiter),6.45
+STU2300,Computer Science,7.87,75.4,79.6,272,4,2,3,2,67.3,3.1,2,34.5,0,Not Placed,0.0
+STU2301,Mechanical,8.47,99.0,86.6,100,4,2,1,3,62.6,3.6,0,58.6,1,Tier 3 (Service/Mass Recruiter),5.94
+STU2302,Computer Science,8.23,82.4,90.9,11,1,0,1,3,86.9,3.7,0,39.4,0,Not Placed,0.0
+STU2303,Information Technology,6.69,88.9,72.5,138,1,0,0,1,45.8,3.2,0,31.0,0,Not Placed,0.0
+STU2304,Electronics & Comm,8.58,76.5,60.3,116,1,3,0,1,100.0,4.1,0,70.1,1,Tier 3 (Service/Mass Recruiter),4.94
+STU2305,Electrical & Electronics,8.6,85.3,79.8,258,2,1,1,1,83.6,3.9,1,51.6,0,Not Placed,0.0
+STU2306,Electronics & Comm,7.11,84.8,82.9,0,4,0,0,0,41.9,4.3,0,37.1,1,Tier 3 (Service/Mass Recruiter),6.28
+STU2307,Electrical & Electronics,7.83,65.0,82.5,23,4,1,1,5,65.9,3.4,0,49.6,0,Not Placed,0.0
+STU2308,Computer Science,8.41,99.0,76.7,346,2,1,2,2,68.4,3.1,0,75.0,1,Tier 1 (Product/MNC),27.64
+STU2309,Electrical & Electronics,7.61,93.6,81.2,221,3,1,3,2,73.8,3.0,0,63.3,0,Not Placed,0.0
+STU2310,Computer Science,8.77,78.4,95.2,168,2,1,1,2,57.9,3.7,0,57.7,0,Not Placed,0.0
+STU2311,Mechanical,9.9,72.1,83.8,119,2,3,4,2,75.6,3.2,0,67.3,1,Tier 3 (Service/Mass Recruiter),8.32
+STU2312,Information Technology,7.09,85.1,76.3,12,4,3,0,1,65.1,3.1,0,40.9,1,Tier 3 (Service/Mass Recruiter),7.08
+STU2313,Electrical & Electronics,6.56,82.8,75.0,59,1,0,0,1,54.8,3.2,2,0.0,0,Not Placed,0.0
+STU2314,Information Technology,8.07,85.2,78.3,34,1,1,2,1,57.4,3.0,0,42.6,0,Not Placed,0.0
+STU2315,Electronics & Comm,8.45,83.7,96.4,21,1,3,2,0,83.7,3.6,0,51.7,1,Tier 3 (Service/Mass Recruiter),6.93
+STU2316,Information Technology,7.59,86.6,78.2,219,3,0,2,4,44.5,2.5,0,46.6,0,Not Placed,0.0
+STU2317,Electronics & Comm,9.11,95.0,79.8,15,2,2,1,3,79.5,3.7,0,61.8,1,Tier 3 (Service/Mass Recruiter),7.95
+STU2318,Computer Science,6.6,87.1,75.2,83,6,1,1,2,76.5,4.0,0,54.1,1,Tier 3 (Service/Mass Recruiter),4.18
+STU2319,Computer Science,8.42,72.6,91.0,368,2,1,1,5,67.7,3.1,1,53.1,0,Not Placed,0.0
+STU2320,Computer Science,7.25,94.3,99.0,27,2,1,1,4,68.0,4.8,0,54.8,1,Tier 3 (Service/Mass Recruiter),5.0
+STU2321,Computer Science,9.35,96.8,84.5,503,3,2,0,3,89.8,3.5,0,82.5,1,Tier 1 (Product/MNC),30.31
+STU2322,Electrical & Electronics,9.59,99.0,80.8,426,3,3,3,3,64.4,2.4,3,36.3,0,Not Placed,0.0
+STU2323,Computer Science,7.11,71.9,80.4,107,1,0,0,2,58.4,3.3,0,37.0,0,Not Placed,0.0
+STU2324,Civil,7.31,84.2,56.2,15,2,0,0,1,60.5,3.5,0,37.7,1,Tier 3 (Service/Mass Recruiter),4.35
+STU2325,Computer Science,8.57,63.3,87.5,50,2,2,2,4,87.5,3.8,0,61.3,1,Tier 3 (Service/Mass Recruiter),7.74
+STU2326,Computer Science,7.45,87.0,81.3,72,5,1,2,3,85.9,3.3,0,49.0,1,Tier 3 (Service/Mass Recruiter),4.37
+STU2327,Electrical & Electronics,7.76,77.1,84.3,30,3,2,4,2,49.2,2.8,0,48.5,0,Not Placed,0.0
+STU2328,Electronics & Comm,7.82,99.0,72.9,36,3,2,4,5,83.1,2.7,0,55.2,1,Tier 3 (Service/Mass Recruiter),7.07
+STU2329,Information Technology,6.07,75.0,76.2,473,2,0,2,3,75.2,3.0,0,53.1,0,Not Placed,0.0
+STU2330,Information Technology,7.79,66.8,75.9,21,4,2,1,1,90.6,3.1,0,62.3,1,Tier 3 (Service/Mass Recruiter),6.77
+STU2331,Electronics & Comm,7.18,77.8,90.2,145,0,1,1,1,72.4,2.7,1,28.7,0,Not Placed,0.0
+STU2332,Computer Science,7.36,64.2,76.2,0,1,1,0,3,66.9,3.0,0,38.3,0,Not Placed,0.0
+STU2333,Civil,9.1,88.8,99.0,74,3,1,2,0,88.8,4.0,0,58.8,1,Tier 3 (Service/Mass Recruiter),6.04
+STU2334,Civil,6.67,63.4,84.3,204,2,0,2,4,75.3,4.7,0,56.8,0,Not Placed,0.0
+STU2335,Electronics & Comm,8.53,82.3,67.2,37,2,1,1,1,100.0,4.0,0,60.1,1,Tier 3 (Service/Mass Recruiter),4.67
+STU2336,Computer Science,7.55,63.3,78.7,27,4,1,2,1,81.6,4.4,0,55.4,1,Tier 3 (Service/Mass Recruiter),4.24
+STU2337,Electronics & Comm,7.55,79.1,73.5,116,0,0,0,2,70.3,4.2,0,42.0,0,Not Placed,0.0
+STU2338,Computer Science,8.51,96.8,58.1,164,6,1,1,3,54.6,4.1,0,62.3,1,Tier 2 (Tech Startup/Mid-Corp),10.95
+STU2339,Computer Science,8.11,85.2,96.0,153,1,1,1,2,61.7,3.3,0,51.7,1,Tier 3 (Service/Mass Recruiter),6.02
+STU2340,Computer Science,8.31,74.2,87.0,50,3,1,1,2,50.3,3.6,1,29.2,0,Not Placed,0.0
+STU2341,Information Technology,8.67,81.7,85.3,38,2,0,0,2,68.5,3.2,0,45.8,0,Not Placed,0.0
+STU2342,Electrical & Electronics,7.5,82.2,81.7,257,1,0,1,1,81.0,3.3,3,0.0,0,Not Placed,0.0
+STU2343,Electronics & Comm,7.25,86.3,66.2,282,1,1,2,1,67.2,3.5,1,45.5,1,Tier 3 (Service/Mass Recruiter),5.56
+STU2344,Electronics & Comm,6.82,69.7,75.2,67,1,0,1,3,80.3,4.0,0,36.4,0,Not Placed,0.0
+STU2345,Information Technology,7.06,87.3,88.4,247,2,1,0,0,71.4,3.8,0,56.4,1,Tier 3 (Service/Mass Recruiter),5.9
+STU2346,Computer Science,9.9,57.7,69.5,79,0,2,2,2,69.6,3.4,0,64.1,1,Tier 3 (Service/Mass Recruiter),7.63
+STU2347,Information Technology,8.92,76.3,54.7,72,0,2,0,3,73.5,3.5,0,50.7,1,Tier 3 (Service/Mass Recruiter),5.98
+STU2348,Civil,6.58,77.6,77.7,14,4,0,2,4,71.9,3.8,0,43.7,0,Not Placed,0.0
+STU2349,Computer Science,6.61,87.7,78.6,73,3,0,2,5,67.3,4.0,0,45.4,0,Not Placed,0.0
+STU2350,Electrical & Electronics,8.23,82.2,81.4,63,2,1,0,0,72.3,2.4,0,45.3,0,Not Placed,0.0
+STU2351,Information Technology,8.29,69.3,87.3,3,0,3,1,2,59.6,2.7,0,52.2,1,Tier 3 (Service/Mass Recruiter),5.03
+STU2352,Information Technology,8.29,73.1,86.4,77,2,3,2,2,64.3,4.3,2,24.5,0,Not Placed,0.0
+STU2353,Electronics & Comm,7.57,83.8,82.6,167,0,2,2,1,99.8,3.5,0,65.7,1,Tier 2 (Tech Startup/Mid-Corp),14.59
+STU2354,Information Technology,7.69,81.3,92.0,150,6,2,1,0,85.8,3.2,0,70.4,1,Tier 2 (Tech Startup/Mid-Corp),10.99
+STU2355,Electrical & Electronics,8.1,76.8,64.8,83,4,1,2,1,49.2,3.3,0,52.8,1,Tier 3 (Service/Mass Recruiter),5.36
+STU2356,Mechanical,7.88,77.7,85.0,198,1,1,4,3,36.0,3.3,1,41.0,1,Tier 3 (Service/Mass Recruiter),6.8
+STU2357,Information Technology,5.8,88.3,86.3,2,3,0,0,1,64.0,3.9,0,27.0,0,Not Placed,0.0
+STU2358,Computer Science,7.59,77.3,67.6,107,5,1,1,2,80.8,2.7,1,34.6,1,Tier 3 (Service/Mass Recruiter),7.23
+STU2359,Information Technology,7.03,81.2,65.0,204,5,1,2,0,59.3,3.5,1,42.0,0,Not Placed,0.0
+STU2360,Mechanical,7.96,99.0,72.5,64,3,1,2,2,83.7,3.7,1,32.1,0,Not Placed,0.0
+STU2361,Computer Science,9.9,69.2,73.4,51,3,0,2,4,76.0,3.8,0,55.1,0,Not Placed,0.0
+STU2362,Electronics & Comm,8.13,65.3,87.5,16,1,1,0,1,67.6,3.7,0,44.8,1,Tier 3 (Service/Mass Recruiter),7.38
+STU2363,Electronics & Comm,7.52,89.1,73.9,240,2,2,0,2,78.6,3.9,0,62.9,1,Tier 2 (Tech Startup/Mid-Corp),9.22
+STU2364,Electronics & Comm,8.63,75.9,71.4,69,2,2,1,2,63.9,3.1,0,58.3,0,Not Placed,0.0
+STU2365,Computer Science,8.23,79.1,73.9,277,5,2,1,1,66.2,2.8,0,72.9,0,Not Placed,0.0
+STU2366,Electronics & Comm,8.18,75.0,91.2,96,1,1,2,4,79.4,5.0,0,64.7,1,Tier 3 (Service/Mass Recruiter),6.08
+STU2367,Mechanical,8.35,79.7,80.1,92,2,2,1,1,70.1,3.3,0,59.3,1,Tier 3 (Service/Mass Recruiter),4.84
+STU2368,Computer Science,9.65,96.4,78.2,215,1,1,1,1,100.0,3.4,0,75.4,1,Tier 2 (Tech Startup/Mid-Corp),18.37
+STU2369,Computer Science,6.78,89.2,78.9,142,1,0,4,1,75.6,4.0,0,51.4,0,Not Placed,0.0
+STU2370,Civil,8.23,89.8,92.9,41,3,1,1,3,79.0,4.6,0,56.2,1,Tier 3 (Service/Mass Recruiter),5.18
+STU2371,Computer Science,6.97,69.3,72.5,95,1,0,0,3,65.7,3.1,1,23.1,0,Not Placed,0.0
+STU2372,Electrical & Electronics,8.3,71.6,93.2,134,4,3,1,3,82.6,2.8,0,66.3,0,Not Placed,0.0
+STU2373,Information Technology,6.97,56.4,82.1,61,2,0,1,4,61.9,2.6,0,37.0,0,Not Placed,0.0
+STU2374,Computer Science,7.42,74.7,78.4,64,3,0,1,2,71.7,4.6,0,47.9,0,Not Placed,0.0
+STU2375,Electrical & Electronics,7.53,90.6,99.0,8,2,0,1,3,55.3,2.8,4,0.0,0,Not Placed,0.0
+STU2376,Information Technology,8.68,86.7,69.4,324,3,2,0,0,86.1,3.5,1,58.8,1,Tier 3 (Service/Mass Recruiter),5.3
+STU2377,Information Technology,8.63,80.0,76.5,12,0,0,2,2,75.4,2.8,0,37.9,0,Not Placed,0.0
+STU2378,Information Technology,6.68,81.8,67.7,137,2,0,0,1,93.3,2.5,0,48.7,1,Tier 3 (Service/Mass Recruiter),6.72
+STU2379,Information Technology,7.85,75.8,89.5,70,3,2,1,1,100.0,3.3,0,67.1,0,Not Placed,0.0
+STU2380,Computer Science,7.16,83.8,96.9,68,3,1,2,0,77.7,2.8,0,45.2,0,Not Placed,0.0
+STU2381,Information Technology,6.67,88.9,96.7,150,3,0,1,1,66.5,3.0,1,24.4,0,Not Placed,0.0
+STU2382,Civil,7.6,67.5,92.2,5,2,3,3,2,55.1,4.9,0,56.0,1,Tier 3 (Service/Mass Recruiter),7.34
+STU2383,Computer Science,7.52,84.7,78.0,118,2,1,1,4,80.7,3.8,0,55.4,1,Tier 3 (Service/Mass Recruiter),6.44
+STU2384,Electronics & Comm,9.9,90.4,76.3,162,4,3,2,5,78.1,4.2,0,79.0,1,Tier 2 (Tech Startup/Mid-Corp),11.95
+STU2385,Computer Science,8.19,78.3,63.3,232,3,0,1,1,77.6,4.1,1,48.6,1,Tier 3 (Service/Mass Recruiter),6.03
+STU2386,Electronics & Comm,6.56,88.3,99.0,20,2,0,3,2,89.4,3.4,0,39.7,0,Not Placed,0.0
+STU2387,Computer Science,7.29,99.0,84.7,300,5,1,2,2,55.8,3.2,1,51.3,0,Not Placed,0.0
+STU2388,Civil,8.72,81.1,75.1,88,3,0,3,2,58.7,3.7,0,55.7,1,Tier 3 (Service/Mass Recruiter),7.3
+STU2389,Information Technology,9.68,85.5,93.3,281,2,3,1,0,71.2,3.6,0,78.4,1,Tier 1 (Product/MNC),37.05
+STU2390,Computer Science,6.37,75.4,70.3,87,3,0,1,3,76.1,3.1,0,41.8,0,Not Placed,0.0
+STU2391,Computer Science,6.11,83.6,84.1,103,2,0,4,2,71.6,3.6,0,49.1,0,Not Placed,0.0
+STU2392,Computer Science,9.48,86.1,78.3,331,1,1,0,1,61.4,3.0,2,33.0,0,Not Placed,0.0
+STU2393,Information Technology,8.15,83.8,86.4,303,1,2,1,4,80.5,3.4,1,54.2,1,Tier 3 (Service/Mass Recruiter),4.88
+STU2394,Computer Science,7.02,72.8,79.4,78,3,0,1,0,49.7,3.3,0,40.3,0,Not Placed,0.0
+STU2395,Electrical & Electronics,8.28,83.9,65.5,26,2,2,2,4,58.6,2.6,0,49.2,0,Not Placed,0.0
+STU2396,Information Technology,5.43,95.2,80.8,65,3,0,0,4,60.2,1.9,0,29.7,0,Not Placed,0.0
+STU2397,Computer Science,7.8,86.0,90.5,64,4,1,1,1,61.2,2.8,0,47.0,1,Tier 3 (Service/Mass Recruiter),4.87
+STU2398,Electronics & Comm,8.1,90.7,79.7,37,3,1,1,1,82.2,4.8,0,60.1,0,Not Placed,0.0
+STU2399,Electronics & Comm,8.63,79.9,87.8,34,1,1,2,1,75.4,3.3,0,52.7,0,Not Placed,0.0
+STU2400,Computer Science,6.89,88.7,69.5,260,2,2,3,4,90.9,4.0,1,48.5,0,Not Placed,0.0
+STU2401,Computer Science,7.88,84.5,79.7,9,2,1,0,0,65.7,2.0,0,45.4,0,Not Placed,0.0
+STU2402,Computer Science,6.97,73.4,73.8,149,1,0,0,2,64.7,2.8,0,40.3,0,Not Placed,0.0
+STU2403,Electronics & Comm,8.03,84.9,87.5,20,4,2,1,2,86.5,2.6,1,32.9,0,Not Placed,0.0
+STU2404,Electronics & Comm,6.99,73.1,80.3,46,2,1,2,2,65.2,3.4,0,48.1,0,Not Placed,0.0
+STU2405,Information Technology,7.43,76.3,86.9,8,2,1,0,4,88.7,5.0,0,48.9,0,Not Placed,0.0
+STU2406,Electrical & Electronics,6.9,83.7,90.9,25,2,0,1,4,73.8,3.8,0,30.7,0,Not Placed,0.0
+STU2407,Electrical & Electronics,8.39,84.7,86.9,120,1,2,1,4,37.7,4.7,0,53.7,1,Tier 3 (Service/Mass Recruiter),7.32
+STU2408,Information Technology,8.57,71.3,82.7,285,2,0,0,2,87.7,3.3,1,47.8,0,Not Placed,0.0
+STU2409,Electrical & Electronics,7.59,91.5,70.0,20,3,0,1,4,81.0,4.5,1,18.9,0,Not Placed,0.0
+STU2410,Computer Science,7.83,87.1,80.0,82,2,1,2,3,82.3,5.0,0,57.3,1,Tier 3 (Service/Mass Recruiter),6.02
+STU2411,Computer Science,6.5,75.7,74.7,83,1,0,3,2,38.2,3.4,0,35.8,0,Not Placed,0.0
+STU2412,Computer Science,7.53,68.2,76.6,272,0,1,1,4,58.8,3.1,0,50.9,0,Not Placed,0.0
+STU2413,Computer Science,7.75,80.7,76.3,189,3,1,2,2,60.5,2.6,0,58.9,1,Tier 3 (Service/Mass Recruiter),6.56
+STU2414,Information Technology,9.9,78.0,70.2,94,3,3,2,2,63.4,3.3,1,49.0,0,Not Placed,0.0
+STU2415,Mechanical,6.8,83.0,60.4,91,3,0,2,1,90.3,3.6,3,0.0,0,Not Placed,0.0
+STU2416,Computer Science,9.12,78.7,73.3,248,2,1,3,2,72.7,4.9,0,79.8,1,Tier 2 (Tech Startup/Mid-Corp),13.03
+STU2417,Computer Science,8.7,63.9,81.9,1,5,2,0,0,71.1,2.6,1,38.8,0,Not Placed,0.0
+STU2418,Information Technology,8.05,78.5,66.5,68,4,1,3,2,77.4,3.5,0,57.3,0,Not Placed,0.0
+STU2419,Mechanical,9.38,79.2,80.2,196,4,2,2,1,81.6,2.2,0,71.4,1,Tier 2 (Tech Startup/Mid-Corp),14.62
+STU2420,Computer Science,8.13,87.7,99.0,177,1,0,2,1,30.0,3.2,0,49.8,0,Not Placed,0.0
+STU2421,Information Technology,8.15,75.7,90.2,103,4,1,4,3,60.9,3.7,1,40.7,0,Not Placed,0.0
+STU2422,Computer Science,7.75,97.1,96.4,99,1,0,2,3,49.0,3.9,0,35.8,0,Not Placed,0.0
+STU2423,Computer Science,8.9,64.8,83.9,56,3,2,0,2,77.8,3.9,2,26.2,0,Not Placed,0.0
+STU2424,Civil,8.79,93.8,91.7,60,3,2,1,3,67.8,3.8,0,56.7,0,Not Placed,0.0
+STU2425,Civil,7.24,80.0,72.8,87,3,2,1,2,67.4,3.9,0,52.9,0,Not Placed,0.0
+STU2426,Computer Science,6.61,89.7,73.6,71,1,0,0,2,36.2,3.5,0,35.3,0,Not Placed,0.0
+STU2427,Civil,7.62,82.7,52.6,103,4,1,5,1,64.0,2.8,1,36.5,0,Not Placed,0.0
+STU2428,Electronics & Comm,7.08,92.3,91.9,217,6,1,2,2,82.4,2.2,0,62.3,1,Tier 2 (Tech Startup/Mid-Corp),15.41
+STU2429,Electrical & Electronics,7.74,78.5,95.4,13,4,2,2,0,88.5,3.1,1,37.5,0,Not Placed,0.0
+STU2430,Information Technology,8.91,72.1,74.5,79,0,2,0,1,82.3,3.4,0,57.0,0,Not Placed,0.0
+STU2431,Information Technology,7.39,94.8,77.5,69,2,0,5,2,49.0,4.4,0,44.6,0,Not Placed,0.0
+STU2432,Information Technology,7.76,81.0,72.5,153,1,2,3,1,86.4,3.4,1,44.8,0,Not Placed,0.0
+STU2433,Electronics & Comm,7.85,84.0,83.8,31,1,0,4,1,79.2,3.4,0,46.0,0,Not Placed,0.0
+STU2434,Computer Science,8.56,93.1,91.2,134,3,0,0,3,69.6,3.8,1,36.9,0,Not Placed,0.0
+STU2435,Computer Science,5.78,72.7,62.6,277,2,0,2,3,34.5,3.3,0,46.9,0,Not Placed,0.0
+STU2436,Computer Science,7.25,87.4,84.1,71,4,1,0,3,80.6,4.1,0,61.9,1,Tier 3 (Service/Mass Recruiter),5.16
+STU2437,Electronics & Comm,7.99,76.7,77.2,266,2,0,0,2,61.2,4.9,0,55.4,1,Tier 3 (Service/Mass Recruiter),6.56
+STU2438,Computer Science,8.88,80.8,81.1,650,1,1,1,4,77.0,5.0,2,49.3,1,Tier 1 (Product/MNC),28.75
+STU2439,Electronics & Comm,7.36,82.7,84.6,12,3,1,1,2,68.5,3.6,0,49.0,1,Tier 3 (Service/Mass Recruiter),4.53
+STU2440,Civil,6.11,68.5,78.1,21,2,0,2,2,85.4,3.7,0,38.8,0,Not Placed,0.0
+STU2441,Computer Science,8.36,75.0,79.0,396,5,1,1,1,68.8,4.6,0,82.4,1,Tier 1 (Product/MNC),41.05
+STU2442,Electronics & Comm,7.23,94.2,77.9,349,1,0,2,1,67.0,3.4,0,67.9,0,Not Placed,0.0
+STU2443,Information Technology,6.73,90.0,89.7,13,4,0,0,1,87.8,4.0,0,32.2,0,Not Placed,0.0
+STU2444,Electrical & Electronics,7.24,81.4,84.2,1,4,1,1,1,58.0,2.7,0,38.7,0,Not Placed,0.0
+STU2445,Computer Science,7.63,84.2,82.2,23,0,1,1,1,79.8,3.3,1,27.7,0,Not Placed,0.0
+STU2446,Electronics & Comm,7.26,79.4,67.3,607,2,0,1,3,64.5,4.3,1,47.9,0,Not Placed,0.0
+STU2447,Electrical & Electronics,5.81,94.2,76.2,16,4,0,1,2,48.9,3.0,0,36.6,0,Not Placed,0.0
+STU2448,Mechanical,8.61,80.2,89.0,57,0,2,3,0,71.3,3.4,1,31.6,1,Tier 3 (Service/Mass Recruiter),7.34
+STU2449,Electronics & Comm,8.95,84.1,80.4,207,1,1,3,2,82.0,2.4,0,60.9,1,Tier 2 (Tech Startup/Mid-Corp),15.18
+STU2450,Information Technology,8.39,92.3,86.6,2,1,2,2,1,89.6,4.9,0,54.9,1,Tier 3 (Service/Mass Recruiter),5.06
+STU2451,Electronics & Comm,6.78,75.0,97.7,102,3,0,0,2,86.5,4.4,1,30.2,0,Not Placed,0.0
+STU2452,Electrical & Electronics,7.62,96.0,90.4,26,1,2,5,2,64.2,3.6,1,32.5,0,Not Placed,0.0
+STU2453,Information Technology,7.79,68.2,80.9,261,1,0,0,4,55.1,3.9,0,51.3,1,Tier 3 (Service/Mass Recruiter),5.09
+STU2454,Computer Science,8.34,96.7,74.9,43,3,0,0,5,66.1,3.8,1,33.1,0,Not Placed,0.0
+STU2455,Mechanical,8.4,78.6,54.5,95,3,2,0,1,54.2,4.5,0,64.5,1,Tier 3 (Service/Mass Recruiter),7.48
+STU2456,Electronics & Comm,7.14,79.8,78.3,123,7,2,0,0,63.9,3.1,1,35.4,0,Not Placed,0.0
+STU2457,Electronics & Comm,7.87,65.0,76.7,27,2,1,3,1,64.3,4.0,0,43.1,1,Tier 3 (Service/Mass Recruiter),5.27
+STU2458,Computer Science,8.21,77.9,83.9,4,2,1,3,4,80.3,4.3,1,26.2,0,Not Placed,0.0
+STU2459,Electronics & Comm,9.11,72.6,78.5,57,2,2,0,2,41.9,4.4,0,55.8,1,Tier 3 (Service/Mass Recruiter),7.46
+STU2460,Information Technology,8.43,76.5,76.8,45,3,1,2,1,60.5,1.9,0,51.4,1,Tier 3 (Service/Mass Recruiter),5.49
+STU2461,Electronics & Comm,8.51,80.8,62.2,182,7,2,1,1,60.9,3.1,0,66.0,1,Tier 2 (Tech Startup/Mid-Corp),16.83
+STU2462,Computer Science,7.88,90.6,70.6,212,3,0,1,4,85.7,2.8,0,57.8,1,Tier 3 (Service/Mass Recruiter),7.28
+STU2463,Electronics & Comm,9.07,83.9,84.8,67,2,1,1,2,57.1,3.6,0,50.0,0,Not Placed,0.0
+STU2464,Civil,8.17,84.8,97.2,76,2,1,1,1,73.2,2.1,2,14.8,0,Not Placed,0.0
+STU2465,Computer Science,7.03,72.1,79.0,122,1,1,1,2,64.8,2.1,1,31.1,0,Not Placed,0.0
+STU2466,Civil,9.06,74.1,83.3,144,2,0,1,2,87.3,5.0,0,53.5,0,Not Placed,0.0
+STU2467,Information Technology,8.43,98.2,89.5,73,2,1,0,5,79.1,3.9,1,34.4,0,Not Placed,0.0
+STU2468,Electrical & Electronics,7.4,75.4,71.9,26,1,0,1,3,69.4,3.6,0,33.0,0,Not Placed,0.0
+STU2469,Electrical & Electronics,7.37,96.9,83.7,25,3,1,0,4,59.8,3.8,0,36.7,0,Not Placed,0.0
+STU2470,Information Technology,8.07,79.8,72.6,101,1,1,0,1,43.8,3.6,2,4.3,0,Not Placed,0.0
+STU2471,Electronics & Comm,8.22,82.0,88.6,65,0,2,2,2,73.6,4.2,0,56.2,1,Tier 3 (Service/Mass Recruiter),4.63
+STU2472,Electrical & Electronics,7.98,91.6,81.5,47,2,1,0,2,76.9,3.1,1,29.7,0,Not Placed,0.0
+STU2473,Information Technology,8.08,93.4,83.0,12,6,0,1,0,47.7,3.6,1,34.8,0,Not Placed,0.0
+STU2474,Computer Science,9.33,81.0,72.2,167,2,1,3,1,56.2,3.7,0,65.6,1,Tier 2 (Tech Startup/Mid-Corp),16.46
+STU2475,Electronics & Comm,8.76,78.5,87.1,26,1,1,3,0,75.3,2.8,0,43.7,0,Not Placed,0.0
+STU2476,Electrical & Electronics,7.97,81.5,99.0,18,1,2,2,3,74.2,4.4,0,51.7,1,Tier 3 (Service/Mass Recruiter),4.93
+STU2477,Electronics & Comm,8.65,85.0,69.9,58,3,1,1,3,57.6,3.2,3,0.0,0,Not Placed,0.0
+STU2478,Electrical & Electronics,6.87,90.0,76.6,21,1,1,3,1,58.1,4.2,0,37.0,1,Tier 3 (Service/Mass Recruiter),4.64
+STU2479,Information Technology,8.16,82.0,82.3,115,2,1,0,0,44.3,3.6,0,50.8,0,Not Placed,0.0
+STU2480,Electrical & Electronics,9.43,87.6,87.9,38,1,2,0,1,93.1,4.6,0,62.0,1,Tier 3 (Service/Mass Recruiter),6.44
+STU2481,Computer Science,7.6,96.7,74.4,78,3,0,3,2,50.1,2.8,0,47.3,0,Not Placed,0.0
+STU2482,Information Technology,7.04,85.4,51.7,101,2,1,3,1,74.2,2.7,1,30.3,0,Not Placed,0.0
+STU2483,Computer Science,7.21,84.8,93.6,30,4,1,3,0,66.6,2.9,0,51.4,1,Tier 3 (Service/Mass Recruiter),5.93
+STU2484,Computer Science,6.82,68.3,87.6,22,3,1,5,2,84.0,3.6,4,0.0,0,Not Placed,0.0
+STU2485,Information Technology,7.09,58.3,62.6,280,2,0,2,5,55.7,4.6,0,63.2,0,Not Placed,0.0
+STU2486,Information Technology,7.47,85.5,73.9,75,4,1,0,0,68.8,4.6,0,53.9,0,Not Placed,0.0
+STU2487,Electronics & Comm,6.53,81.1,95.7,58,2,1,2,2,41.3,1.9,0,34.3,0,Not Placed,0.0
+STU2488,Information Technology,7.81,77.4,94.5,4,3,0,0,3,41.8,3.7,3,0.0,0,Not Placed,0.0
+STU2489,Information Technology,8.61,84.2,89.4,90,4,1,3,2,79.7,1.3,0,57.7,1,Tier 3 (Service/Mass Recruiter),5.69
+STU2490,Computer Science,6.98,81.5,78.2,106,4,0,0,2,41.5,4.1,0,48.8,0,Not Placed,0.0
+STU2491,Information Technology,9.17,92.2,80.8,108,2,2,1,2,69.8,4.3,0,65.8,1,Tier 3 (Service/Mass Recruiter),6.71
+STU2492,Computer Science,8.26,82.8,78.7,162,4,1,0,2,84.4,3.5,0,62.6,1,Tier 2 (Tech Startup/Mid-Corp),10.38
+STU2493,Computer Science,8.73,75.3,91.3,25,1,2,0,3,82.1,3.6,0,51.6,1,Tier 3 (Service/Mass Recruiter),4.76
+STU2494,Electronics & Comm,7.21,90.9,71.2,31,3,0,0,1,57.8,3.6,0,40.4,1,Tier 3 (Service/Mass Recruiter),5.91
+STU2495,Electronics & Comm,8.57,80.0,71.9,183,7,2,0,6,49.0,3.0,0,66.8,1,Tier 2 (Tech Startup/Mid-Corp),13.52
+STU2496,Electronics & Comm,6.82,86.7,90.1,323,1,1,1,2,73.1,3.8,0,60.8,0,Not Placed,0.0
+STU2497,Information Technology,8.6,77.7,79.6,19,1,1,2,4,90.1,3.3,1,28.6,1,Tier 3 (Service/Mass Recruiter),6.85
+STU2498,Information Technology,7.95,76.2,93.8,90,2,1,4,1,60.1,4.2,0,52.9,1,Tier 3 (Service/Mass Recruiter),6.46
+STU2499,Electrical & Electronics,8.3,82.8,73.3,19,0,0,2,2,59.1,3.4,0,37.9,0,Not Placed,0.0

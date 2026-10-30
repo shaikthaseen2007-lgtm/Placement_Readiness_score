@@ -1,0 +1,9 @@
+.venv/
+node_modules/
+frontend/dist/
+frontend/.env
+backend/.env
+backend/placement_readiness.db
+__pycache__/
+*.py[cod]
+.venv-linux/
